@@ -39,7 +39,7 @@ python app.py
 ```
 
 ## Troubleshooting
-
+77z
 If you see "ModuleNotFoundError", make sure:
 1. Your virtual environment is activated (you should see `(venv)` in your terminal)
 2. You've installed all requirements (`pip install -r requirements.txt`)

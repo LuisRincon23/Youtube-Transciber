@@ -1,0 +1,30 @@
+youtube-transcriber/
+├── .env.example              # Template for environment variables
+├── src/
+│   ├── __init__.py
+│   ├── video_processor/
+│   │   ├── __init__.py
+│   │   └── youtube.py        # YouTube URL processing and validation
+│   ├── transcriber/
+│   │   ├── __init__.py
+│   │   └── transcript.py     # Transcript fetching and processing
+│   ├── note_generator/
+│   │   ├── __init__.py
+│   │   └── generator.py      # Note generation and formatting
+│   └── utils/
+│       ├── __init__.py
+│       └── helpers.py        # Common utility functions
+├── data/
+│   ├── transcripts/          # Raw transcription storage
+│   │   └── .gitkeep
+│   └── notes/                # Processed notes storage
+│       └── .gitkeep
+├── tests/
+│   ├── __init__.py
+│   ├── test_video_processor.py
+│   ├── test_transcriber.py
+│   └── test_note_generator.py
+├── requirements.txt          # Project dependencies
+├── README.md                # Project documentation
+├── setup.py                 # Package configuration
+└── main.py                  # Main entry point 
