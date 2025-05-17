@@ -1,0 +1,1234 @@
+[00:05] all right folks welcome back
+[00:08] this is going to be episode 24
+[00:10] of the continuing series of the free ict
+[00:13] mentorship
+[00:14] on youtube for 2022.
+[00:17] all right so i want to kind of like sit
+[00:19] you down for a minute get your attention
+[00:22] because if you don't have the proper
+[00:23] mindset for this one this could be taken
+[00:25] out of context
+[00:27] and viewed in the light that is not
+[00:29] really my aim
+[00:30] okay
+[00:31] so i want you to think about
+[00:33] why are you even watching these videos
+[00:36] are you trying to learn
+[00:38] are you just entertaining yourself or
+[00:40] are you here
+[00:41] to try to be disruptive because if
+[00:43] you're trying to be disruptive
+[00:45] i don't have any time for that so i want
+[00:47] you to understand what i'm going to show
+[00:49] in this video this is not going to be
+[00:51] a repeating theme i just want to let the
+[00:54] foundation be laid here
+[00:56] if i see any comments that are
+[01:00] either disrespectful
+[01:02] or just
+[01:03] meant to stir up
+[01:05] chaos and and create a ruckus
+[01:08] i'm just gonna
+[01:09] ban you from the town and your post
+[01:10] won't appear okay
+[01:12] the comment section is open
+[01:15] you guys said i don't open the comments
+[01:17] up i've been opening them up all the
+[01:19] mentorship videos are open okay
+[01:21] i use your comments to
+[01:23] steer the future direction of the
+[01:26] lessons
+[01:27] i try to incorporate things that you may
+[01:29] have asked or shown a concern about
+[01:32] respectfully
+[01:34] if this is not for you
+[01:36] then obviously you can go watch tom dick
+[01:38] and harry go play in market replay okay
+[01:40] that's fine but here
+[01:42] i'm teaching you things that actually
+[01:44] work in the live markets i'm not
+[01:46] pulling some strings that to make you
+[01:48] feel like you you're learning something
+[01:50] that is a gimmick this is real market
+[01:53] delivery those of you that are really
+[01:55] sincere about learning obviously you
+[01:57] have a lot of work ahead of you
+[01:59] and we are in the development stages
+[02:02] early on in this mentorship so that
+[02:05] means you have to understand that this
+[02:06] is the
+[02:07] discovery
+[02:09] where you see this pattern you're
+[02:10] supposed to be going back through the
+[02:12] data in your old charts
+[02:15] not trading
+[02:16] not even demo trading
+[02:18] okay
+[02:19] you're looking for this pattern through
+[02:22] back testing
+[02:23] now some of you have asked to do a back
+[02:26] testing
+[02:27] episode i will do
+[02:29] a back testing episode okay
+[02:32] but
+[02:33] i want you to understand you have to
+[02:34] have the proper mindset here you have to
+[02:36] be responsible
+[02:38] you have to be
+[02:39] attentive and you have to listen
+[02:41] so the things i'm teaching the things
+[02:43] i'm saying suggesting to you
+[02:47] you have to make them
+[02:49] applicable to your own journey you can't
+[02:52] just watch and think okay i've seen him
+[02:54] do this
+[02:55] a few times in a video i understand it
+[02:56] so i'm gonna go out there and try to do
+[02:58] it
+[03:00] so i i want you to understand in light
+[03:02] of that
+[03:04] idea or
+[03:07] direction that some of you want to take
+[03:10] just know that that's not the proper way
+[03:11] of doing it okay
+[03:14] so some of you are unaware that this is
+[03:16] the other part of
+[03:18] the ict experience so when i'm
+[03:22] communicating to community here
+[03:24] not only am i doing it in the
+[03:27] comment section
+[03:28] very very rarely
+[03:31] but i also talk
+[03:32] on the community posts and if you go on
+[03:34] the youtube go to my youtube channel
+[03:36] and
+[03:37] click on this little area right here
+[03:39] you'll see it it's kind of like my
+[03:41] twitter
+[03:42] like my
+[03:43] update area sometimes i'll prompt you to
+[03:45] look at certain charts
+[03:47] or i'll
+[03:48] encourage you
+[03:50] give you ideas to think about you know
+[03:52] where you are in your journey
+[03:54] and sometimes i'll share a youtube
+[03:56] channel for a specific video
+[04:00] it's not meant for you to be able to
+[04:02] talk to me here
+[04:04] but you can obviously say anything you
+[04:05] want in the comment section just know
+[04:07] that if it's something that's
+[04:08] disrespectful you can say whatever you
+[04:10] want on your last post
+[04:12] okay because i'll just make you
+[04:13] invisible you won't be here anymore and
+[04:15] you can keep creating accounts and i
+[04:17] don't care it just takes one little
+[04:18] click of a button for me you got to go
+[04:20] through the whole overcoming row of
+[04:21] email addresses and all that business
+[04:23] and you know
+[04:25] i don't get tired of clicking hitting
+[04:27] ban i don't get tired of doing it it's
+[04:29] really easy in fact it's fun
+[04:31] but this area here
+[04:35] is the other segment of the mentorship
+[04:37] so
+[04:39] with that in mind
+[04:41] i made this post a little while ago
+[04:44] and today's date is may 5th 2022 and i
+[04:47] know some of you try to remind me to
+[04:49] make
+[04:50] these posts with the date
+[04:53] and i just don't i don't remember it so
+[04:55] i'm used to doing twitter and twitter
+[04:57] used to do a time and date stamp all the
+[04:59] time
+[05:01] it's just i'm a
+[05:03] creature of habit like anybody else i
+[05:05] don't really think about it when i'm
+[05:06] doing it
+[05:07] but i made this post this morning
+[05:09] i said good morning constant reader
+[05:12] i know right that fomc was pretty neat
+[05:15] huh
+[05:15] now try this one
+[05:17] open your nasdaq 15-minute chart and
+[05:20] e-mini s p 15-minute charts
+[05:23] drop a horizontal line across those
+[05:24] smooth criminal highs in both index i'll
+[05:27] explain what that is in a moment
+[05:30] see how we dropped into a discount
+[05:31] overnight study how they treat those
+[05:33] relative equal highs today and
+[05:36] non-farm payroll friday
+[05:38] as you were so i'm encouraging all of
+[05:40] you to open up your charts and interact
+[05:43] okay because some of you just want to
+[05:44] watch my videos and that's it and think
+[05:47] it's going to translate from just
+[05:48] watching and then now you know how to do
+[05:50] it no you got to get in and study it
+[05:54] so i prompted everyone to look at their
+[05:56] chart this is kind of like what i was
+[05:57] drawing your attention to now as one
+[05:59] caveat here that little blue arrow
+[06:02] that is me drawing the specific so that
+[06:05] way we know what we're talking about
+[06:07] here where my
+[06:08] attention was
+[06:10] really drawn in on this
+[06:12] i'm watching this i got that little
+[06:14] bubble there that little gap right there
+[06:18] i'm watching and i'm waiting for that to
+[06:19] drop down
+[06:21] at 9 30. that's that little
+[06:23] judas swing okay i'm waiting for that
+[06:25] judas swing to happen where it drops
+[06:26] down at 9 30. if it goes into that area
+[06:29] there and then it creates displacement
+[06:33] then it looks for a fair value guy and
+[06:35] if it trades back down into a fair value
+[06:36] gap inside that displacement
+[06:39] then i can go long and i'll look for a
+[06:41] run into that 4303 okay
+[06:45] i did not
+[06:47] tell my mentorship
+[06:49] last night that i wanted to do this very
+[06:51] thing here
+[06:53] but
+[06:54] if i was going to tell my mentorship
+[06:56] anything
+[06:57] this is what i would have said
+[06:59] okay i would like to see it drop down
+[07:01] into that area and then create the model
+[07:04] that i'm teaching here on the youtube
+[07:06] channel
+[07:07] now
+[07:09] read what it says here it says you are
+[07:12] studying
+[07:13] this
+[07:14] and i am watching
+[07:16] this
+[07:18] okay
+[07:20] pray tell does this
+[07:22] in any manner whatsoever
+[07:25] suggest
+[07:26] in any
+[07:28] manner at all
+[07:29] that any of you should be buying or
+[07:31] selling this
+[07:32] no it doesn't
+[07:38] for years i've been asked to do live
+[07:40] sessions i've been asked to trade live
+[07:43] in front of people
+[07:44] okay
+[07:46] the number one reason why i have
+[07:48] refrained from doing it
+[07:50] is what we're going to talk about next
+[07:52] because
+[07:55] responsibility is lacking
+[07:58] predominantly across
+[08:02] all countries
+[08:03] all age
+[08:06] and demographics it's simply something
+[08:08] that most people in trading lack okay
+[08:13] now it's going to be very easy for me to
+[08:15] sit in front of a chart and say this is
+[08:17] what i think is going to happen i think
+[08:19] it might go up to this level or go down
+[08:20] to that level
+[08:21] that is not a trade idea that's just
+[08:23] bias it's logic
+[08:25] that's the extent
+[08:27] that's the extent of what i'm gonna do
+[08:29] in the live sessions
+[08:31] the reason why i already said that in
+[08:33] the beginning and i didn't change gears
+[08:35] because of what i'm gonna talk about
+[08:36] tonight but this is important
+[08:38] okay mindset is absolutely crucial if
+[08:41] you young guys and gals in here are
+[08:43] already bored
+[08:44] do yourself a favor
+[08:46] turn
+[08:47] this video off don't ever watch another
+[08:50] video by me
+[08:51] because you're going to cheat yourself
+[08:53] from the absolute best prevention
+[08:57] of ruin
+[08:59] if you continuously try to just watch my
+[09:01] videos
+[09:02] pay
+[09:03] intermittent attention
+[09:05] and then think you're going to glean any
+[09:07] real understanding because this is
+[09:09] highly technical i have simplified it
+[09:12] and you're going to see
+[09:14] two very simplified approaches to what
+[09:16] i'm trying to teach so that way i can
+[09:17] get right to the point but
+[09:19] these are the parts
+[09:21] that cause people that don't want to
+[09:23] listen
+[09:24] they don't want to pay the attention to
+[09:26] the things i'm teaching you
+[09:28] these are the parts that will hurt you
+[09:30] if you don't understand it
+[09:32] do you want to succeed
+[09:35] because to succeed you need this part
+[09:38] not the little patterns not the little
+[09:40] things i can draw on a chart that stuff
+[09:43] that's the smallest part of it
+[09:46] how you think about yourself what you
+[09:48] think you're capable of doing
+[09:51] and the management and observation and
+[09:53] respect of risk
+[09:56] is going to determine what your success
+[09:58] is going to be
+[09:59] i wish i could grab you by your lapels
+[10:02] and just shake you and say listen this
+[10:04] is the part you need to learn
+[10:06] it's not full of lamborghinis
+[10:09] it's not full of patek philippe
+[10:11] watches and flossing in front of
+[10:13] everybody
+[10:16] i talk to you this way because i
+[10:19] genuinely care about your success
+[10:22] that's all that's all i want you to be
+[10:24] able to do is take this information the
+[10:26] logic
+[10:27] and do well with it
+[10:30] i'm not trying to bore you or burn
+[10:32] through minutes just for the sake of
+[10:33] hearing myself talk i want you to
+[10:35] understand
+[10:38] and some of you simply don't want to
+[10:40] listen
+[10:46] have to be a critical thinker
+[10:48] i'm training you to be a critical
+[10:49] thinker
+[10:51] i'm going to give you two examples
+[10:52] tonight of
+[10:54] what critical thinking is not
+[10:59] all right this individual here it was in
+[11:00] the comment section
+[11:02] okay
+[11:02] and this is
+[11:04] the poster child
+[11:06] for why i do not sit in front of people
+[11:09] and trade with
+[11:12] entry stop targets i don't do that
+[11:15] because invariably
+[11:17] someone's going to take something i'm
+[11:19] doing
+[11:20] or saying
+[11:21] or applying to a chart
+[11:24] and they're going to do something with
+[11:25] live funds
+[11:27] and they're going to come out and say
+[11:28] just lost a thousand thanks a lot
+[11:32] now i don't know who this person is this
+[11:34] person may not have actually taken a
+[11:36] trade and lost money this person may be
+[11:38] a troll this person may be a genuinely
+[11:40] sincere individual
+[11:41] at this point i don't care
+[11:44] but i want to highlight this is the very
+[11:46] thing folks this is it this is the thing
+[11:49] that prevented me all these years to sit
+[11:52] in front of all of you and entertain you
+[11:55] with trading
+[11:57] because someone's going to do something
+[12:00] and when they do something
+[12:02] by their own actions
+[12:05] and it's painful for them if they lose
+[12:08] money
+[12:09] guess whose fault that is
+[12:11] because it's not mine
+[12:13] it's the person that lost the money
+[12:17] listen
+[12:18] everything i teach here
+[12:20] is under the guise of
+[12:22] demo and paper trading
+[12:24] that's compliance
+[12:25] i don't give trade advice
+[12:28] i can talk about where the market's
+[12:29] going to go i can give my opinion about
+[12:30] that market opinions that's not trade
+[12:32] advice it's the same logic the same idea
+[12:36] in the same
+[12:37] language
+[12:38] that all of my paid mentorship students
+[12:40] sign an agreement and they give me
+[12:42] indemnity they know going in that
+[12:45] everything i'm saying is
+[12:47] under the pretense of demo
+[12:49] and paper trading and you can't make
+[12:51] money with demo trading but guess what
+[12:53] you can't do either you can't lose money
+[12:54] either
+[12:56] so it gives you that freedom to think
+[12:58] about what you're doing
+[13:00] without the tug of war of making and
+[13:02] losing money
+[13:04] some of you
+[13:05] in here are so high strung and so
+[13:08] impatient that you just want to go out
+[13:10] there and say okay
+[13:11] i'm going to watch this video i'm going
+[13:13] to get a hint from ict like i'm giving
+[13:14] you some kind of secret language for
+[13:16] signal service and i say this stuff to
+[13:18] my own paid mentorship i said it for six
+[13:20] years every time there was a new group
+[13:22] coming in
+[13:24] they know there is no new group coming
+[13:25] in and stop listening to these yahoos
+[13:27] out there saying that i'm gonna start
+[13:28] another mentorship and i'm gonna sell
+[13:29] i'm not selling no more mentorships
+[13:31] folks
+[13:32] because of this kind of stuff okay i'm
+[13:34] not doing it
+[13:36] so
+[13:37] whether this person lost a thousand
+[13:39] dollars
+[13:40] or didn't i don't care
+[13:42] that right there is why i have prevented
+[13:45] myself
+[13:47] saying no i'm not going to do it because
+[13:49] i know there's going to be a lot of you
+[13:50] out here that are going to hurt yourself
+[13:52] because you're not ready none of you
+[13:53] should be trading this model with live
+[13:55] funds we haven't even gotten through all
+[13:56] of the content or the the process of
+[13:59] what it is you're doing with it
+[14:01] today you're getting another piece of it
+[14:03] but this is the crucial part this is the
+[14:05] stuff
+[14:06] the boring stuff the things that you
+[14:08] don't want to listen to the things that
+[14:10] you want to go through the people that
+[14:11] want to come in here later on and say
+[14:13] here's a minute marker when he starts
+[14:14] really teaching and you want to avoid
+[14:16] the crap i will delete your posts if you
+[14:18] do stuff like that it's disrespectful
+[14:19] not only to me but the other viewers
+[14:21] because you're
+[14:22] really taking their attention away from
+[14:24] what is the real lesson
+[14:27] you're all entitled to your opinion but
+[14:29] if your opinion is disruptive or
+[14:30] disrespectful i won't let it post
+[14:34] now you can disagree respectfully and
+[14:36] those posts stay on the comment section
+[14:39] but nonsense that's meant to start a
+[14:41] ruckus
+[14:42] your channel will be blocked
+[14:46] then you have folks like this
+[14:49] who cannot be taught
+[14:50] now again this could be a troll this
+[14:52] could be someone that didn't really take
+[14:55] a trade today because really the logic
+[14:57] as i'm going to prove tonight
+[14:59] really wasn't in the marketplace today
+[15:01] for this model
+[15:02] and it can't be argued there's no way
+[15:04] you're going to be able to say
+[15:06] that what i posted this morning is lined
+[15:08] up with any of the logic that this model
+[15:10] uses
+[15:13] so
+[15:15] again
+[15:16] this person
+[15:18] may have done something foolish
+[15:20] or maybe they're just here to
+[15:22] troll
+[15:23] that's fine it doesn't matter because
+[15:25] the posts that were made even after this
+[15:27] indicate that the person's really not
+[15:29] properly
+[15:30] prepared to learn how to do this and or
+[15:32] really not interested in learning so
+[15:34] they're going to get removed
+[15:36] they may come back in another form but
+[15:38] any disrespectful comment will be
+[15:40] removed
+[15:44] this
+[15:45] statement right down here at the bottom
+[15:46] highlighted take accountability for your
+[15:48] actions
+[15:50] if you're taking trades
+[15:52] number one you gotta take it you gotta
+[15:53] take accountability for your actions
+[15:56] those are your actions i didn't reach
+[15:58] through the screen i didn't go to your
+[15:59] house i didn't go to your apartment i
+[16:02] didn't meet you at your job and press
+[16:03] your cell phone to get you into a trade
+[16:05] in fact i didn't tell you anybody about
+[16:07] a trade i said study
+[16:10] watch i'm watching this
+[16:13] okay
+[16:14] that is not indications that's not
+[16:16] instructions to buy or sell anything
+[16:20] so don't get caught up in all this
+[16:22] frenzy to be pushing any buttons yet
+[16:24] because none of you know what you're
+[16:25] doing
+[16:28] all right i appreciate your patience
+[16:30] getting through that how to get it off
+[16:31] my chest
+[16:32] and i promise i won't do it again
+[16:34] because it's already been done here
+[16:36] just know that if you act like those
+[16:39] individuals
+[16:40] i won't see your posts
+[16:42] all right so
+[16:44] may s p we won't cover tonight but it's
+[16:46] kind of similar to what this is showing
+[16:48] here but the e-mini nasdaq 100 features
+[16:51] june contract delivery month
+[16:53] 2022 this is a daily chart
+[16:56] and
+[16:57] i felt that
+[16:59] this morning we could have
+[17:01] popped through
+[17:02] stabbed above these relative equal highs
+[17:05] right in here and then created this run
+[17:07] lower that's kind of like what i was
+[17:09] prompting study that because if it
+[17:11] happens
+[17:12] you can see and study and back test now
+[17:15] that the market's already moved you can
+[17:16] go back in and look and see if the model
+[17:18] in fact did
+[17:20] what i teach
+[17:21] now
+[17:22] this is actually a good lesson because
+[17:24] it shows where i'm looking for something
+[17:27] to form
+[17:28] but it doesn't form it doesn't create a
+[17:31] losing trade it doesn't get me into
+[17:33] something that causes me to
+[17:36] buy it when there really isn't
+[17:38] an entry pattern there
+[17:40] this is the
+[17:41] proof the evidence that the model has
+[17:44] validity so if you have a valid
+[17:48] reasonable
+[17:50] sound logic behind the model whatever
+[17:52] model that is
+[17:53] then it should prevent you from taking
+[17:56] bad trades not all the time but
+[18:00] sometimes when there is a really big
+[18:02] move going the other direction that you
+[18:03] don't see or expect
+[18:07] it may do its job and keep you from
+[18:09] getting into those bad traits
+[18:11] and i'll show you the logic here today i
+[18:14] want you to be a critical thinker okay
+[18:17] think about what i've already taught
+[18:18] about this model
+[18:19] in the comment section below
+[18:22] if you think that this model appeared
+[18:25] based on what i showed in that community
+[18:27] post say so
+[18:29] if you don't think that this model
+[18:31] appeared based on what i showed then say
+[18:34] so as well
+[18:36] also i'd appreciate if you would include
+[18:37] in your post where are you all from
+[18:39] folks like i want to get like a a broad
+[18:43] range view of how far i'm reaching i
+[18:46] know i got a lot of people in different
+[18:47] countries but all you just tell me what
+[18:48] country you're from you don't have to be
+[18:49] specific with your address or social
+[18:51] security number i'm not that interested
+[18:53] but i would like to know you know where
+[18:54] everyone's from
+[18:56] but here's the logic with that one hour
+[18:59] chart and that relative equal high
+[19:01] so this is the framework i'm looking for
+[19:04] a run above here if it can get above
+[19:06] that then what it could
+[19:08] wash out and go lower
+[19:11] why would that be possible in terms of
+[19:15] a
+[19:16] pattern or a setup or the logic what
+[19:19] would be
+[19:21] the catalyst for that what like what was
+[19:24] the reasoning for you being interested
+[19:26] in these relative equal highs number one
+[19:29] it's thursday
+[19:31] it's thursday and it's ahead of non-farm
+[19:33] payroll friday now nine farm payroll
+[19:35] friday is usually a volatile day it can
+[19:38] be messy it can be sloppy sometimes it's
+[19:40] just a really just a dud it doesn't
+[19:42] really do anything
+[19:43] other days it could be extremely
+[19:45] volatile like the fomc but because fomc
+[19:48] has done what it's done
+[19:50] i don't think that the non-farm payroll
+[19:52] numbers is going to have that much
+[19:53] impact
+[19:54] but
+[19:55] i was looking for
+[19:57] these relative equal highs to be taken
+[19:59] out
+[20:01] then
+[20:02] drop lower than create the model that
+[20:04] i'm teaching so that's why it's kind of
+[20:06] drawing your attention to them so that
+[20:07] way if it did present that you can have
+[20:09] something to study
+[20:10] now
+[20:11] what's the catalyst that sets the run up
+[20:14] into those relative equal highs i'm
+[20:15] going to talk about that now
+[20:19] much like i was suggesting in that post
+[20:21] we had dropped down
+[20:23] into a discount
+[20:25] i posted ahead of the 9 30 opening where
+[20:28] equities open up and that
+[20:31] volatility that comes around 9 30 i want
+[20:34] to see some kind of a manipulation in
+[20:36] price so if our focus and i was trying
+[20:38] to get your attention up here if our
+[20:40] focus is up there and it's dropping down
+[20:42] and it's ahead of 9 30 what are we
+[20:45] likely to see
+[20:46] drop down get traders thinking it's
+[20:48] going to go lower
+[20:50] and then rally up not just go down
+[20:52] indiscriminately and then go higher it's
+[20:54] got to do something specific
+[20:56] i'm interested in this area right here
+[20:58] that's what i posted in that community
+[21:00] post saying i'm watching this and that
+[21:02] was that little area right here
+[21:04] for all of these
+[21:05] videos that i've been posting it's very
+[21:08] specific i'm teaching fair value that
+[21:11] that fair value gap is right there okay
+[21:14] so dropping down into that that would be
+[21:17] a point of interest for me so that i can
+[21:20] go in and look for something that gives
+[21:22] me my setup so in other words this here
+[21:24] is just
+[21:26] where
+[21:27] the trade might form
+[21:29] hear what i just said
+[21:30] where the trade might
+[21:33] it could
+[21:34] it may
+[21:36] not it's absolutely going to
+[21:38] this is a promise there's no way this
+[21:40] can fail because that logic doesn't
+[21:42] exist in trading except for over
+[21:45] leverage and
+[21:48] over trade you're gonna blow your
+[21:49] account that's
+[21:50] a guarantee okay
+[21:52] but that fair value gap that's the place
+[21:55] in terms of price where should the
+[21:58] pattern form
+[22:01] by itself it's just price but we have to
+[22:03] incorporate what element first
+[22:05] algorithmically it's time
+[22:08] so i'm teaching you elements of time at
+[22:10] that 9 30.
+[22:12] we're expecting some volatility
+[22:14] dropping down into that area here
+[22:17] which at this point at the chart it
+[22:19] doesn't do yet
+[22:21] so i'm looking for it to drop down into
+[22:23] that area if it does then i'm going to
+[22:25] be looking for what i teach you in this
+[22:27] model
+[22:29] so with that area shaded
+[22:31] right here
+[22:32] this is a 15 minute chart you can see we
+[22:35] traded down into it
+[22:37] the candle stopped right at the old
+[22:40] candle high
+[22:41] and the next candle just gave up the
+[22:43] ghost
+[22:44] right away
+[22:46] we should notice that we did have the
+[22:48] initial criteria which is trading below
+[22:50] an old low
+[22:51] so what's going to be resting below that
+[22:52] cell stops
+[22:54] so they go down run out the sell stops
+[22:57] traders are caught in
+[22:59] then what what's the next logic we got
+[23:01] to look for displacement it's got to
+[23:03] trade back above
+[23:05] this old low it's got to have
+[23:08] displacement above that
+[23:10] did it happen here
+[23:12] no
+[23:15] here is a five minute chart
+[23:18] now if you're looking at this with that
+[23:20] same low here it trades down below it
+[23:22] did we get displacement above that oh
+[23:25] low
+[23:26] no
+[23:27] it just went down consolidated returned
+[23:30] back to it
+[23:31] but melted didn't do anything above that
+[23:33] oh low there was no displacement no
+[23:36] energetic move so that way you can look
+[23:38] for a fair value gap to trade back down
+[23:40] into the buy
+[23:42] so
+[23:42] anyone that would have looked at this
+[23:44] and bought today
+[23:46] is not using what i'm teaching they're
+[23:48] just impulsively pushing a button and if
+[23:51] they lost money
+[23:53] you have to fault yourself for that
+[23:56] i'm not the good i'm not going to be the
+[23:57] target for all of you that fail
+[24:01] don't listen and want to gamble and when
+[24:03] it doesn't work for you because you took
+[24:05] a guess you took a stab at it you just
+[24:07] wanted to see what was going to happen
+[24:09] and you lose money
+[24:11] you can never do that with me even my
+[24:13] paid mentorships
+[24:15] those students they can't do any of that
+[24:16] either
+[24:17] because i never tell them to go into
+[24:19] anything and buy or sell anything
+[24:21] nothing
+[24:23] i'm not going to co-sign your financial
+[24:26] ruin it ain't going to happen
+[24:28] none of this can be placed on me the
+[24:30] responsibility is solely on you the
+[24:32] viewer
+[24:34] and it's
+[24:34] a lot of responsibility and some of you
+[24:37] simply are not going to be able to do
+[24:38] this
+[24:39] not because it doesn't work but because
+[24:41] you are not responsible you don't have
+[24:43] any self-control
+[24:45] you don't want to listen you don't want
+[24:46] to have any rules
+[24:48] in those rules
+[24:50] look at it like this folks
+[24:52] in the videos
+[24:53] i'll suggest folks hey look pause the
+[24:55] video here study it so that way you can
+[24:57] really look for it before it's revealed
+[24:59] there's a lot of people they make jokes
+[25:01] and say i'm not going to pull i'm not
+[25:02] going to pause the video
+[25:03] i promise you if they're sincere in
+[25:05] their response saying that i promise you
+[25:08] they will not learn this okay it will
+[25:10] not happen because they're showing
+[25:13] a
+[25:14] a trait that is simply
+[25:16] not conducive for success in doing this
+[25:19] business so it doesn't work like that
+[25:21] it's not easy it's not netflix and chill
+[25:24] it's
+[25:25] ict and study your ass off okay that's
+[25:29] the way it is and it takes a lot of
+[25:31] logic that you have to adhere to
+[25:33] and you have to break yourself
+[25:36] there's a lot of things you're going to
+[25:36] try to do impulsively if you do them
+[25:39] here and it works for you you make
+[25:40] profits you're going to be in here in
+[25:42] the comments section high fiving me yeah
+[25:45] we're killing ict style
+[25:48] when in fact you just got lucky
+[25:52] because then the next time you take
+[25:53] another trade impulsively
+[25:56] you're going to want to fault me
+[25:58] you're going to say you weren't around
+[26:01] when i posted that comment this morning
+[26:03] i spent the day with my wife i haven't
+[26:05] seen her for a week
+[26:07] and i'm not obligated to babysit anybody
+[26:09] through a community post
+[26:10] i don't even do that with my mentorship
+[26:12] that pay me
+[26:13] okay so
+[26:14] again it's all about responsibility
+[26:17] and i'm placing
+[26:19] the logic in your hands it's up to you
+[26:21] to go through the charts see if it fits
+[26:23] you if it doesn't fit you folks there's
+[26:25] a lot of other ways to trade
+[26:27] there's lots of ways to trade you don't
+[26:29] need to trade my way okay
+[26:31] i'm biased i believe mine's the best
+[26:34] i believe i can outperform anybody in
+[26:36] any style of trading and i can do it
+[26:38] consistently
+[26:40] will that translate to you no
+[26:44] but i'm saying and promising that you're
+[26:47] going to learn how to read price better
+[26:49] than you ever imagined
+[26:52] it's worth the investigation
+[26:54] look into it see if it doesn't hold up
+[26:58] but don't do things outside the rules
+[27:00] i'm giving you
+[27:02] and that's why i teach this way slow
+[27:04] incremental pieces
+[27:05] because invariably
+[27:08] you're going to do things impulsively if
+[27:10] you lack self-control if you don't have
+[27:13] self-control you're going to blow up
+[27:15] and folks listen there's nothing worse
+[27:18] than thinking you understand something
+[27:19] in a rush
+[27:21] and then go out there and trade with
+[27:22] live funds and blow the account
+[27:24] it hurts
+[27:26] it's painful it sucks
+[27:30] and it's easy to say oh it's that guy
+[27:32] that wasn't there to tell me what's
+[27:34] really going on you know if he would
+[27:35] have told me
+[27:37] this or that i wouldn't have lost money
+[27:40] no
+[27:41] because
+[27:42] i'm never putting any of my students in
+[27:43] a position where they have to be
+[27:45] handheld
+[27:46] through a trade
+[27:47] they're putting their self in that if
+[27:49] they did it at all
+[27:50] and they gotta get themselves out of it
+[27:52] that teaches responsibility
+[27:55] and you have to own those results good
+[27:57] or bad they're yours
+[27:59] and that's why i tell everybody when
+[28:01] they find success in this and they like
+[28:02] to say hey it was
+[28:04] it was all credit to you ict you know
+[28:06] without you i couldn't have done this
+[28:08] wrong
+[28:10] wrong
+[28:11] the only thing i did
+[28:12] was show you how to read price i did not
+[28:15] sit with you and push a button
+[28:17] so if you took on that risk
+[28:19] if you sat through the learning and
+[28:21] worked through all the back testing and
+[28:23] studying and forward testing demoing and
+[28:26] producing a track record that you can
+[28:28] feel confident in then and only then
+[28:31] with the time that you choose not when i
+[28:33] say so because i never tell anybody with
+[28:34] live funds in fact right now i'm
+[28:36] reminded don't trade with life funds
+[28:40] when you make that decision should you
+[28:41] ever do so
+[28:43] you've done it on your own accord
+[28:46] so if you make money
+[28:49] whose success really is that
+[28:51] it's yours
+[28:53] and it's well deserved
+[28:55] never
+[28:56] ever
+[28:58] champion me for your success
+[29:01] now you can thank me for helping you
+[29:02] with the logic but i didn't help you
+[29:05] make money
+[29:06] and just this well i did not help you
+[29:09] lose it either
+[29:11] those buttons getting pushed
+[29:12] you push them
+[29:14] and you have to sleep with yourself
+[29:16] knowing that that's the results that you
+[29:18] provided
+[29:19] and there it is
+[29:20] you live with it and if it's
+[29:23] a bad taste in your mouth
+[29:25] swallow
+[29:26] it's the way it is
+[29:28] it's bitter medicine but it's good for
+[29:30] you you'll learn from it or it'll take
+[29:32] you out of the business and that might
+[29:33] be the best thing for you
+[29:36] if you can't stick to the rules
+[29:39] this game has a funny way of taking you
+[29:41] right out of it
+[29:44] the people that are consistently
+[29:46] profitable
+[29:47] it's not by luck
+[29:49] and they're not stupid
+[29:50] they have a logic they adhere to
+[29:53] they have rules that they trade with
+[29:55] and they have to stick to them when they
+[29:57] deviate from them or do something
+[29:59] outside of what that role-based strategy
+[30:02] is
+[30:03] then
+[30:04] it's reasonable to expect ruin or loss
+[30:08] and those moments are most painful
+[30:10] because you can look back and say this
+[30:12] is not what i should have done
+[30:15] that's what i shared that other guy
+[30:17] corbs video about
+[30:19] i'm sure he has a strategy
+[30:22] but for whatever reason
+[30:24] from his commentary he suggested that he
+[30:26] just lost control of himself and started
+[30:28] doing things that made no sense
+[30:30] anybody that's ever traded with life
+[30:31] funds knows exactly what that means
+[30:34] if anybody has ever treated life funds
+[30:37] they understand what that man was saying
+[30:39] i know i've done it a lot in the 90s
+[30:42] i know exactly what he was talking about
+[30:45] but it feels like it's never going to
+[30:47] work and you just want to pick yourself
+[30:49] up
+[30:51] you're going to have losing trades folks
+[30:53] okay
+[30:53] in your journal right now today with
+[30:55] today's date
+[30:57] make a promise to yourself write it out
+[30:59] i promise
+[31:01] that as long as i'm doing this i'm going
+[31:03] to endure losses
+[31:06] notice i said indoor
+[31:08] you're not going to be defeated by those
+[31:10] losses
+[31:12] you're just going to have to endure them
+[31:14] because trading is all about
+[31:16] managing losing trades
+[31:18] you got to trade your way out of a
+[31:19] losing trade every single time you get
+[31:21] into market every single trade as soon
+[31:23] as you start off you're under the
+[31:24] commission you're under the spread in
+[31:26] forex
+[31:27] you got to come out of that
+[31:30] every trader is a losing trader that
+[31:32] finds success
+[31:33] out of loss
+[31:36] or
+[31:37] suffers ruin
+[31:38] in it
+[31:41] that's it that's the only two things
+[31:42] that can happen
+[31:46] all right so now let's talk a little bit
+[31:47] about the model and give you a little
+[31:49] bit more details and i probably feel
+[31:51] like i beat you up and you're like man
+[31:52] this is depressing this is not what i
+[31:54] was hoping to hear
+[31:56] i promise it was good stuff for you okay
+[31:59] now i want to talk about where do these
+[32:01] setups form
+[32:03] so in your journal
+[32:04] this is like a subtitle area for this
+[32:07] video
+[32:08] where do
+[32:10] setups form
+[32:11] okay think about that for a minute
+[32:14] when you're looking for this idea that
+[32:16] i'm sharing the fair value got where
+[32:17] would you expect them
+[32:19] to appear in price obviously i've been
+[32:22] teaching you
+[32:23] to run above an old high or relative
+[32:24] equal highs and if you're bearish that
+[32:27] would set up a scenario where the market
+[32:29] goes up
+[32:31] sweeps the highs
+[32:32] breaks back down below the highs
+[32:35] short-term lows taken out with
+[32:37] displacement and then you go back
+[32:38] through that displacement leg looking
+[32:40] for a fair value guy to short into
+[32:44] that's pretty simple logic isn't it well
+[32:46] visually i want you to understand it
+[32:48] okay so that way in your mind i do this
+[32:50] exercise all the time with my students
+[32:53] can you draw out with a diagram like if
+[32:55] you were at work and you're trying to
+[32:56] explain to your friend or co-worker what
+[32:59] it is you're looking for in price now
+[33:00] they're not going to understand what
+[33:01] you're doing but
+[33:03] how would you draw it out in price or in
+[33:05] a napkin with a pen or pencil what would
+[33:07] it look like
+[33:09] well you have obviously a level
+[33:11] of relative equal highs and we're just
+[33:13] going to use that green line as an
+[33:15] example of that
+[33:16] and price is moving towards it
+[33:19] small little correction or so
+[33:21] it runs
+[33:23] towards it again
+[33:26] and then finally it runs through those
+[33:27] relatively highs okay at that moment as
+[33:30] soon as it goes above it you start
+[33:32] panning back through
+[33:35] all this price running here and find the
+[33:37] nearest
+[33:38] short term low
+[33:40] because that right there is going to be
+[33:41] your trigger
+[33:43] it's not that it goes above this old
+[33:45] relative equal high and then goes down
+[33:47] below that that's not it folks
+[33:50] that's not it you have to see it go
+[33:53] below that and displacement with the
+[33:55] energetic move
+[33:56] take out a short term low
+[33:58] that's how you filter out these trades
+[34:01] that may not be
+[34:03] high probability
+[34:06] so that area right there as soon as you
+[34:08] run above the relative equal highs in
+[34:10] your mind you're looking for where's the
+[34:12] trigger
+[34:13] because until it takes out that short
+[34:15] term low
+[34:16] there's nothing going on
+[34:18] there's no trade there there's no set up
+[34:21] there
+[34:22] then when there's displacement that
+[34:24] displacement leg and price action
+[34:27] that right there is your foundation to
+[34:29] the setup that's it once you have that
+[34:31] then you can go into that area
+[34:33] and look for the fair value guy
+[34:36] that's the logic
+[34:37] that's the pattern that's what you're
+[34:39] looking for this is if it's bearish now
+[34:42] if those relative equal highs would have
+[34:44] been traded through this morning
+[34:46] i would have expected this scenario
+[34:48] okay
+[34:50] before
+[34:52] it ran those relative equal highs
+[34:54] i was looking for
+[34:56] like down here
+[34:57] price was trading down into that area i
+[34:59] was showing you my interest today i'm
+[35:00] watching this where it was likely to go
+[35:02] down to
+[35:03] this is kind of like the low in my mind
+[35:06] i'm kind of using it as an example
+[35:07] what i was expecting price to do once it
+[35:09] got down into that fair value gap that i
+[35:11] was saying i'm watching this that little
+[35:13] arrow okay i showed that little gap i
+[35:15] was expecting this type of movement to
+[35:18] set up the run above those relative
+[35:19] equal highs but there was no movement
+[35:21] here to set up that run either
+[35:24] so
+[35:25] two scenarios that i would have loved to
+[35:28] seen
+[35:29] develop just did not pan out it just
+[35:32] simply wasn't there
+[35:35] now i'm going to teach you another
+[35:37] approach and this is kind of like what i
+[35:38] was expecting and
+[35:40] had it panned out this morning if it
+[35:42] would have gave the real setup which it
+[35:43] did not i've already shown that that
+[35:45] little fair value gap that i was waiting
+[35:47] to see a response in it didn't do it
+[35:49] just melted right through it
+[35:51] but if it would have done
+[35:53] this but this is going to be the cell
+[35:54] version okay just reverse it for the
+[35:56] going long idea
+[35:58] if you have a old fair value gap above
+[36:00] you
+[36:01] okay so you have an old fair value you
+[36:03] got and the market's below it and it's
+[36:05] trading up
+[36:06] and you're bearish but you think it's
+[36:08] going to go up that fair value gap the
+[36:10] same logic when it trades up to the
+[36:11] relative equal highs
+[36:13] once it trades into
+[36:15] that fair value gap
+[36:18] it doesn't have to completely close it
+[36:20] if it trades up into it
+[36:22] anywhere between here and here is good
+[36:24] okay
+[36:25] it trades above it you can really make
+[36:27] it simple and say okay the low of the
+[36:28] fair value got treat that like the same
+[36:30] logic that you use for the relative
+[36:32] equal highs
+[36:33] doesn't that make it simple and easy
+[36:35] that way you don't have to worry about
+[36:37] how hard do i need to know you don't
+[36:38] need to know that
+[36:39] because you're waiting for something to
+[36:41] happen what is that
+[36:42] once it takes out the low of the fair
+[36:44] value gap and trades in there you go
+[36:45] back through that leg and see okay
+[36:47] here's what there's that trigger
+[36:50] that's that shift in the market
+[36:51] structure you're waiting for then you
+[36:53] have the displacement leg
+[36:54] so once you have that you can go back in
+[36:57] and look for the fairway
+[36:59] okay so
+[37:01] that's the two entry strategies
+[37:04] for this model
+[37:05] there's no
+[37:07] other way of worrying about what does it
+[37:09] look like this now visually this is what
+[37:11] you're doing okay it's simple if it
+[37:15] feels like it's not simple watch this
+[37:17] part of the video a couple times and
+[37:18] then go back and look at price action in
+[37:20] live data and in old back testing go
+[37:23] back and look at old moves and you'll
+[37:25] see this logic is there okay
+[37:27] it's algorithmic it repeats
+[37:30] unfortunately today it didn't give me
+[37:32] the setup to allow myself to sit down
+[37:34] with you tonight and say okay this is
+[37:35] what i did because i was going to trade
+[37:37] it okay i was going to enter at the low
+[37:39] run the highs go short and write it down
+[37:41] that way too i was going to do it
+[37:44] but
+[37:44] nothing panned out
+[37:46] it didn't mean that the models broke it
+[37:48] doesn't mean that the models broke it
+[37:50] doesn't mean that i can't find winning
+[37:52] trades it just means that the market did
+[37:54] not provide the structure to allow this
+[37:57] to form
+[37:58] does it result in a losing trade no
+[38:01] because the logic wasn't utilized that
+[38:03] would have put me in a losing trade
+[38:05] it never formed
+[38:08] this right here reverse the logic here
+[38:10] apply it that's the homework apply this
+[38:12] logic here
+[38:14] does this appear
+[38:17] in the fair value that i was drawing
+[38:18] your attention to this morning on the
+[38:19] community post
+[38:21] no
+[38:22] and no one can manipulate and say it was
+[38:26] it just wasn't there folks
+[38:28] so
+[38:29] it's just a missed move and there's
+[38:32] nothing you can do about it
+[38:34] except for beat yourself up and say oh i
+[38:36] wish i woulda coulda shoulda
+[38:39] and that stuff doesn't make you money
+[38:41] and it doesn't take any more money out
+[38:43] of your pocket so don't do it
+[38:45] don't waste time doing that it's toxic
+[38:47] thinking so hopefully i don't need to
+[38:48] bring up all this negativity anymore and
+[38:50] address any of it like this because i'm
+[38:51] never going to entertain it in a video
+[38:53] again but i want to lay the foundation
+[38:55] and
+[38:57] provide my response to
+[38:59] anybody that would think like this or
+[39:01] say this whether they're trolling
+[39:02] whether they are sincere whether they
+[39:04] feel like they've been victimized okay
+[39:07] you've done that to yourself if you
+[39:09] pushed a button and you entered trade
+[39:11] you did that
+[39:12] nobody in this community
+[39:14] including me chief of all of them
+[39:16] never told you to buy or sell anything
+[39:19] you're never going to have instructions
+[39:20] where i'm telling you to buy or sell
+[39:21] anything
+[39:23] it's always going to be study this
+[39:25] observe this watch this
+[39:27] that's that's what i'm saying
+[39:29] they're not code words for anything
+[39:30] they're specific elements of study
+[39:34] put your attention here watch and see
+[39:36] observe
+[39:37] is there any characteristics repeating
+[39:39] with the logic that i teach that's not
+[39:42] trading okay that's not trade advice
+[39:44] that's not investing advice that's not
+[39:46] money management advice it's just
+[39:49] practicing reading price action
+[39:52] and that's how i teach
+[39:54] it might not be for you
+[39:56] maybe you want me to drive around in
+[39:58] lamborghinis and and lie to you about
+[40:00] stupid stuff that ain't gonna work in
+[40:01] the market
+[40:03] that's just not what i'm gonna do that's
+[40:04] not me
+[40:05] i do things in the charts that make
+[40:08] sense
+[40:09] i teach it it's transferable knowledge
+[40:12] but you have to be prepared
+[40:14] to receive it
+[40:16] study it practice it
+[40:18] and endure all these times where you
+[40:21] look for something to be there
+[40:23] and it doesn't happen and then a move
+[40:24] takes place that you've missed
+[40:28] that's the test are you going to lose
+[40:30] your mind
+[40:31] because you missed a big move like today
+[40:34] i used to do that when i was younger
+[40:37] and it got me nowhere but backwards
+[40:42] don't
+[40:43] live in your losses
+[40:48] missing moves is a loss
+[40:51] taking a monetary loss in the market is
+[40:53] a loss
+[40:54] taking a demo trade that's a losing
+[40:55] trade that's a loss
+[40:58] the mental impact on that
+[41:00] you have control over
+[41:03] you can decide to amplify every bit of
+[41:05] that
+[41:06] or you can say you know what
+[41:08] what can i take from this
+[41:10] so that way i can never
+[41:12] be hurt this much again by it because it
+[41:15] will repeat
+[41:16] but you have to be able to condition
+[41:18] yourself so that way when these
+[41:20] knocks
+[41:21] and
+[41:22] trips and falls and setbacks when they
+[41:25] occur i've been here before
+[41:27] that way it doesn't completely derail
+[41:29] you
+[41:30] that's an important lesson and
+[41:32] unfortunately no one really touches that
+[41:34] because they all pretend that they never
+[41:36] make mistakes and they always catch the
+[41:38] runs
+[41:39] and i'm just not that kind of guy i'm
+[41:41] honest i'm gonna tell you
+[41:44] if that doesn't fit you again
+[41:46] change the channel until next time
+[41:48] be safe

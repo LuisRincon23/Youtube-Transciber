@@ -56,3 +56,8 @@ build/
 # Misc
 .DS_Store
 Thumbs.db 
+
+# PyInstaller
+build/
+dist/
+*.spec 

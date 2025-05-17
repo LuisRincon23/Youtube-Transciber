@@ -1,0 +1,328 @@
+[00:05] all right so we're gonna be doing a
+[00:07] quick little ditty on institutional
+[00:09] order flow
+[00:11] i'm gonna be trading against daily bias
+[00:19] okay and going along here and it's on
+[00:21] the basis of
+[00:23] the cell stops or cell side like already
+[00:25] being taken we've already traded into a
+[00:26] fair value gap around that 4 000 level
+[00:31] and i'm
+[00:32] treating with the idea that it could run
+[00:34] up here and take out the buy stops
+[00:36] above the high of the day
+[00:38] it doesn't need to do that
+[00:41] to be profitable
+[00:43] so my draw liquidity is here
+[00:50] and
+[00:57] noting the buy side liquidity will
+[01:01] take in
+[01:05] clear
+[01:06] profitable shorts
+[01:14] all right
+[01:15] so this is kind of like the
+[01:18] the idea okay the draw on liquidity
+[01:22] now it doesn't need the trade here to be
+[01:24] profitable that's just my best case
+[01:26] scenario
+[01:28] so what i want to do now is draw the
+[01:31] buy side and sell side liquidity pools
+[01:34] and i'll show you the framework
+[01:39] for the logic of why i'm entering where
+[01:41] i'm entering it
+[01:42] and i want you to take a look at the
+[01:44] chart first and see if you understand
+[01:46] what i'm
+[01:47] capitalizing on
+[01:53] pause the video
+[02:00] all right
+[02:02] this here
+[02:04] is the sell side liquidity
+[02:08] so the market has dropped below those
+[02:10] relative equal lows i bought those cell
+[02:12] stops
+[02:14] so cell side is taken
+[02:20] okay so you can see that here
+[02:22] and now what i'm going to target
+[02:24] even though i think it could go but it
+[02:27] may not really get there it can go to 40
+[02:29] 51 and take out the high of the day but
+[02:32] let's say i'm wrong
+[02:34] what am i going to aim for this is what
+[02:36] i'm going to take the bulk of my
+[02:37] position off
+[02:39] at
+[02:40] and i got to make this
+[02:43] show on top of the line
+[02:55] okay
+[02:56] and put it on top
+[03:00] all right so i'm reaching for that
+[03:02] now the bulk of my position i'm going to
+[03:04] try to pyramid
+[03:05] and build this this is a little bit
+[03:07] bigger than just the four
+[03:08] contracts but we'll see what i get
+[03:15] now try not to worry about that profit
+[03:17] and loss
+[03:19] that's that's the distraction
+[03:22] pay attention to the price
+[03:26] so we dipped inside that fair value gap
+[03:30] just to the left of us
+[03:32] and we went below to take out the
+[03:34] relative equal lows that's noted here
+[03:35] for the south side liquidity
+[03:37] being taken
+[03:40] so i'm looking for expansion to the
+[03:41] upside
+[03:43] retail sees that as a bear flag
+[03:45] okay so they're thinking lower prices
+[03:48] i'm not
+[03:51] even if i'm wrong about it not going to
+[03:52] 4051 i'm confident that we're going to
+[03:54] go up into
+[03:57] the buy side liquidity that's needed in
+[04:00] blue
+[04:02] okay so far price looks
+[04:04] nice it's respecting
+[04:06] the unbind narrative i'm acting upon
+[04:14] now i want you to also monitor how i
+[04:16] manage my stop loss
+[04:19] even though i'm trading against the
+[04:21] daily bias
+[04:22] the fact that we traded down three times
+[04:24] intraday
+[04:26] and took out yesterday's low
+[04:28] by doing so uh
+[04:30] that lack of follow-through
+[04:33] kind of like bolsters i'm gonna do two
+[04:35] more
+[04:40] here trading on to the order block
+[04:47] okay so now i have six contracts long
+[04:49] and i'll move my stop up just a little
+[04:51] bit
+[04:52] underneath that low right there it
+[04:54] should not trade back down into that if
+[04:57] it does i'm wrong and that's fine
+[05:00] why do i feel confident about placing my
+[05:01] stop loss there because if you look
+[05:03] where i have my stop it's basically
+[05:05] inside of
+[05:06] the lower end of that fair value gap and
+[05:08] the old short term high around 9 30. so
+[05:12] i have market structure supporting the
+[05:13] idea
+[05:14] and
+[05:15] we've already taken cell side liquidity
+[05:16] out we're back inside the range
+[05:19] between where my stop loss order is and
+[05:22] the short term high i have noted for buy
+[05:24] side liquidity
+[05:26] so bicep liquidity is the next draw on
+[05:28] liquidity i'll take four of the
+[05:30] contracts off
+[05:31] so
+[05:33] i'm going to annotate what we're doing
+[05:34] here we're just bumping the order block
+[05:37] there
+[05:38] straighten this line out here
+[05:41] okay hold down shift when you're
+[05:43] dragging your trend lines and treating
+[05:45] view it'll automatically straighten them
+[05:46] out
+[05:48] and that is an order block
+[05:52] bullish order block is what i'm
+[05:53] annotating here
+[05:55] so you can see this is all
+[05:58] being done as it happens
+[06:02] i can shoot bubble gun
+[06:04] and walk at the same time
+[06:07] all right and
+[06:10] that's what i'm looking for i'm looking
+[06:11] for that type of movement
+[06:15] so that way we understand what i'm
+[06:17] internalizing
+[06:19] what am i seeing what's likely to pan
+[06:21] out that's what i want
+[06:23] so now i'm going to study see if price
+[06:24] does in fact deliver
+[06:27] with that premise in mind
+[06:29] again if i'm lucky it could expand up
+[06:31] into that 40 51 in the quarter but i
+[06:34] don't need it to because the bulk of the
+[06:36] position which is now six contracts i'm
+[06:38] going to take four off above that buy
+[06:40] side liquidity
+[06:42] should i get the opportunity to do so
+[06:43] and i'll do it on the basis of a market
+[06:45] order
+[06:48] all right so far we're getting some
+[06:50] response off that order block
+[06:52] level i've annotated
+[06:58] ocd is
+[07:00] flaring i like things the way i like
+[07:03] them folks
+[07:04] all right nice little caffeine bar there
+[07:07] caffeine bar is something i named
+[07:10] big
+[07:11] green candles
+[07:13] if i'm bullish i want to see that i'm
+[07:16] embarrassing i see it i don't like it
+[07:30] so i'm just being a little facetious
+[07:32] here
+[07:33] you don't see
+[07:34] that type of stuff called before it
+[07:36] happens that precise
+[07:39] but it's okay i'm gonna give you
+[07:43] some more evidence here today
+[07:51] now this is what you want to do also if
+[07:52] you're practicing reading order flow
+[07:55] tape reading
+[07:57] you don't have to necessarily put a demo
+[07:58] account position on i'm doing it just
+[08:01] simply because a lot of people like to
+[08:02] see it
+[08:06] okay this is me just making sure you
+[08:08] understand that i see this before it
+[08:09] happens
+[08:13] not speaking in
+[08:15] waffles where it's hard to tell what i'm
+[08:18] saying what i'm expecting it's very very
+[08:20] specific
+[08:22] nothing ambiguous is being hinted at in
+[08:24] here
+[08:28] okay so cell side has been taken this is
+[08:30] now being dimmed so that way the focus
+[08:33] is on the
+[08:34] the levels that are more pronounced in
+[08:37] color
+[08:40] now see there's two down closed candles
+[08:43] the higher candle
+[08:45] of the two
+[08:46] i'm going to draw an older block on
+[08:50] it can drop down into that pick up
+[08:52] momentum from there and then the
+[08:54] algorithm will likely reprice
+[08:57] higher to the bicep liquidity
+[09:00] or around that 40 36 level
+[09:04] so i'm allowing for and preparing myself
+[09:06] should it trade down into that level
+[09:10] it might just touch the higher wick of
+[09:12] the two down closed candles i'm
+[09:14] anchoring to i'm using the uppermost
+[09:17] opening price as
+[09:19] kind of like the level i'm looking for
+[09:21] but
+[09:22] that small little wick
+[09:24] high
+[09:26] it might just touch that and be enough
+[09:28] or may not even touch it at all
+[09:31] but when you're watching order let me
+[09:32] make this a little bit more thicker so
+[09:34] you can see it
+[09:36] be able to track what price is doing
+[09:41] now this is one of those instances where
+[09:46] you're looking for price to
+[09:49] kind of like
+[09:50] drive higher you want to do it in like
+[09:54] big candles speed
+[09:57] delivery right to where you're looking
+[09:58] for
+[09:59] traders are now trying to go short
+[10:00] because
+[10:01] they looked at that imbalance the 8 30
+[10:04] the quick sudden drop the market has
+[10:06] come back and rebalanced that now it's
+[10:08] starting to drift lower people that
+[10:10] follow imbalances and things like that
+[10:11] because they've gotten real popular
+[10:13] lately
+[10:14] that
+[10:15] idea they're trying to sell short on i'm
+[10:18] going against that and i'm targeting
+[10:20] them okay so that's a that's a buy right
+[10:22] there
+[10:26] some
+[10:28] order block right there
+[10:31] all right i would adjust that line but
+[10:34] i've already outlined what i'm saying
+[10:36] here it's basically touched the
+[10:39] little wick
+[10:41] so if i wanted to add one more which i
+[10:44] guess i could i could buy one here just
+[10:46] to prove the point but
+[10:48] it is what it is let's assume that this
+[10:50] is all we're going to build on
+[10:52] i want to see it rally higher from here
+[10:55] notice i'm not in a hurry to rush my
+[10:57] stop-loss up
+[11:02] very nice price delivery there so think
+[11:05] about what's being shown here the down
+[11:07] close candles are supporting price
+[11:10] we're seeing expansion
+[11:12] and
+[11:14] where is the bull's-eye
+[11:18] get ready turn 50 my eyes are not what
+[11:19] they used to be folks
+[11:22] i'm sure if it was a rattlesnake i'd be
+[11:24] bit by now
+[11:29] uh there it is i should have checked my
+[11:31] most recent ones at the top
+[11:33] all right so we'll put that right here
+[11:35] that's our bullseye okay
+[11:43] and i can bring my stop-loss up to break
+[11:45] even i'm actually going to get that a
+[11:47] little bit higher
+[11:49] now you can see the profit and loss for
+[11:51] these guys that like to see those
+[11:53] numbers flashing
+[11:57] all right so i'm going to take four off
+[11:58] when it runs above that high and then
+[12:00] i'll
+[12:02] consider moving my stop up and see if i
+[12:03] can get lucky the rest of the day i have
+[12:04] things i have to take care of
+[12:06] administrative things and
+[12:08] video production so should we get this
+[12:10] run up
+[12:12] above i'm going to close four at market
+[12:19] okay just sitting here waiting for it to
+[12:21] deliver
+[12:24] and again those odor blocks were drawn
+[12:26] real time you saw it happen i've
+[12:29] outlined it gave you the logic
+[12:31] and we'll see if we can get
+[12:33] some magic
+[12:35] there we go
+[12:43] so i'm going to
+[12:48] show you the executions here
+[12:51] and we can see the
+[12:53] the business
+[12:56] okay and
+[12:59] i'll leave it up to the market to decide
+[13:00] whether or not it wants to go up here
+[13:02] and take the 40 51 and a quarter level
+[13:04] it doesn't need to at this point i've
+[13:06] booked over five hypothetical thousand
+[13:08] dollars in
+[13:09] this example here reading order flop
+[13:12] and that will be it for this one i
+[13:14] believe
+[13:15] and i'll just change this color here
+[13:18] because now it's been fulfilled
+[13:24] and my typical
+[13:28] sarcastic ribbing
+[13:32] gotta be me
+[13:37] so here is the final here is the buying
+[13:41] four
+[13:42] four thousand six and a quart and a half
+[13:45] and then buying this here
+[13:48] so the initial was buying the fair value
+[13:50] gap sales ops then the order block then
+[13:53] selling four above
+[13:55] here
+[13:56] and i moved the stop loss up
+[13:59] and it tripped me out right there on the
+[14:01] final two
+[14:02] so hopefully you found this insightful
+[14:05] until next time
+[14:07] be safe

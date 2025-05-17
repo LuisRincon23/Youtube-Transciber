@@ -1,0 +1,84 @@
+## Trading Analysis Overview
+This document consolidates detailed notes on trading analysis, including discussions on contract month delivery, market equilibrium, market conditions, trade predictions, market structure shifts, trade executions, algorithmic trading impacts, and more.
+
+---
+
+## Contract Month Delivery [00:32]
+- **Contract Month Delivery**: Contracts are delivered by contract month.
+  - Contracts are traded and delivered based on specific months.
+  - Transition from one contract month to another involves rolling over positions.
+  - Example: Trading of the June contract ending soon, rolling over into the September 2022 contract.
+
+## Market Equilibrium and Price Levels [00:54]
+- **Market Equilibrium and Price Levels**: Movement from swing low to swing high indicates equilibrium and price levels.
+  - Equilibrium highlighted on the chart.
+  - Premium and discount price levels defined based on equilibrium.
+  - Premium above equilibrium, discount below.
+
+## Market Condition Analysis [01:47]
+- **Market Condition Analysis**: Market described as oversold without indicators.
+  - Market in discount due to movement below equilibrium.
+  - Technical tools like rectangles and Fibonacci levels used for analysis.
+
+## Market Structure Shift [02:13]
+- **Market Structure Shift**: Indicates change in market direction.
+  - Shift leads to price rally.
+  - Traders adjust positions based on market structure changes.
+
+## Trade Prediction and Analysis [03:12]
+- **Trade Prediction and Analysis**: Predicts potential trade higher.
+  - Analysis of price movements and liquidity for trade direction.
+  - Specific price levels mentioned as trade targets.
+
+## Trade Execution and Management [03:44]
+- **Trade Execution and Management**: Details on trades, entry points, stop-loss, and management.
+  - Trades based on market conditions like discounts or premiums.
+  - Stop-loss levels set for risk management.
+  - Monitoring and strategy adjustments based on market movements.
+
+## Market Structure and Stop Runs [04:46]
+- **Market Structure and Stop Runs**: Discussion on market structure shift and sell stops.
+  - Market structure changes lead to stop runs and price shifts.
+  - Traders capitalize on stop runs strategically.
+
+## Algorithmic Trading Impact [05:07]
+- **Algorithmic Trading Impact**: Observes buying cell stops and trade heat.
+  - Market influenced by algorithmic trading behavior.
+  - Traders react to algorithmic movements for profit.
+
+## Market Structure Shift [05:19]
+- **Market Structure Shift**: Short-term shift discussed.
+  - Identifying shift based on price movements.
+  - Example of premium run-up on Twitter.
+  - Shift occurred when price took out a high and dropped into fair value gap.
+
+## Model Entry and Liquidity Clearing [06:00]
+- **Model Entry and Liquidity Clearing**: Absence of model entry signals unclear trading setup.
+  - Lack of model entry as a signal to traders.
+  - Market clears sales liquidity by dropping and rallying.
+
+## Market Structure Shift and Order Block [06:30]
+- **Market Structure Shift and Order Block**: Another shift observed.
+  - Shift after equal highs and drop in order block.
+  - Price action of rallying, dropping, and consolidating.
+
+## Trade Execution [07:23]
+- **Trade Execution**: Details on speaker's trade execution.
+  - Entry point at 4120 on five contracts.
+  - Sells three contracts at 4139.25 and final two on limit order at 4143.75.
+
+## Non-Farm Payroll Scenario [08:00]
+- **Non-Farm Payroll Scenario**: Impact of scenario on trading.
+  - First week transitioning to new month.
+  - Preference for completing trading by Wednesday due to scenario.
+
+## Discipline and Consistency [08:29]
+- **Discipline and Consistency**: Emphasis on trading discipline and consistency.
+  - Rules and engagement essential in trading.
+  - Decision to halt trading due to market uncertainty.
+
+## Closing Remarks [09:10]
+- **Closing Remarks**: Conclusion and future plans.
+  - Finishing obligations with private group.
+  - Social media silence until Thursday, next video post.
+  - Encourages viewers to stay safe until the next update.

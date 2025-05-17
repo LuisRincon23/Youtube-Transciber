@@ -1,0 +1,203 @@
+[00:08] all right folks welcome back so this
+[00:11] lesson is going to be a little bit
+[00:11] shorter more direct to the point and
+[00:14] we'll be looking at some
+[00:16] examples since I showed you uh what
+[00:18] we're looking for on Tuesday night so
+[00:21] Wednesday's trading and Thursday's
+[00:22] trading we'll take a look at
+[00:26] that all right first up is the EM mini
+[00:29] S&P March delivery contract for
+[00:32] 2022 Wednesday January 26th once you
+[00:36] take a look at this low over here okay
+[00:38] and don't just use my charts you want to
+[00:40] look at your charts and go through it
+[00:43] from your platform your broker whatever
+[00:47] feed that you're
+[00:48] using this is trading view it's a free
+[00:51] charting package when it's end of data
+[00:54] but if you want to have real time I
+[00:56] think I'm paying $4 a month for the data
+[01:00] it's not really expensive but you want
+[01:03] to have the low over
+[01:05] here on Wednesday the 26th and you'll
+[01:09] see why I picked that low there
+[01:12] because it's the low okay and then this
+[01:15] is the high so we have this price run
+[01:17] from this low to this High that's our
+[01:20] range so you want to drop your FIB on
+[01:22] that now get your equilibrium price
+[01:25] point
+[01:26] so as the highs we're r
+[01:30] through we have that run up the market
+[01:33] gets pushed into a premium it's really
+[01:36] expensive and then we want to wait to
+[01:38] see does it break down below the old
+[01:41] high it does but does it create a fair
+[01:44] value Gap in here no then it rallies one
+[01:47] more
+[01:48] time then breaks down
+[01:51] again inside here there's a break-in
+[01:54] Market
+[01:57] structure we see it here
+[02:00] then it runs back up into the fair B Gap
+[02:03] here and then sells off reaching
+[02:07] into this old
+[02:09] low which would be
+[02:12] below the equilibrium price point of
+[02:14] this entire range or 50% level on the
+[02:20] FIB okay put some lipstick on this again
+[02:24] here's the low and the high equilibrium
+[02:28] which is a 50 level and the 50 Bach so
+[02:31] we're looking for a low or an imbalance
+[02:35] below this level okay so we have a swing
+[02:39] low here we have an imbalance here that
+[02:42] could be a Target notice how we hit it
+[02:44] there and came off of it more pronounced
+[02:48] low
+[02:50] here and draws down into that so inside
+[02:53] this shaded Blue Area we're going to
+[02:54] take a closer look at the
+[02:58] details okay we're zoomed in a little
+[02:59] bit again still on a 2-minute
+[03:01] chart previous High short-term high and
+[03:05] 8:30 in the morning that starts the hunt
+[03:08] basically that's what 8:30 in the
+[03:09] morning is to me so we're looking for an
+[03:11] old high to be violated it does so
+[03:14] here then it breaks there's a break-in
+[03:17] Market
+[03:20] structure swing low this candle over
+[03:23] here that sets the stage now you have a
+[03:25] opportunity does price draw back up into
+[03:28] the fair value Gap after this candle
+[03:30] breaks below here and giving you a
+[03:33] bearish market structure shift yes it
+[03:35] trades up in the ne value Gap you can go
+[03:36] short there and again you could Target
+[03:39] this old low here or that low that was
+[03:43] annotated before we zoomed in and look
+[03:46] at the beautiful delivery there so
+[03:49] hypothetical short from here and
+[03:52] hypothetical cover here you would log
+[03:55] that in your study Journal don't use my
+[03:57] examples here alone go into your own
+[03:59] charts and an them as
+[04:00] well so shorting around we'll
+[04:04] say
+[04:06] 4419 and covering
+[04:09] at we'll say
+[04:11] 4382 just to
+[04:13] be you know not perfect that's the
+[04:17] opportunity of the range but you don't
+[04:20] have to have all of that it's still very
+[04:22] very nice delivery based on the logic I
+[04:24] taught you on Tuesday and the first
+[04:26] lesson on the previous week's Friday
+[04:29] again there's that fair Val you
+[04:32] got and that's your candle that would be
+[04:36] considered as a ideal
+[04:39] entry and the discount hold low as a
+[04:42] Target right there so your charts would
+[04:45] look just like this in any open space
+[04:47] like over here you would just type in
+[04:49] whatever important factors that you
+[04:51] found insightful about this example how
+[04:54] long did it take okay how long did it
+[04:56] take from the market structure shift
+[04:59] occurr ing how much time did it take to
+[05:01] get up into the fair value capap that's
+[05:03] real important how long did it take
+[05:05] before it went from your entry down to
+[05:07] your Target in
+[05:09] time how much heat or Draw down would
+[05:13] you have weathered getting
+[05:16] short now if you used this candle's high
+[05:20] as your entry point you technically
+[05:22] could have got filled
+[05:23] here but in here I want to teach you to
+[05:26] look at the total range available and in
+[05:29] hindsight okay because it gives you a
+[05:31] framework to look for how these examples
+[05:33] while they're not exactly the same they
+[05:35] don't repeat exactly photocopy of every
+[05:37] single previous instance of it there's a
+[05:40] lot of similarities that you'll find
+[05:42] that are reoccurring and that's the
+[05:44] important factor to train your eye to
+[05:46] see it remember the analogy I gave you
+[05:49] on Tuesday night about the deer track
+[05:51] and being a hunter you have to know what
+[05:53] a deer track looks like you have to know
+[05:55] what a deer track is to stalk it
+[05:56] effectively well this is your pattern
+[05:58] and setup so you need to go in looking
+[06:00] for it so it reinforces the idea that
+[06:02] you know what it looks
+[06:05] like all right we're looking at the e-
+[06:07] mini nasac futures for Thursday January
+[06:09] 27th 2022 this is a 5 minute chart this
+[06:13] is the time frame you start with and you
+[06:14] work down okay so on the 5 minute right
+[06:19] away we can see the low to the high and
+[06:24] we're looking
+[06:25] for a high and go back in time in your
+[06:29] chart
+[06:30] and you'll find what this is here but
+[06:32] you have these relative equal highs as
+[06:34] well so that could have been a initial
+[06:36] objective looking for these relative
+[06:38] equal highs to be taken out and does it
+[06:40] break down and give you a fair value Gap
+[06:42] no it doesn't so it wouldn't even meet
+[06:43] the criteria there I know some of you
+[06:45] might be looking say well how do you
+[06:46] know it doesn't get you on a trade here
+[06:48] listen to the rules I gave you they're
+[06:50] very specific and that's what I'm
+[06:52] walking you through here that way you
+[06:53] can see it's kind of allowing the market
+[06:55] or really forcing the market to show you
+[06:59] its hand and once it does that then you
+[07:01] can go in and act accordingly but you
+[07:03] have to wait for the setup you can't
+[07:05] force it you can't think it's there it's
+[07:07] there or it's not so we have old High
+[07:09] Here by liquidity resting above that and
+[07:11] we have a run above it once it goes
+[07:12] above here doesn't go above it and break
+[07:15] down and then go down below that
+[07:16] short-term low there no it goes higher
+[07:19] so we just keep waiting for a break
+[07:22] lower to get a shift in the market
+[07:24] structure on an intraday basis so we
+[07:26] have a swing low
+[07:27] here it trades down through it on this
+[07:30] candle here so right away at that moment
+[07:33] on this candle soon as this candle
+[07:35] trades through it you now have an
+[07:37] opportunity then you go back into the
+[07:39] high to that candle low and do you see a
+[07:43] fair value Gap it's right
+[07:45] there okay this Market rallies back up
+[07:48] trades into it here you can be a short
+[07:51] seller there and the market breaks down
+[07:54] one more time ret trades back into it
+[07:57] and reaches below the equilibrium price
+[07:58] point he has a couple targets here you
+[08:01] could be
+[08:02] here here or in the inbalance and it
+[08:05] hits all of them and goes a little bit
+[08:06] further
+[08:12] lower all right so that was quick and
+[08:15] hopefully painless and again we're
+[08:17] looking at internal range liquidity and
+[08:19] Market structure shifts intraday my
+[08:22] advice is for you to go back through
+[08:24] more data use the weekend that's coming
+[08:28] and acquire more of those examples so
+[08:31] that way you can include them in your
+[08:33] study Journal next week I'll work on
+[08:36] targeting refinement and entries until
+[08:40] I'll talk to you then enjoy your weekend
+[08:41] and be safe

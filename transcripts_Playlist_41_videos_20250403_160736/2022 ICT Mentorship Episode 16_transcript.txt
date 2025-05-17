@@ -1,0 +1,1510 @@
+[00:10] all right folks welcome back
+[00:13] this lesson i'm going to talk about
+[00:15] the
+[00:16] idea of multiple setups inside of the
+[00:19] trading sessions so there's a morning
+[00:21] session and there's a pm session when
+[00:23] you're working with the new york
+[00:25] index features
+[00:27] if you look at the
+[00:29] market in terms of
+[00:31] a split day
+[00:33] the new york lunch hour between noon
+[00:36] and 1 o'clock p.m new york local time
+[00:41] 8 30 in morning
+[00:42] to noon that's essentially the morning
+[00:45] session
+[00:47] there can be multiple setups inside of
+[00:49] that now some of the things i've noticed
+[00:50] in
+[00:51] the comment sections of the videos
+[00:54] some viewers and students are asking
+[00:58] what do i mean by multiple setups like
+[01:00] what does it look like
+[01:02] and i kind of want to touch a little bit
+[01:03] on that tonight
+[01:05] also i want to
+[01:07] give you a little bit more perspective
+[01:09] on how you can look for additional ways
+[01:11] of trading
+[01:12] what it is i'm sharing here if we look
+[01:14] at the
+[01:15] s p futures mini contract for june 2022
+[01:19] you can see we recently traded up
+[01:22] above the relative equal highs
+[01:24] so
+[01:25] buy stops and buy side liquidity were
+[01:27] resting right above here
+[01:29] so as the market drove above that we
+[01:31] always have the likelihood of seeing it
+[01:33] continue going higher
+[01:35] but whenever it goes above
+[01:37] relative equal highs and then we get a
+[01:39] swing high like this that being the high
+[01:41] here
+[01:42] lower than the higher candle here and
+[01:44] the next candle after this candle it has
+[01:47] a lower high as well so it's
+[01:50] a swing high not to be confused with a
+[01:53] fractal
+[01:54] that's used like an mt4
+[01:57] okay that
+[01:58] is not what i'm talking about okay that
+[02:01] takes more candles to make it and by
+[02:04] then five candles later it's just
+[02:06] you've already missed the move
+[02:09] so swing high here since this candle
+[02:10] closes the next day i'm looking for
+[02:13] something to create an opportunity to go
+[02:15] short
+[02:16] so we could be anticipating a open here
+[02:18] rally power three which is what i
+[02:21] already taught on the youtube channel
+[02:23] the accumulation manipulation
+[02:25] distribution
+[02:27] and then
+[02:28] incorporating
+[02:31] the next level of analysis which is
+[02:35] understanding whether we're going to be
+[02:36] in a premium or discount market now
+[02:38] obviously we're on a premium market
+[02:39] we're above old highs here we really
+[02:41] stretched out on the outside
+[02:44] from this high if we start to go lower
+[02:46] this down close candle is your bullish
+[02:48] order block
+[02:49] okay
+[02:51] the idea of it trading into that down
+[02:53] closed candle once it goes above these
+[02:55] highs that's favorable that's something
+[02:57] that could potentially happen
+[02:59] now obviously i have the benefit of
+[03:01] hindsight here but i promise you if you
+[03:03] if you study what i'm teaching you
+[03:06] you'll see this repeating okay
+[03:09] so the market does in fact trade down
+[03:11] into this down closed candle that is
+[03:13] your bullish order block but i want to
+[03:14] go inside this particular day here which
+[03:16] is obviously friday
+[03:19] and we're looking at
+[03:21] the internals behind what it is i'm
+[03:24] trying to teach you and how you can find
+[03:25] multiple setups inside of each
+[03:28] respective session the morning session
+[03:30] and the pm session
+[03:34] all right so here is the hourly chart on
+[03:36] the s p futures mini contract for june
+[03:38] 2022
+[03:39] and i kind of like wanna
+[03:41] bring your mindset back into what we're
+[03:43] looking for
+[03:45] and that is
+[03:47] the power three we're looking for an
+[03:49] expansion move direction higher or lower
+[03:52] in this case we're looking for it to go
+[03:53] lower
+[03:54] because we have
+[03:56] the daily bullish order block level that
+[03:58] line here
+[03:59] level 4504
+[04:01] and look at the lay of the land okay
+[04:04] what is it that we see also in the price
+[04:06] action well go to the left you can see
+[04:08] we have a relative equal lows we have
+[04:09] this low
+[04:11] and we have this low here so they're
+[04:13] relatively equal not exactly that's why
+[04:15] i named them relatively equal lows
+[04:18] the idea of liquidity resting below here
+[04:21] by itself without the order block is
+[04:23] likely but it's further
+[04:25] likely
+[04:26] if we have a discount array which is
+[04:29] that bullish order block on the daily
+[04:30] chart
+[04:32] so we have multiple factors here leading
+[04:34] to the likelihood of this area being
+[04:36] probed for
+[04:38] the purpose of pairing liquidity the
+[04:40] cell stops basically being rated
+[04:44] initially in the morning we were seeing
+[04:45] the market trade higher higher higher
+[04:47] higher
+[04:48] and then
+[04:49] we broke lower attacking the sell side
+[04:51] liquidity here and then aggressively
+[04:53] running into the daily bullish order
+[04:54] block
+[04:57] i want you to take a look at this
+[04:58] framework from this high down this low
+[05:00] and this being a fulcrum point that
+[05:02] being
+[05:03] if this high trades
+[05:06] to this low and we break this low how
+[05:08] far can we go down i'm going to touch on
+[05:10] that in the next slide but for right now
+[05:12] i want you to think about how the
+[05:14] opening price what's the opening price
+[05:17] well there's two
+[05:19] if you're trading index futures the
+[05:20] opening price is midnight at new york
+[05:22] time
+[05:24] and that's this candle here that's the
+[05:25] opening price here and then there's
+[05:27] another opening price at 8 30 in the
+[05:29] morning the opening price
+[05:32] in the candle that begins 8 30. it
+[05:35] doesn't matter what candle you use i see
+[05:37] a lot of questions popping up about that
+[05:39] like what's the opening price and what
+[05:40] can we use
+[05:42] as soon as you have
+[05:43] 8 30
+[05:45] beginning a new candle it could be a one
+[05:47] minute candle it could be a three minute
+[05:49] candle
+[05:50] an hourly candle 15 minute candle
+[05:53] whatever that opening price is that's
+[05:55] what you want to note at 8 30.
+[05:58] so if you're bearish
+[06:00] ideally you want to see
+[06:02] the market trade above that opening
+[06:03] price this is going to be manipulation
+[06:06] okay
+[06:07] the manipulation is the running above
+[06:11] a key level when we are bearish we're
+[06:13] expecting this to go lower
+[06:15] all of this is basically
+[06:17] market protraction where it's a judas
+[06:19] swing okay the market's going in the
+[06:22] opposing direction that it's likely to
+[06:23] go to
+[06:24] later in the day so later in the day we
+[06:27] expect this to go lower where is it
+[06:28] going to go below this low if it
+[06:30] accelerates below this low where could
+[06:32] it go
+[06:33] below here okay then we have the bullish
+[06:34] order block on the daily chart so we
+[06:36] have a lot of things coming together
+[06:38] that draw on a great deal of
+[06:41] probabilities
+[06:42] now probabilities are not
+[06:45] absolute
+[06:46] guarantees okay that that's not the case
+[06:48] in trading if that was the case i would
+[06:50] never take a losing trade you would
+[06:51] never take a losing trade we wouldn't
+[06:52] need you stop losses and be great but
+[06:55] unfortunately
+[06:56] we have to contend with risk
+[06:59] that being the case
+[07:00] we have to at least
+[07:02] build the idea around the likelihood of
+[07:05] a scenario unfolding but
+[07:07] being prepared
+[07:09] if it doesn't
+[07:10] so
+[07:12] if this market is opening
+[07:14] here at midnight and it starts to rally
+[07:17] we can anticipate this selling off but
+[07:19] if it can sell off from here and trade
+[07:21] below this low
+[07:23] how much further can it go below these
+[07:25] relative equal lows obviously we have
+[07:27] the daily bullish order block level here
+[07:29] right here
+[07:31] now let me take you back up real quick
+[07:33] that's this level here the opening price
+[07:35] on this down close candle that's the
+[07:37] order block
+[07:38] extending that line out in time you end
+[07:40] up with this on the hourly chart so we
+[07:43] drop down into that level and look at
+[07:45] the reaction there it's nice isn't it
+[07:47] so
+[07:48] going below this low that's the initial
+[07:50] target then reaching below the relative
+[07:51] equal lows over here because that's
+[07:53] where cell cell equity is going to be
+[07:54] residing then tapping into that bullish
+[07:57] order block on the daily chart
+[08:00] but how much further can we go below
+[08:02] that level
+[08:05] how far
+[08:06] beyond the actual order block level
+[08:08] can we go
+[08:11] well i'm going to zoom in on a 15-minute
+[08:13] time frame i've already taught this in
+[08:15] other lectures but i want to revisit it
+[08:17] here because
+[08:18] this is what you're looking for when
+[08:20] you're doing your analysis when
+[08:21] everything starts to show a willingness
+[08:23] to want to go lower how do we know it's
+[08:24] going to go lower well we have the swing
+[08:27] low here
+[08:28] decisively broken see that this low
+[08:31] broken heart
+[08:33] then we trade back up into the imbalance
+[08:35] here so the fair value gap we trade up
+[08:36] into it here at this point we anticipate
+[08:39] the candles
+[08:40] past this or the new forming candles to
+[08:43] trade lower and trade below this low and
+[08:46] if it does go below this low we're
+[08:47] looking at this price point here that
+[08:49] low as a fulcrum point
+[08:51] that being
+[08:53] measuring this high down to that low
+[08:55] that same measurement of
+[08:57] distance and we expect that projected
+[09:00] lower
+[09:01] okay so this is my swing trading model
+[09:04] and i'm applying it to targeting
+[09:06] so the way you do it is you take your
+[09:07] fibonacci and you anchor it to the
+[09:09] highest
+[09:10] body it could be open or closed it
+[09:12] doesn't make a difference
+[09:14] but you anchor it on that notice i'm not
+[09:15] putting on the high here
+[09:17] and i'm doing the same thing with the
+[09:18] lowest open or closed in this swing low
+[09:22] this retracement up
+[09:24] i'm measuring
+[09:26] the distance in terms of range
+[09:28] with the bodies of the candles the first
+[09:30] time i taught this on youtube i had a
+[09:32] lot of folks scratching their head and
+[09:34] many trolls saying he doesn't even know
+[09:36] how to use a fib
+[09:39] i'm showing you how the algorithm is
+[09:41] going to read the price okay the wicks
+[09:45] and the tails
+[09:46] are all distractions
+[09:49] that's all going to be
+[09:51] largely attributed to what the
+[09:53] if you're especially if you're trading
+[09:54] with 4x and obviously i'm aware that
+[09:57] this is not 4x but
+[09:59] i learned this through
+[10:02] the models that i employ with
+[10:06] forex
+[10:07] now it's a carryover in terms of
+[10:09] analysis because you can apply it here
+[10:10] as well
+[10:12] it wasn't always like this
+[10:15] when there was open outcry only and
+[10:17] there was no electronic trading this
+[10:19] wasn't
+[10:20] as pure as you're going to see and has
+[10:22] it's been shown in the past by me in
+[10:25] other videos and examples but
+[10:27] by having a measurement from the highest
+[10:29] body in this swing up in this swing low
+[10:33] the lowest body that means the lowest
+[10:35] open or closed okay i'm anchoring the
+[10:37] fib on that
+[10:39] the settings on the fibonacci i have
+[10:41] included here and these are the ones
+[10:43] that's highlighted for this
+[10:45] illustration so below this low we're
+[10:47] looking for it to run into sell side
+[10:50] so if it goes below this low and
+[10:53] aggressively expands lower
+[10:55] this could be your next target 45
+[10:57] 14 and a half
+[10:59] if it goes below this one
+[11:01] we can anticipate it trading down to
+[11:03] what
+[11:04] 45 0 1 and a quarter
+[11:07] now the question you're going to
+[11:08] probably have in your mind is okay this
+[11:10] is all fine and great but how do we know
+[11:12] which one to pick ict if you put a
+[11:14] thousand lines on your chart ict
+[11:16] eventually they're gonna somebody's
+[11:17] gonna see one of those levels get hit
+[11:20] and then you're gonna make a video and
+[11:21] say see how smart i am
+[11:25] i've seen all of your arguments i've
+[11:26] seen that kind of stuff tossed around in
+[11:28] the forums and such so
+[11:30] if we look at the idea that
+[11:32] that 45 04 and a quarter
+[11:35] is just below what level
+[11:38] that daily bullish order block
+[11:40] at 4504
+[11:43] well
+[11:44] at 4504 and we're getting a measurement
+[11:46] down here
+[11:47] that means we could see it trade down to
+[11:49] that level here now if you look up here
+[11:51] at this level right there that low is
+[11:55] exactly the candles low right there
+[11:57] don't take my word for it go over to
+[11:59] trading view
+[12:00] pull up the june contract for 2022
+[12:03] e-mini s p
+[12:05] that is your daily low
+[12:07] you can't predict daily highs and lows
+[12:09] ict
+[12:10] that's impossible
+[12:11] well
+[12:13] it is possible if you understand the
+[12:15] elements that these algorithms operate
+[12:16] under and my question to you is can you
+[12:19] get any better than that
+[12:22] is there any other measurement
+[12:24] in terms of precision that gets you any
+[12:27] closer to forty five zero one and a
+[12:28] quarter
+[12:30] not when the low is forty five
+[12:33] zero one and a quarter
+[12:36] look at the reaction there now the order
+[12:38] block level is just right here
+[12:41] but it stabs down into
+[12:43] what the algorithm is going to measure
+[12:45] so there's the order block it wants to
+[12:47] go down to it anyway there's relative
+[12:49] equal lows it knows there's liquidity
+[12:50] down there and you have the measurement
+[12:53] so the precision element is only going
+[12:55] to be beneficial if you have all the
+[12:57] other narrative incorporated with your
+[13:00] analysis that being the market's likely
+[13:02] to go lower
+[13:03] because we ran out those relative equal
+[13:04] highs on the daily chart
+[13:06] we created this swing high we broke
+[13:08] lower aggressively we're likely to trade
+[13:10] in that daily bullish order block then
+[13:12] we have this retracement here
+[13:14] it completely closes in all the
+[13:16] imbalance that's between this low and
+[13:18] this high of that candle it rebalanced
+[13:21] all that and then
+[13:23] we roll over here's that gap i mentioned
+[13:26] trades up into that we anticipate what
+[13:28] the candles after this candle closes
+[13:30] we want to see acceleration to the
+[13:32] downside we get it
+[13:34] the market starts working lower lower
+[13:37] and finally right on a dime
+[13:41] that candle
+[13:43] is that low
+[13:45] and that's your swing projection i teach
+[13:47] in this youtube channel
+[13:49] you will not get that measurement
+[13:51] if you use this swing high in that swing
+[13:54] low
+[13:55] that's why everybody that uses fibonacci
+[13:58] struggles
+[13:59] oh fibonacci is a joke
+[14:01] it's not a joke
+[14:03] if you are doing the measurements
+[14:05] correctly now these are just
+[14:08] targets but they are more meaningful
+[14:10] when you apply and layer other things in
+[14:13] analysis
+[14:14] like the purpose of running to liquidity
+[14:16] below those relatively equal lows into a
+[14:18] discount array which is the bullish
+[14:21] daily order block
+[14:23] when you bring that together you get
+[14:25] these types of results which is
+[14:27] perfection there's nothing better than
+[14:30] this folks you cannot improve upon
+[14:32] perfect
+[14:36] all right so
+[14:37] taking this a little bit further now
+[14:38] we're into a 15 minute time frame
+[14:40] the opening price again
+[14:42] is this candle here which is midnight
+[14:45] new york time
+[14:46] the opening price
+[14:48] that candle you extend that out in time
+[14:51] if you're bearish
+[14:53] and you are looking at your daily chart
+[14:55] because the majority of your analysis
+[14:56] should be framed on your daily chart
+[14:58] where is it likely to go where is the
+[14:59] expansion likely to
+[15:01] take price higher or lower that's the
+[15:03] main thing you're trying to look for
+[15:04] because that's going to carve out your
+[15:06] bias
+[15:07] so if you know that the likelihood of
+[15:09] price
+[15:10] wanting to draw down this daily bullish
+[15:11] order block
+[15:13] and we have that level of 4501 and a
+[15:15] quarter which is that candle's low we
+[15:18] don't need to have that yet
+[15:19] but we know that this is going to be a
+[15:21] draw on liquidity because it's also
+[15:23] below those relative equal lows that i
+[15:24] mentioned when we're looking at the
+[15:26] higher time frame chart
+[15:28] so all of this here is a build up into
+[15:32] the premium
+[15:33] the market then breaks aggressively what
+[15:35] does it create here
+[15:37] what happened
+[15:38] here we had a displacement down did that
+[15:42] take out that swing low yes
+[15:44] does it trade up into that imbalance
+[15:46] right here
+[15:47] yes
+[15:48] does it trade above the opening price
+[15:51] yes
+[15:52] how many boxes did we just check off
+[15:53] there a whole lot
+[15:55] probabilities are now going through the
+[15:57] roof that this is bearish
+[15:59] then the market breaks lower trades down
+[16:02] to the old swing low sell side liquidity
+[16:04] resting below there watch what happens
+[16:06] we trade down through it
+[16:08] and then we aggressively rebalance
+[16:10] all this down move we come right back up
+[16:13] into it bearish order block
+[16:15] then sells off another wave into this
+[16:17] short term low deeper below this low
+[16:20] and into eventually
+[16:22] into the lunch hour and passed it
+[16:25] for the daily bullish order block
+[16:27] now when you look at
+[16:29] this type of price action
+[16:32] you might not see that as an entry but
+[16:34] it is taught to you in this mentorship
+[16:37] on youtube that is the lesson right here
+[16:40] because if you look back here we have
+[16:41] these highs
+[16:42] we trade above it
+[16:44] does it break below
+[16:46] it does does it give them a balance yes
+[16:48] does it trade up in here on the 9 30
+[16:50] opening yes
+[16:52] and then does it run where we want it to
+[16:54] liquidity
+[16:56] and discount array in the form of a
+[16:57] bullish order block yes
+[16:59] but
+[17:00] what other setups are here
+[17:03] because i mentioned
+[17:04] in my
+[17:07] real money real results series where i
+[17:08] was showing actual live account results
+[17:10] and proving that these things make money
+[17:12] not just in demo
+[17:14] and by the way i appreciate all the
+[17:16] feedback i'm getting in the commentary
+[17:18] section of each video in the comment
+[17:19] section
+[17:20] but
+[17:22] i've read a lot of the questions about
+[17:25] you know
+[17:26] what do i mean by having no more than
+[17:28] four trades two trades in the morning
+[17:30] two trades in the afternoon what did i
+[17:32] mean by that because i read one guy he
+[17:35] was saying i can't even find you know
+[17:38] four examples of this and i may not be
+[17:40] saying this correctly but you can't find
+[17:41] that many examples of it forming over
+[17:43] the course of a week let alone a few
+[17:46] times in intraday so we're going to walk
+[17:48] through
+[17:49] today's price action and show it
+[17:51] with clarity
+[17:54] all right so here's the opening price
+[17:55] again on a five minute chart here's the
+[17:57] 15 minute time frame fair value gap and
+[18:00] the market trades right back up into it
+[18:02] about the opening price that's what it
+[18:03] would look like on a 5-minute chart
+[18:04] notice it does not look
+[18:07] clean
+[18:08] like it does on the 15-minute timeframe
+[18:10] let's go back up one more time
+[18:12] see the gap here and that run right
+[18:15] there at 9 30.
+[18:16] that
+[18:18] coupled
+[18:20] with this time frame
+[18:22] you probably wouldn't see that as a cell
+[18:24] you would want to see this filled in
+[18:27] but you got to look at the higher time
+[18:28] frame the higher time frame 15 minute
+[18:30] time frame is providing you the
+[18:32] framework it's giving you context that
+[18:34] okay this is all we need we don't need
+[18:37] it to trade up into that
+[18:39] it could
+[18:40] but we don't need it to
+[18:42] so when it trades up there
+[18:44] then it starts to break down
+[18:46] it rebalances
+[18:47] breaks down again
+[18:50] works into that short term low
+[18:53] sells off again
+[18:54] retracement sells off again
+[18:57] in here
+[18:58] this is your entry at the opening so in
+[19:00] the morning session you typically have
+[19:03] two to three setups because you have
+[19:05] volatility coming in at the opening
+[19:07] opening being 9 30
+[19:09] new york local time
+[19:11] that can be very tricky if you're not
+[19:14] really sure what you're doing
+[19:17] you can get caught up in the initial
+[19:18] volatility and offside real quick and it
+[19:21] can run against you aggressively and
+[19:22] hurt you
+[19:24] i prefer
+[19:26] to see
+[19:27] my students look for the initial move
+[19:30] to kind of like qualify what you're
+[19:32] expected lower prices right so does it
+[19:34] give it here yes it does so how can you
+[19:36] participate in something like that and
+[19:38] still
+[19:39] have the bias behind you and have
+[19:42] multiple setups that you can take well
+[19:44] let's take a closer look on the lower
+[19:45] time frame
+[19:46] here's the one minute chart here's that
+[19:48] return back up into the fair value gap
+[19:49] in the 15 minute time frame and wasn't
+[19:51] so clear with the five minute but now
+[19:54] look what we have here
+[19:55] small little imbalance there that fair
+[19:57] value gap right above a short term high
+[19:59] we trade up into that there
+[20:01] on a one minute chart you would see that
+[20:04] as a setup for the one minute chart
+[20:09] before i go any further
+[20:11] i want you to pause the video
+[20:14] i know some of you don't like to do this
+[20:16] because you just want to get through it
+[20:17] you're watching the video at two times
+[20:19] the speed because i talk slow
+[20:21] this is the time when you want to stop
+[20:24] slow down because you will cheat
+[20:26] yourself
+[20:27] out of learning
+[20:28] this is the little moments like when i'm
+[20:31] teaching my private group
+[20:33] these are these opportunities if you
+[20:35] waste them
+[20:36] you do not learn
+[20:39] the best way okay there's a good there's
+[20:41] a good way of learning and there's the
+[20:43] best way of learning and the best way is
+[20:45] actually participating not just casually
+[20:47] watching don't netflix binge watch ict
+[20:49] this is where you stop the video
+[20:52] ask your spouse or whatever this give
+[20:54] you a couple minutes to focus
+[20:56] undisturbed that way you can pull out
+[20:59] the things i'm trying to show you in
+[21:00] this lesson otherwise it's just another
+[21:02] you know event where i'm talking about
+[21:04] hindsight but what i'm showing you here
+[21:07] is something that repeats every single
+[21:10] day
+[21:11] this is how i can go in every single day
+[21:13] and take money out of the marketplace i
+[21:15] took the live account up another
+[21:17] thousand dollars today so we're over
+[21:18] fifty one thousand dollars and
+[21:21] these are the types of setups that you
+[21:22] can do you can find these and you don't
+[21:24] have to have the absolute perfect entry
+[21:26] at the opening you don't need that
+[21:28] okay that's the benefit of what i'm
+[21:30] sharing here publicly i want you all to
+[21:33] have the ability to feed yourself and
+[21:35] your own family
+[21:37] not to rely on a job
+[21:40] if you look for these types of setups
+[21:42] with this logic i am confident
+[21:45] that you can do what i just said
+[21:47] and those that really want to
+[21:48] supercharge it
+[21:49] can take it way beyond that competitions
+[21:52] you know whatever
+[21:55] but we have the logic here that's that
+[21:56] old short term low all i did was extend
+[21:58] the line out because it doesn't exist in
+[22:00] the chart over here because
+[22:02] i don't have enough of the data showing
+[22:04] but that short term low that was a
+[22:05] fulcrum point remember
+[22:07] that's this low here
+[22:08] so
+[22:09] i'm referencing that zone that there's
+[22:11] where the sell side liquidity is
+[22:13] but i want you to pause the video and go
+[22:14] through this price action and find the
+[22:17] setups that you would see as a shorting
+[22:19] opportunity if your bias was in line
+[22:21] with what i'm suggesting here as it
+[22:23] should have been being bearish
+[22:30] okay i'm gonna continue the conversation
+[22:33] if you are not ready you've missed your
+[22:35] opportunity
+[22:37] all right so the first fair value gap
+[22:39] here
+[22:41] right there because we have this short
+[22:43] term low
+[22:44] broken
+[22:45] with the run lower so there's
+[22:47] displacement there obvious displacement
+[22:50] very energetic and we have this candle
+[22:51] is high this candle is low and the
+[22:53] market returns back up into it you can
+[22:55] go short there
+[22:56] and look for what's the first objective
+[22:58] that fulcrum point that short term low
+[23:01] aim for the liquidity so your target
+[23:02] would be there
+[23:03] so you could do like say you did two
+[23:05] contracts entry here
+[23:07] short here too you can take one off here
+[23:10] let it ride and then see if you can get
+[23:12] that lower time frame objective later in
+[23:14] the day
+[23:15] now i don't want to take entries during
+[23:17] the lunch hour between noon and 1
+[23:18] o'clock but you can take profits if
+[23:21] you're doing like a partial like you did
+[23:23] one here
+[23:24] i'm sorry if you did two short contracts
+[23:27] here you took one off at your first
+[23:28] target and you want to see if you can
+[23:29] get the other objective if you have a
+[23:31] limit order at the order block level
+[23:33] plus you know a couple points
+[23:36] it could feel during the lunch hour you
+[23:38] don't need to be babysitting it being in
+[23:39] front of it then because you've already
+[23:41] funded your position and trade by taking
+[23:43] one off them here off and moving your
+[23:45] stop to break even and to see what it
+[23:47] can yield in terms of the daily range
+[23:52] next one is here
+[23:53] another short term low taken
+[23:56] fair value got there we trade back up
+[23:58] into it that's a short
+[23:59] you can go short here and again same
+[24:01] premise looking for the first run below
+[24:03] here that will be your target taken
+[24:05] there if you did multiple contracts you
+[24:07] would get short here take two take one
+[24:09] off
+[24:10] this might scare you
+[24:12] not so much probably if you were short
+[24:14] from up here but here could be a little
+[24:16] bit intimidating but if you've taken one
+[24:19] of the contracts off below here even if
+[24:22] it were to come back up and take you out
+[24:23] and stop you out
+[24:25] the first contract allows you to be
+[24:26] profitable so it kind of balances things
+[24:29] out
+[24:32] another one is here we have the
+[24:34] imbalance here
+[24:36] after
+[24:37] we aggressively move lower and then
+[24:39] retrace back up in this is why i'm
+[24:41] saying that that previous short if i was
+[24:44] short from here i wouldn't be worried
+[24:45] about this one so much because your stop
+[24:47] would be above here
+[24:48] now it got close to it
+[24:50] but i've been many trades over the years
+[24:52] where it moved within a quarter of a
+[24:54] point
+[24:55] without stopping me out
+[24:57] and
+[24:58] you know it's it's a scary feeling
+[25:00] especially you have a lot of size behind
+[25:02] your positions at the time you're in the
+[25:03] trade but
+[25:05] it's still a little intimidating because
+[25:07] if you
+[25:07] completely fulfill
+[25:09] your model and follow it in all the
+[25:12] roles and you don't want to move your
+[25:13] stop and you just allow the stock to be
+[25:15] taken there's been many instances in my
+[25:17] own trading where within a quarter point
+[25:19] it doesn't stop me out it's not like 4x
+[25:22] these markets a little bit more
+[25:23] professional
+[25:24] in the sense that they're much more
+[25:26] precise and uniform in the delivery you
+[25:29] don't get these wild erratic little
+[25:31] spikes and spreading you know of the
+[25:33] price action because
+[25:35] everybody's working with the same price
+[25:36] here
+[25:37] versus in forex
+[25:39] you're trading within a pool of
+[25:41] liquidity
+[25:42] within your broker's in-house
+[25:44] and they have a little bit of luxury
+[25:46] there where they can they can open that
+[25:49] spread on you
+[25:50] and that's why it's a little bit
+[25:52] trickier to operate in that versus
+[25:54] something like this market here it
+[25:56] doesn't mean i don't love forex still i
+[25:58] do but right now forex is just quiet
+[26:00] it's not doing
+[26:02] things that i would promote in my
+[26:05] students attention
+[26:07] i'm telling all my students both
+[26:09] in my private group and you all hear
+[26:11] that this is the markets that you should
+[26:13] be following
+[26:14] these these markets right here the index
+[26:16] features
+[26:18] i'm sure there'll be a time when we
+[26:19] transition from index features back to
+[26:20] forex but until i see them loosen up a
+[26:23] little bit in the currencies my
+[26:25] attention is here okay so
+[26:27] anyway getting short here
+[26:29] this is a shallow run below that old low
+[26:32] so we anticipate it to run a little bit
+[26:34] deeper and it does okay so you could
+[26:36] take profits below this low here as a
+[26:37] partial
+[26:38] and then
+[26:41] you've seen now obviously multiple
+[26:43] opportunities within the same
+[26:45] morning session
+[26:47] so it's also showing you how if you miss
+[26:49] your entry
+[26:51] how can you get back in line with the
+[26:53] marketplace
+[26:54] and still participate in these moves now
+[26:57] there are going to be days where we
+[26:58] don't have this many retracements back
+[27:00] and back and back and then goes lower
+[27:02] it'll be just one or two and it just
+[27:04] keeps on going or many times it'll be
+[27:06] just right at the opening and that's it
+[27:07] you missed it it just goes right to
+[27:09] where you thought it was gonna go for
+[27:10] the day and you can't get mad about that
+[27:12] you should be happy that your analysis
+[27:14] concepts are speaking to you with that
+[27:16] much clarity
+[27:18] and just know that because they repeat
+[27:20] none of you should be upset that you
+[27:22] missed the trade
+[27:23] like none of you nobody has the
+[27:25] permission okay you have
+[27:28] no right to be angry about missing a
+[27:31] trade
+[27:32] because they are like buses
+[27:34] okay
+[27:35] mass transit
+[27:37] buses that come by like a schedule you
+[27:40] know every certain
+[27:41] time of the hour a day these buses are
+[27:43] going to come around these trades are
+[27:45] just like that you can set your clock to
+[27:47] them okay they're they're gonna form
+[27:50] they're gonna be there
+[27:51] your number one goal is to understand
+[27:54] where is it likely to go to
+[27:55] where is it likely to reach for if you
+[27:57] have that understood
+[27:59] it becomes so easy to know what you're
+[28:02] looking for notice what i said there
+[28:05] it becomes easy to know what you are
+[28:07] looking for i did not say it's so easy
+[28:10] for you to make money
+[28:12] there's a strong contrast there okay
+[28:15] but by default over time once you have
+[28:18] been doing the things that lead to you
+[28:20] understanding what is you're looking for
+[28:21] and that part becomes easier what do you
+[28:24] think the default result was going to be
+[28:26] from that
+[28:27] it's probably going to be easier for you
+[28:28] to make money over time
+[28:30] okay so i'm keeping things in balance
+[28:33] that we understand what i'm saying
+[28:34] without sugarcoating it and making it
+[28:36] sound like anybody can walk in here and
+[28:37] do this it's gonna take some effort now
+[28:39] you're probably looking at that pink
+[28:41] rectangle asking yourself what the heck
+[28:43] is that well
+[28:44] that is the pm session by side liquidity
+[28:48] pool
+[28:49] what does that mean
+[28:50] this high here was the most energetic
+[28:52] one in the morning session it took us
+[28:54] all the way down to what
+[28:55] target we were looking for the daily
+[28:56] bullish order block
+[28:58] because it's friday because it hit the
+[29:00] daily time frame objective
+[29:03] it's in a discount market it's
+[29:05] really traded lower
+[29:08] end of week
+[29:09] there's going to be a retracement back
+[29:12] into the weekly range
+[29:14] what can it aim for well you can aim for
+[29:16] the liquidity resting right here because
+[29:18] a lot of people are going to say well
+[29:20] you know this is the place where my stop
+[29:22] should be at because i want to hold on
+[29:23] to this thing over the weekend
+[29:25] now i don't know who has the
+[29:27] courage to do that anymore with all the
+[29:28] things going on around the world i
+[29:30] personally don't have the courage to
+[29:31] hold over the weekend it's just too many
+[29:33] things can go wrong i'm not sitting in a
+[29:36] potential opportunity where it's a
+[29:38] thousand point gap against me you know
+[29:42] we start trading on sunday no thank you
+[29:43] i'll pass on that
+[29:45] but this area here is where you would
+[29:47] anticipate on fridays
+[29:50] where liquidity could be a draw because
+[29:53] it's going to likely pull back up into
+[29:56] a premium what does that mean
+[29:58] here's 8 30.
+[30:00] here's the turning point at the 9 30
+[30:04] rotation
+[30:05] so this high or we could use this high
+[30:08] here it doesn't make a difference but
+[30:09] i'm going to use this one because we're
+[30:11] framing the logic because this day being
+[30:13] bearish so this high down to the
+[30:16] target
+[30:18] if you put a fibonacci on this
+[30:20] low
+[30:21] to high and find the 50 level this is
+[30:24] above 50 so that means above here that's
+[30:27] a premium
+[30:28] so the market's going to move from what
+[30:30] a discount
+[30:33] to a premium
+[30:34] that's what the market does that's the
+[30:36] algorithm does it seeks
+[30:38] discount to premium premium to discount
+[30:41] within that logic
+[30:43] the market is reaching for liquidity in
+[30:45] the form of buy stops and sell stops and
+[30:48] or
+[30:50] imbalances or the creation of an
+[30:52] imbalance fair value gaps or returning
+[30:55] back to a fair value gap okay
+[30:57] that's all these algorithms do
+[31:00] and they do it on the basis of time
+[31:03] then price
+[31:05] now that's a gross oversimplification by
+[31:08] me but
+[31:10] by far and large that's all these things
+[31:13] do
+[31:14] it's not your buying and selling
+[31:15] pressure okay it's not the effects of
+[31:18] the dom okay
+[31:20] uh i got a lot of people asking me
+[31:22] because they watched me
+[31:23] show things in my live account and they
+[31:25] think i traded with the dom
+[31:27] i don't trade with the don okay i'm not
+[31:29] looking at the dom trying to read how
+[31:32] many orders are resting above or below
+[31:34] because there's
+[31:35] spoofing that goes on
+[31:37] and those orders may not be there when
+[31:39] the price goes there so i i don't think
+[31:42] that the dom is something that is useful
+[31:44] i'm only throwing that in here because i
+[31:46] saw a lot of people in the comments
+[31:47] asking about those types of things
+[31:49] and i don't use them i don't use them in
+[31:51] my trading and i don't think there's
+[31:53] anything in terms of
+[31:55] advantage in using it
+[31:57] if you believe you're being profitable
+[31:59] because you are don't let my comment
+[32:01] change your mind and i'm not trying to
+[32:03] open up a dialogue for debate because
+[32:05] you're never going to convince me okay
+[32:07] so
+[32:08] you're okay if you're using it but i'm
+[32:10] answering
+[32:11] students or viewers and that's my
+[32:13] opinion okay so i'm not trying to
+[32:16] begin a debate about it okay
+[32:19] so we have a pm session by celebrity
+[32:21] pool that the market could likely reach
+[32:22] up into and again the logic is
+[32:24] we move from this high down to a target
+[32:27] it's friday there's probably going to be
+[32:29] position squaring
+[32:31] they're going to want to take the market
+[32:32] back higher so
+[32:35] what are they going to reach for as an
+[32:36] opposing move
+[32:37] notice what i'm saying here
+[32:40] this was the target
+[32:41] there's gonna be short covering who's
+[32:43] short coloring the smart money that's
+[32:45] sold short here here here here here and
+[32:48] here
+[32:49] so if they're covering a short are they
+[32:50] bearish still no
+[32:52] so if they're not bearish what are they
+[32:54] bullish so if they're going to be smart
+[32:56] money and buy down here
+[32:59] or if they're going to use this
+[33:01] imbalance in here if it trades down into
+[33:02] that you can see it run higher
+[33:05] if they're going to buy it what are they
+[33:06] going to target
+[33:09] the buy stops up here
+[33:10] and they're going to sell right to those
+[33:11] buy stops
+[33:12] they're buying this
+[33:14] and selling it to these waiting buyers
+[33:17] and their buy stops
+[33:19] notice these relative equal lows they
+[33:21] take it into the order block right below
+[33:23] those relative equal lows
+[33:25] because it sells what
+[33:26] it sells the retail crowd that this was
+[33:29] support broken
+[33:32] what are they going to want to do
+[33:34] when it trades back up into these
+[33:35] relative equal lows they're going to do
+[33:36] what sell right that creates more
+[33:39] liquidity for buying
+[33:42] so this is engineering
+[33:44] buy side liquidity
+[33:46] on the basis of sell side
+[33:49] flow
+[33:51] sellers coming in the marketplace
+[33:54] these sellers they're going to have a
+[33:55] counterparty in the form of smart money
+[33:57] buying it
+[33:58] they want to sell short because they see
+[34:00] relative equal lows breaking the trends
+[34:02] been down
+[34:04] everything looks bearish to them because
+[34:05] it's been going down all day long so
+[34:07] they think naturally it's going to keep
+[34:08] going down
+[34:09] when it's only traded down to where the
+[34:11] algorithm says
+[34:13] this is what we wanted and now we're
+[34:14] going to reprice higher we're going to
+[34:16] move from a discount
+[34:18] to a premium
+[34:19] the premium intraday is going to be this
+[34:22] area here and that's going to be where
+[34:23] the market draws to
+[34:25] for the afternoon session buy side
+[34:28] liquidity
+[34:31] all right i was going to do the pause
+[34:33] the video type thing here but this is
+[34:34] going to be a long video so i'm just
+[34:37] going to go right into it
+[34:38] all right so we have a
+[34:40] mitigation block
+[34:42] here and i teach that in the youtube
+[34:44] channel
+[34:45] but we have market structure breaking we
+[34:47] come back down into the mitigation block
+[34:48] and we also have the imbalance here they
+[34:51] got there so we can be a buyer here
+[34:53] and remember
+[34:55] the
+[34:57] 45 32 the 45 40 level
+[35:01] go back up to this chart here
+[35:05] right in here so this high
+[35:08] right here to here think about those
+[35:09] price ranges
+[35:13] we trade up into it here
+[35:15] so buying here and aiming for that
+[35:17] liquidity
+[35:18] up here
+[35:20] that would be your target from buying
+[35:22] to getting out there selling to those
+[35:24] waiting buy stops
+[35:28] the next one is here
+[35:29] the market trades down in
+[35:32] and i count you to go into your chart i
+[35:34] left this out for your own personal
+[35:35] study but if you look to the left go
+[35:38] over here you'll see an old high
+[35:40] okay old highs are a
+[35:42] discount array if we trade above an old
+[35:44] high that old high becomes a discount
+[35:46] array
+[35:48] this is where
+[35:50] not all the time but this is where
+[35:52] old highs being broken become support
+[35:55] that's why sometimes the books have it
+[35:58] right that's why sometimes your analysis
+[36:01] will be right about specific key highs
+[36:03] and lows but notice they're not always
+[36:05] consistent and that's the problem so you
+[36:07] want to know what makes a old high or an
+[36:10] old low real supportive resistance when
+[36:12] you have the logic when i'm framing here
+[36:14] because we know the likelihood of the
+[36:15] market's going to draw up into this area
+[36:17] here because that's where the buy stops
+[36:18] are resting
+[36:20] above the marketplace when it hit the
+[36:21] order block down here
+[36:23] so what we're saying is the market's
+[36:26] going to bounce from here up into this
+[36:27] vicinity here
+[36:30] so if the market comes back down in and
+[36:32] touches
+[36:33] it could have touched this high here but
+[36:35] there's an old height to the left over
+[36:36] here you'll see it it trades down and
+[36:38] hits that and it also fills in an
+[36:40] imbalance when you have that old highs
+[36:42] broken will act as support
+[36:45] so there's something for your notes
+[36:47] then we have the run up into that area
+[36:50] so it's not a bad little run
+[36:53] now once we get up into that shaded pink
+[36:55] area
+[36:56] what have we done we fulfilled by side
+[36:58] liquidity
+[36:59] in this area here but we have a little
+[37:00] bit more later on which obviously you
+[37:02] can see it runs too but but here we see
+[37:04] it do a run lower so we break below
+[37:07] swing low market structure shifts is
+[37:10] there any imbalances in here
+[37:13] no but there is one right there
+[37:15] see that
+[37:17] here's your favorite value gap shift in
+[37:18] market structure there
+[37:20] retraces back up into the fair value gap
+[37:23] you can be a seller there
+[37:26] and aim for this low
+[37:28] or the order block
+[37:30] or you can wait for a confirmation entry
+[37:33] which is
+[37:34] we turn here after it hits that fair
+[37:36] value gap
+[37:37] breaks lower and then we have another
+[37:39] break in the structure of the
+[37:40] marketplace on the one-minute chart
+[37:45] creates the imbalance here if everybody
+[37:46] got trades up yes it overshoots it but
+[37:48] we also have two fair value guys
+[37:50] remember the rules i gave you if you
+[37:52] have a fair value gap and a small one
+[37:53] right above it anticipate it likely
+[37:54] trading up into you but
+[37:56] use this as your entry
+[37:58] go short here
+[38:00] and aim for the order block
+[38:05] so
+[38:06] if you have
+[38:09] an understanding of how we're going to
+[38:11] work within the
+[38:12] intraday volatility using liquidity
+[38:15] using the time of day
+[38:17] using the day of week all these things
+[38:19] come together and they make a really
+[38:21] beautiful tapestry so you can read price
+[38:23] action now
+[38:24] i know there's a large number of you
+[38:26] that are going to watch this and it's
+[38:28] going to feel
+[38:29] and seem like obviously anybody can go
+[38:32] back in time and do these types of
+[38:33] things
+[38:35] but a lot of my trades when you see my
+[38:37] examples and you see the things i record
+[38:39] and show you they're using logic like
+[38:41] this
+[38:42] so it's not contrived it's not
+[38:44] form-fitted it's not cherry-picked for
+[38:46] the purpose of just being something to
+[38:48] talk about this is what you're looking
+[38:50] for and when you do your back testing i
+[38:52] got a lot of questions in the comment
+[38:53] section about this as well
+[38:55] you go through your charts just like i'm
+[38:57] doing here and you annotate them now in
+[38:59] all these areas where there's empty
+[39:01] space here or over here or over here
+[39:04] you're putting in little notations and
+[39:05] you're typing them out and yes it takes
+[39:07] time yes it's tedious yes it takes a
+[39:10] great deal of effort and
+[39:12] desire but this stuff
+[39:16] rewards that
+[39:18] like it rewards it
+[39:19] it's not like fantasy football where you
+[39:22] know who cares if your team wins
+[39:24] this
+[39:26] pays you
+[39:27] this is something that you can feed your
+[39:28] family with okay if you
+[39:30] need your
+[39:32] expenses to be reduced and you don't
+[39:34] want to get on a job or you're
+[39:36] you know you take a pay cut maybe you
+[39:37] had a you know job loss or whatever
+[39:40] this skill set can fortify
+[39:43] any
+[39:44] weak links in your financial chain okay
+[39:47] you want to build strength
+[39:49] in your ability to make income and build
+[39:52] legacy wealth
+[39:54] it's worthwhile for you to spend time
+[39:57] learning this and that means going back
+[39:58] through old charts and old moves and
+[40:01] literally going in and annotating the
+[40:03] moves like this and mapping them out and
+[40:05] seeing the logic that's there now
+[40:09] do not be afraid
+[40:11] that you're going to do it wrong
+[40:14] all of you are going to be doing it
+[40:15] wrong in the beginning
+[40:17] this is a skill set in back testing
+[40:19] you're trying to discover
+[40:21] okay you're not trying to do things
+[40:23] correctly in back testing
+[40:26] back testing is you in a mode of
+[40:28] discovery that proves efficacy if you
+[40:31] can't see things repeating then you got
+[40:34] to go back into the core content lessons
+[40:36] of this youtube channel and figured out
+[40:38] what it is i'm teaching conceptually
+[40:40] then once you understand better what it
+[40:42] is i'm showing you then you go back into
+[40:44] the old data and look for those very
+[40:46] things occurring then highlight the
+[40:48] things in your chart that makes the most
+[40:50] sense to you over time doing it and
+[40:52] frankly you should be doing this
+[40:55] at least a minimum of a year
+[40:57] okay make it a practice of doing all
+[40:59] that even when you start trading with
+[41:00] live funds
+[41:02] your trade journal should always have
+[41:04] annotations you should always have
+[41:07] charts saved and just
+[41:09] constantly referring to what you
+[41:11] witnessed in price
+[41:12] and
+[41:13] record it like you saw it happening and
+[41:16] knew it was going to happen in advance
+[41:18] that's called self-talk
+[41:20] okay you're literally tricking your
+[41:22] brain
+[41:23] into seeing your annotations as
+[41:25] something that you foreseen coming
+[41:28] and that way when you go back and you
+[41:29] read your journal and you study it on
+[41:31] the weekends or
+[41:32] you know whenever you go through a
+[41:33] period of drawdown and you need
+[41:35] encouragement you go back to your charts
+[41:38] in your journal and you'll see
+[41:39] annotations that you wrote out yourself
+[41:41] and
+[41:42] it tricks your brain believing that
+[41:44] you've seen that all along now what
+[41:46] happens
+[41:47] by doing that over time
+[41:49] is you have created
+[41:51] creases in your brain
+[41:54] where that knowledge and that pseudo
+[41:56] experience has been retained
+[41:58] but your brain remembers it as what
+[42:01] a real experience that you endured
+[42:04] but you're recording it with positive
+[42:05] reinforcement in your commentary never
+[42:08] put negative comments in your annotation
+[42:10] don't say like oh i was stupid i missed
+[42:11] this oh i'm so dumb i fell victim to the
+[42:14] shark pattern you don't do all that kind
+[42:16] of stuff you don't have to worry about
+[42:17] swimming with sharks you don't have to
+[42:19] worry about animal patterns you don't
+[42:20] need to be worried about any of those
+[42:22] types of things all you're looking for
+[42:23] is liquidity imbalances time of day
+[42:26] that's it
+[42:27] that's it that's all this game is all
+[42:29] about okay the algorithm is not going to
+[42:32] try to follow some retail logic stuff
+[42:35] it's based on where is the money
+[42:38] where's the money who's the most
+[42:40] easy prey right now and where is the
+[42:43] majority of the money and that's where
+[42:45] it's going to run for that's all it's
+[42:46] going to do
+[42:47] and if you
+[42:50] strip everything you think you know
+[42:51] about the markets away
+[42:53] and just
+[42:54] give me a a couple months
+[42:58] stay with me for a couple months here
+[43:00] and i promise you you will put
+[43:03] everything else down
+[43:05] and see it like this
+[43:07] because this is the truth this is the
+[43:10] perfect understanding of what makes
+[43:12] these markets book
+[43:14] that means
+[43:15] what makes them go up and down where
+[43:17] they turn why they go where they go why
+[43:19] are they moving when they move and why
+[43:21] are they arriving when they arriving at
+[43:23] that price point
+[43:25] it's all algorithmic and it has
+[43:27] absolutely nothing to do
+[43:29] with
+[43:30] ratios
+[43:32] it has nothing to do with anything
+[43:33] harmonic
+[43:35] nothing supply and demand zone nothing
+[43:37] to do with elliott wave nothing to do
+[43:39] with white golf
+[43:40] nothing to do with gan
+[43:41] none of that stuff has anything to do
+[43:43] with it
+[43:45] i literally have just
+[43:47] explained exactly what these markets do
+[43:50] that's it
+[43:51] there's nothing else that happens the
+[43:53] buying and selling pressure
+[43:54] it's a myth because these markets are
+[43:56] going to go higher regardless of how
+[43:58] many contracts come in if they want this
+[44:00] thing to go up here it doesn't require
+[44:04] millions of contracts to put it there
+[44:07] it doesn't
+[44:08] how many contracts does it take for this
+[44:10] candle to move from that opening price
+[44:13] to that closing price
+[44:16] tell me how many cam how many contracts
+[44:18] does it take for that to happen
+[44:20] it only needs two two transactions two
+[44:23] transactions one here and when it gaps
+[44:25] up here and reprices to that price point
+[44:27] and it offers it to the market that
+[44:28] price and someone comes in with a market
+[44:30] order what happens boom
+[44:32] it's it the candle has been created
+[44:35] two trades how many contracts it doesn't
+[44:36] make a difference you only need a
+[44:38] transaction
+[44:41] what
+[44:42] yeah
+[44:44] folks listen
+[44:46] you can sit down and listen to these
+[44:48] videos i'm producing
+[44:50] and coming with the preconceived notion
+[44:51] that everything i'm saying is nonsense
+[44:54] it's not true and it's not valid because
+[44:56] you don't want it to be
+[44:59] all i'm asking you to do
+[45:01] is put everything you think you
+[45:03] understand
+[45:04] put it aside for a moment
+[45:06] just for a little while
+[45:08] and go in and do the things i'm telling
+[45:10] you to do
+[45:11] i
+[45:12] guarantee you
+[45:14] you will absolutely fall in love with
+[45:18] this
+[45:19] because this is consistency
+[45:22] this is
+[45:23] consistency that you have always
+[45:26] hoped for but everything else just falls
+[45:29] short in delivering
+[45:30] it and you're getting it for free
+[45:34] and i'm loving it while giving it to you
+[45:37] because i know
+[45:39] and you're all going to see it
+[45:40] when all these little light bulbs come
+[45:42] on and all the people watching these
+[45:44] videos and folks this channel is growing
+[45:47] it's growing and this train's going to
+[45:49] keep on rolling
+[45:51] yeah
+[45:52] this community is getting bigger and
+[45:54] bigger
+[45:55] because it's infectious
+[45:58] results matter proof matters
+[46:02] and when students go into this
+[46:04] and they see the results
+[46:06] man
+[46:07] it's sweet isn't it isn't it sweet when
+[46:09] you see
+[46:11] the truth finally just laid out in front
+[46:12] of you
+[46:14] there's no trickery here
+[46:16] there's no twisting of your arm give me
+[46:18] your credit card payment
+[46:20] you don't you don't have to
+[46:22] blow
+[46:23] any kisses to me okay i don't need
+[46:26] flowers i just want you to make a real
+[46:30] effort
+[46:31] and then tell me
+[46:32] what your results are what did you get
+[46:35] from it
+[46:36] i promise you i'm promising you you will
+[46:39] find what you're looking for but you got
+[46:41] to put the work into it because if you
+[46:43] don't put the work into it
+[46:44] it won't matter
+[46:46] because you'll just think it's
+[46:48] too much work
+[46:49] and i'm telling you it only feels like a
+[46:52] lot of work in the beginning but once
+[46:54] you understand what you're looking for
+[46:56] like this setup here
+[46:58] that might be your particular setup and
+[47:00] this up here isn't your setup
+[47:02] this might be your setup here because
+[47:04] it's based on that old highlights you'll
+[47:05] find if you scroll back on your own
+[47:07] chart that might be your setup and not
+[47:09] this one down here
+[47:11] that's what i'm referring to when i say
+[47:13] when you find
+[47:15] your unique model that means a setup
+[47:17] that is so similar every time you take
+[47:19] it it repeats the same general idea
+[47:23] just in a different chart on a different
+[47:26] day in a different time frame
+[47:28] that's it that's all it is that's a
+[47:30] that's your unique model
+[47:32] you're learning how to do it with what
+[47:33] i'm teaching you but
+[47:35] where you're looking for it in what
+[47:37] market and what
+[47:39] narrative that you're looking for what
+[47:41] makes that setup your particular setup
+[47:45] that's a unique thing for you and that's
+[47:47] the weird
+[47:49] beautiful element to trading and the way
+[47:52] these markets operate is it allows each
+[47:54] and every one of us to have our own
+[47:56] unique model
+[47:58] we can all use the things i'm teaching
+[48:01] and all fine setups within the same
+[48:03] trading day and be opposed to every
+[48:06] individual trade setup
+[48:08] individually in other words we could all
+[48:09] be doing something and not agree with
+[48:12] any of it
+[48:13] you took a short there i was long a
+[48:15] little while before that or i went short
+[48:17] and you went along somewhere else and
+[48:19] you're ending a trade where i'm getting
+[48:21] ready to put on a trade
+[48:24] it's amazing
+[48:26] but how you internalize the market what
+[48:28] setup you're looking for
+[48:30] there's lots of them and if you break
+[48:32] this chart down into a 30 second chart
+[48:34] or a 15 second chart there's even more
+[48:36] setups
+[48:38] everything's fractal
+[48:40] so if you want to do high frequency
+[48:41] trading
+[48:42] you can do that with the second chart
+[48:45] you may not be able to pull up second
+[48:46] charts because you may not have the
+[48:51] i guess the subscription level on
+[48:53] trading view and i don't get any
+[48:54] subscription kickbacks i'm not trying to
+[48:56] get you to buy anything from tradingview
+[48:58] i'm just stating that
+[49:01] you can make this
+[49:02] however you want
+[49:04] and if you just want to stay on a
+[49:05] 15-minute chart and trade a daily range
+[49:07] okay there's no reason to do anything
+[49:09] less than that but if you want to get
+[49:11] busy
+[49:13] and
+[49:14] pyramid your positions that means like
+[49:15] say you bought one down here
+[49:17] or say you bought
+[49:19] say about five down here
+[49:21] and you bought three here and you bought
+[49:23] two here and then you roll it up into
+[49:25] your objective that's pyramiding your
+[49:27] biggest position
+[49:28] put on first then a smaller position on
+[49:31] and then a smaller position and then
+[49:33] that that's how you build up the equity
+[49:35] and you get velocity in your equity
+[49:36] growth that way
+[49:38] versus buying one then buying two then
+[49:40] buying forward and buying eight that
+[49:42] that is reckless and i've done that and
+[49:44] i've roasted accounts doing it so
+[49:46] don't do that but
+[49:49] hopefully this is at least got your
+[49:51] gears turning about how you can go in
+[49:52] and back test a little bit um how you
+[49:55] can see multiple trade setups and how we
+[49:57] can work with higher time frame pd
+[49:59] arrays and
+[50:00] the
+[50:01] pd array matrix where it's discounted
+[50:03] premium and premium to discount and how
+[50:06] we use and incorporate all the different
+[50:07] arrays where i'm sure
+[50:10] someone new watching this your head's
+[50:11] spinning right now you're like i have a
+[50:12] thousand questions right now and i i
+[50:14] need to know this no you don't need to
+[50:16] know what you're asking for right now
+[50:18] you only feel like you need to know
+[50:20] right now
+[50:21] take the things i'm showing you at the
+[50:23] pace i'm showing you study them and i
+[50:26] promise a couple months from now you're
+[50:28] going to know a whole lot more than you
+[50:29] know right now
+[50:31] and you'll be able to go in and see
+[50:32] things in price action that you don't
+[50:34] even identify right now even in
+[50:36] hindsight
+[50:38] you just got to give yourself the time
+[50:40] and give yourself the real effort
+[50:42] to learn this
+[50:44] i've stripped it down i made it as
+[50:46] streamlined as i possibly could and i
+[50:48] promise
+[50:49] you will get this
+[50:52] and until i'll talk to you next time
+[50:54] be safe

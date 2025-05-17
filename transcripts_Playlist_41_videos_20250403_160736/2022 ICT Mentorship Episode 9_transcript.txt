@@ -1,0 +1,663 @@
+[00:05] all right folks welcome back this is
+[00:06] episode nine for the 2022 ICT mentorship
+[00:09] on
+[00:11] YouTube this lecture is going to be on
+[00:13] Power Three which is accumulation
+[00:14] manipulation and distribution and New
+[00:17] York PM session
+[00:25] opportunities all right so we're looking
+[00:26] at the NASDAQ e- mini Futures this is
+[00:30] The Continuous chart on trading
+[00:33] view so if you look at the daily range
+[00:36] where we've
+[00:38] been we're inside this range here okay
+[00:42] so we
+[00:43] have this swing
+[00:45] high and this swing low now why am I
+[00:48] picking these two reference points well
+[00:50] namely this is the low most recently
+[00:53] after taking out this short-term low so
+[00:56] we've dug into all the sell side
+[00:58] liquidity resting below that
+[01:00] low we retraced back up inside of this
+[01:04] High to that low so we went back up
+[01:08] into a premium the range high to low
+[01:13] running a fib just to get the 50% level
+[01:15] that gives us equilibrium anything below
+[01:18] that is a
+[01:21] discount notice how the market traded
+[01:23] down on Monday into a deep
+[01:26] discount but did not
+[01:30] take out these lows over
+[01:32] here but look how we closed on
+[01:35] Monday we had an indecisive candle the
+[01:39] body was basically absent the open and
+[01:41] close was essentially you the same
+[01:44] thing if we have that and the Market's
+[01:47] trading down into a discount even though
+[01:51] we might
+[01:53] have a load down here that we're
+[01:56] targeting this may require a retracement
+[02:00] now notice at the close of Monday's
+[02:02] trading we had an imbalance from this
+[02:04] low and this
+[02:07] high on Tuesday's trading
+[02:10] overnight the equities
+[02:13] markets had a run up into
+[02:15] this imbalance here so this fair value
+[02:19] Gap was ret traded to in
+[02:23] here this
+[02:25] low and this High we'll look at that in
+[02:28] reference to the lower time frame
+[02:34] this lower
+[02:35] level is the low end of the fair value
+[02:37] gap on the daily chart and this level up
+[02:40] here is the upper end of the fair value
+[02:43] Gap I'm taking your attention to
+[02:46] Monday's
+[02:48] trading and I want to talk a little bit
+[02:50] about power three which is accumulation
+[02:53] distribution and manipulation okay
+[02:57] so generally my teachings are like this
+[03:00] if I'm
+[03:01] bullish I'm expecting the opening price
+[03:04] to be near the low of the day or the
+[03:08] session then it trades lower making some
+[03:11] important low and then
+[03:13] rallies creates a
+[03:16] high and then closes near the high of
+[03:18] the day now it's not important for you
+[03:21] to try to predict the closing price what
+[03:24] I'm trying to train you to
+[03:26] anticipate is the likelihood of the
+[03:28] market making some kind kind of a fake
+[03:31] move like a Judas swing okay Judas swing
+[03:33] is the false move typically in London
+[03:38] and in New York session there are fake
+[03:41] runs that start off a move and I walked
+[03:45] you through it last week on my community
+[03:47] tab where I outlined the actual Judas
+[03:50] swing for that particular day using the
+[03:52] fair value Gap outlin the the low I was
+[03:56] only off by cor of a point for the low
+[03:57] in that range and that created the low
+[03:59] today the idea is what I'm going to show
+[04:02] you here as
+[04:04] well on Monday we had price Dro down
+[04:08] overnight Consolidated and then we have
+[04:10] a little bit of a rally ahead of the
+[04:12] equities open okay so in here we have
+[04:15] 8:30 in the morning if you look at 8:30
+[04:19] what do we have we have the highs over
+[04:21] here they're suspect because they're
+[04:23] relative equal highs there but look what
+[04:25] we left here ahead of 8:30 we had this
+[04:28] huge imbalance
+[04:31] so if we run these highs out after the
+[04:35] open at
+[04:37] 9:30 it's likely to trade down into that
+[04:40] and rebounds but watch what it does it
+[04:42] and we trade up into that level here
+[04:44] which creates the fair value gaps
+[04:46] low-end
+[04:47] parameter remember this is Monday's
+[04:49] trading it sells off so this line isn't
+[04:52] here on Monday that's not what we're
+[04:55] looking at we're looking at the
+[04:56] likelihood of coming back down into this
+[04:58] area here
+[05:00] after taking these highs
+[05:01] out if it does so if it trades back into
+[05:04] this imbalance that's a good candidate
+[05:08] to go
+[05:09] long now the imbalance in here if you go
+[05:12] to the left of it you can see the down
+[05:13] close candles that's your bullish order
+[05:15] block the market trades down hits the
+[05:18] order block and it's an afternoon trade
+[05:20] so it starts to rally and then
+[05:23] consolidates since to close overnight we
+[05:26] create a wicked run last night this was
+[05:29] an it ran last night and most of all the
+[05:32] move for today was done before we even
+[05:35] got to the opening of the
+[05:38] morning had a little bit of a
+[05:40] retracement after 8:30 and at 9:30 we
+[05:45] Consolidated I'll talk a little bit
+[05:46] about that as a market profile in a
+[05:48] moment but then we drop down create an
+[05:51] important low of the day and then we
+[05:53] rally it got real close to the fair
+[05:55] value gaps high-end parameter but didn't
+[05:59] get to it
+[06:00] we don't need it's just like I was
+[06:02] mentioning here you don't need to try to
+[06:03] predict the closing price with power
+[06:06] three which is accumulation manipulation
+[06:10] so in other words if you're bullish it
+[06:11] opens where you think it's going to
+[06:13] trade higher it's going to be most
+[06:15] likely a small little move lower that's
+[06:18] the move you want to try to go in and
+[06:20] Hunt along if you miss it you want to
+[06:22] try to get long real close to where the
+[06:24] opening price is now the question is
+[06:26] going to be is where is the opening
+[06:27] price well I like 830 okay you use the
+[06:31] opening price here at 830 draw that out
+[06:34] in time did we go below it yes did we go
+[06:36] inside the imbalance yes did we take out
+[06:38] a short-term low yes did we hit an order
+[06:40] block yes was it an optimal trade entry
+[06:42] yes lots of factors there over here same
+[06:46] thing opening price here did we trade
+[06:49] lower than that yes did it go even lower
+[06:52] than that later on in the afternoon yes
+[06:55] then it rallied taking out the relative
+[06:56] equal highs here and again gravitating
+[06:58] towards that upper end of that fair
+[07:00] value gap on the daily
+[07:05] chart now I'm in a 5 minute chart on
+[07:07] that same February 14th and I want to
+[07:11] take you closer to what price is done in
+[07:13] here that imbalance the lowest portion
+[07:16] of it here with all the down closed
+[07:18] candles here now this is anchored to the
+[07:21] Daily bullish order block but you can
+[07:23] see how we traded into it here with one
+[07:27] two three four down closed candles that
+[07:29] is a
+[07:31] complete order block on this time frame
+[07:33] so consecutive down closed candles right
+[07:35] before a price surge that has an
+[07:39] imbalance that's how you find your order
+[07:41] blocks okay so a high probability order
+[07:43] block would be your narrative or your
+[07:46] bias is
+[07:47] bullish you're looking for displacement
+[07:50] that's this right here where the market
+[07:52] runs real quick higher and the down
+[07:54] close candles you want to mark that out
+[07:57] and anticipate a return back in to that
+[08:00] now again this level is not there yet we
+[08:02] don't know this level until Monday's
+[08:04] close so don't be tricked thinking that
+[08:06] I have this level here and I knew it was
+[08:08] going to go right to that level in term
+[08:10] I'm not suggesting that at all what I'm
+[08:11] suggesting is is watch what happens when
+[08:14] it creates that high it breaks
+[08:17] down all this price action here gets
+[08:21] overran into a retracement back down
+[08:23] into this imbalance here the low of this
+[08:25] candle and the high of this candle that
+[08:27] right there that's your fair value
+[08:30] got with an order
+[08:33] block and optimal trade
+[08:35] entry rallies even though it's sloppy
+[08:39] it's still continuously driving
+[08:43] higher this high at the close on this
+[08:47] day here at say 4:30 okay 4:30 in
+[08:50] afternoon to me that's like the close
+[08:51] for me no it trades a little bit later
+[08:55] than that and then closes for a little
+[08:57] while and it also technically closes
+[08:59] when the bell rings at 4:00 p.m. you
+[09:02] local time in New
+[09:04] York because there's a little bit of
+[09:06] trading past that I like to just look at
+[09:08] 430 and just consider that where we are
+[09:11] in terms of what we've done for the full
+[09:13] range and then determine what I have
+[09:15] left for maybe inbalance or liquidity
+[09:23] pools here
+[09:26] is that drop down
+[09:29] here on a one minute
+[09:31] chart it's digging into that order block
+[09:35] right
+[09:36] here if you look real close let me go
+[09:39] back up one slide I want you to see what
+[09:40] I'm showing you here right here this
+[09:43] price action see 14140
+[09:47] 14120 this little area right here I'm
+[09:49] looking at on a one minute
+[09:51] chart 14140 14120 that in that vicinity
+[09:57] see that small little Gap right there
+[09:59] see that see the swing High we trade
+[10:03] above it create a fair value Gap there
+[10:06] trade down into it this is an afternoon
+[10:08] trade this is 2:00 in the afternoon
+[10:11] local time in New York inside the order
+[10:13] block inside the fair value Gap inside a
+[10:18] retracement of the fair value Gap that
+[10:21] sets the stage of a market run up
+[10:25] into a higher retracement
+[10:30] now we don't know if this is going to be
+[10:33] the
+[10:35] closing parameter for a daily fair value
+[10:38] Gap we don't need to know that yet but
+[10:41] this is a likely scenario to go long and
+[10:44] we can look for a run back up into this
+[10:47] range
+[10:48] here or run the buy stops above here or
+[10:51] maybe inside
+[10:53] here sloppy run but nonetheless it's
+[10:57] still pressing higher
+[11:01] now here's today on the 15th of February
+[11:03] 2022 notice what we had with had this
+[11:07] enormous price run overnight in
+[11:10] technically the London
+[11:11] session
+[11:13] now a lot of you going to ask would I
+[11:15] have caught this no no I wouldn't have
+[11:18] caught it I would have missed it and I
+[11:20] would if I was awake I wouldn't have
+[11:21] seen it coming let's just put it that
+[11:23] way so this right here was a complete
+[11:26] surprise to me when I woke up saw it
+[11:29] but I want you to think about when you
+[11:31] have these overnight runs that were
+[11:33] basically these big moves overnight
+[11:35] before the session begins in New York
+[11:38] when you're trading equities this also
+[11:40] works with Forex too so it's important
+[11:42] try not to chase price this is what I
+[11:43] mean by don't chase it don't chase it
+[11:46] last week when I was commenting and
+[11:48] outlining the NASDAQ and giving you a
+[11:50] fair value Gap real time explaining to
+[11:52] where I thought it was going to draw
+[11:53] down to and it created the New York
+[11:55] session low of the day okay that's what
+[11:57] I was outlining just take a look at go
+[11:59] back and look at you'll see it's it's
+[12:01] pretty obvious the same logic I'm
+[12:03] amplifying that here okay overnight what
+[12:06] was the market doing it was rallying so
+[12:08] when we open up at 8:30 do we go in here
+[12:11] and start buying it just because it's
+[12:13] gone up overnight no we don't chase it
+[12:16] you have to wait no we don't chase it we
+[12:18] have to wait for more information what
+[12:19] information are we waiting for well
+[12:21] typically whenever you see a big run up
+[12:23] or a big run down there's a
+[12:25] consolidation that takes place shortly
+[12:27] after now not always it just keeps on
+[12:29] ripping higher or lower and you'll
+[12:32] either miss a move or if you get lucky
+[12:34] maybe you can participate in it but this
+[12:37] is what I typically look for so if
+[12:39] there's a lot of range movement
+[12:41] overnight which overnight um 2 o'cl in
+[12:44] the morning to 5 o' in the morning okay
+[12:47] if we get a big run like that which is
+[12:48] what we're seeing
+[12:50] here right away in my mind I'm thinking
+[12:53] don't trade a lot don't
+[12:56] expect a lot of in and out in and out
+[12:59] perect you know perfect Precision wait
+[13:01] for a real significant price move
+[13:04] otherwise you're going to get chopped up
+[13:06] now what does that mean well when we
+[13:07] have it opening here at 830 look to the
+[13:10] left what do we have we have this High
+[13:12] here and we have the low over
+[13:17] here we can use this one because they're
+[13:19] relative equal but I like this one why
+[13:21] why do I like this one what's below it
+[13:25] fair value got see that so it's likely a
+[13:28] trade down after it creates this sloppy
+[13:31] opening look at all this movement in
+[13:32] here now as a personal study there's two
+[13:38] or three YouTubers that I watch that
+[13:39] trade the equities market indices and
+[13:44] I'm not trying to say anything bad about
+[13:46] them I just like to listen to what
+[13:48] they're thinking because they don't look
+[13:50] at the market like I do I'm not
+[13:53] suggesting that they're not profitable
+[13:54] because they show live trades they get
+[13:56] into trades they take them and sometimes
+[13:58] they win and sometimes they don't but
+[14:00] I'd like to read kind of like a a Squawk
+[14:04] Box what their interpretation of price
+[14:06] is and they're looking at this area in
+[14:09] here and
+[14:12] it's back and forth they think if it go
+[14:14] if it goes here it's going to go there
+[14:15] if it goes here if it's going to go
+[14:16] there it's all these scenarios are going
+[14:18] through you know randomly in their live
+[14:22] streams so when I'm watching price I'm
+[14:25] listening for them to want to be a buyer
+[14:29] so when they're trying to be a buyer
+[14:31] that means they're they're already
+[14:33] hunting a continuation of this move here
+[14:36] I want to see a low
+[14:39] form now this is what we have for the
+[14:42] today we we start going lower first so
+[14:45] that's good we create a pseudo Judas
+[14:47] swing but did it create a nice low and
+[14:50] turn away from itm look at all this back
+[14:53] and forth and it created these suspect
+[14:55] lows in here relative equal lows there's
+[14:57] going to be sell side building up below
+[14:59] that sell stops okay when it starts to
+[15:02] go higher anyone that was long overnight
+[15:05] they're going to jam their stop loss
+[15:07] right underneath
+[15:08] that okay when this occurs that's the
+[15:12] very scenario I'm looking for now right
+[15:15] away in my mind here's what I want you
+[15:16] to understand if there's a big move
+[15:19] overnight for equities this is not Forex
+[15:22] okay this part is not Forex it's just
+[15:23] for trading like NASDAQ Dow and e- mini
+[15:27] S&P if there a big run
+[15:30] overnight avoid the New York session
+[15:33] don't even mess with the New York
+[15:34] session wait until the other side of
+[15:37] lunch at 1:00 in the afternoon New York
+[15:39] time and then anticipate the New York
+[15:43] lunch lows taken out or the New York
+[15:46] morning session lows which is what we
+[15:48] have
+[15:50] here notice how we rallied up we didn't
+[15:53] take out the relative equal highs here
+[15:54] that was formed ahead of 7 o'clock in
+[15:56] the morning notice that now this over
+[15:59] here we know this range up here is the
+[16:03] high end of that fair value Gap why do
+[16:04] we know that because the 14th stopped
+[16:07] trading and it had the indecisive candle
+[16:09] in the daily chart so it's likely that
+[16:12] we might trade up into this Range High
+[16:14] and this is that range low so if we can
+[16:17] draw down below that low it was formed
+[16:19] initially in New York
+[16:21] session we have a fair value Gap over
+[16:23] here with sell side while we have yet to
+[16:27] take out the buy side theity here
+[16:29] at around I don't know
+[16:32] 14575 and then get up to that fair value
+[16:35] Gap high or the the boundary of it okay
+[16:38] kind of like the resistance level of
+[16:40] it so this is the draw in liquidity and
+[16:43] we have a minor draw in liquidity here
+[16:45] with Bice liquidity look what we have in
+[16:48] terms of price action the NASDAQ drops
+[16:52] down taking out the cell side digging
+[16:54] into that fair value Gap see that look
+[16:56] at the bodies of the candles isn't that
+[16:58] neat how just respects that level back
+[17:01] here now that's not random okay these
+[17:03] are algorithmic principles that are in
+[17:06] play and these markets are unbelievably
+[17:09] precise when they are in better
+[17:11] conditions right now if you've been
+[17:13] trading with live funds or if you've
+[17:15] been trying to follow price action
+[17:18] there's been a lot of it makes a run
+[17:19] then it goes into this choppy sideways
+[17:22] and it's very frustrating if you're
+[17:23] trying to get like sustained price moves
+[17:25] or if you don't know how to operate in
+[17:27] these like these sloppy little ranges
+[17:29] like this I personally don't think that
+[17:32] this is high probability trading you can
+[17:33] get chopped up you can get losing trades
+[17:36] you can draw your account down if you
+[17:38] don't control yourself you can blow your
+[17:40] account in these types of conditions how
+[17:43] do you avoid that how do you avoid
+[17:45] running out your account and then
+[17:47] scaling back if you're a high frequency
+[17:49] type of a Trader how do you draw back on
+[17:51] the frequency and look for the better
+[17:53] setups what I'm showing you here you
+[17:56] wait you don't chase the overnight run
+[17:59] and you wait for them to give you a low
+[18:01] that everybody overnight will want to
+[18:04] put their stop loss right beneath that
+[18:05] after it starts a rally above it it's
+[18:08] even better when you don't have this
+[18:10] High taken out yet see how I took it up
+[18:12] here and it just went right down for him
+[18:15] that's engineering
+[18:17] liquidity it runs up consolidates
+[18:20] creates a low starts to rally and
+[18:23] everybody's thinking I don't want to
+[18:24] lose my profits I don't want to lose out
+[18:27] on making more money but I had to put a
+[18:29] stop loss right here because the books
+[18:31] tell me I had to do that so I did the
+[18:33] same kind of stuff folks I'm not trying
+[18:35] to talk down anybody but I'm just
+[18:37] repeating what a retail Trader's mindset
+[18:40] would be and the logic behind this okay
+[18:43] so the narrative with this day was the
+[18:46] stocks were trailed below these lows the
+[18:49] afternoon session again creates the low
+[18:51] of the
+[18:52] day takes the sell side liquidity out
+[18:55] into a fair value Gap and then rallies
+[18:57] now in here I'm going to teach you a
+[18:59] little bit more about that
+[19:02] watch notice we don't really have a fair
+[19:04] value gap down here but it gives us the
+[19:06] basis for expecting the price to start
+[19:08] to Rally into the afternoon now at 2:00
+[19:12] in the afternoon 1,400 on
+[19:16] this trading view chart that starts 2
+[19:19] o'clock in the afternoon New York local
+[19:21] time we have the market trading down
+[19:23] into an imbalance over here liquidity
+[19:26] resting below these relative equal lows
+[19:28] is taken out
+[19:29] so what are we looking at we've seen a
+[19:31] price run that we don't think needs to
+[19:32] come back down here because the logic is
+[19:35] the overnight stops have been ran out
+[19:36] down here there's no reason for the
+[19:37] market to want to come back down there
+[19:39] but we have this low and these relative
+[19:44] equal lows here Post New York lunch New
+[19:47] York lunch is noon to 1:00 in the
+[19:49] afternoon New York local
+[19:51] time so the imbalance we trade down into
+[19:53] that what's the likelihood of it coming
+[19:55] all the way through the imbalance and
+[19:56] then going after that low not likely not
+[19:59] likely not after seeing this run here
+[20:02] they don't want to give these Traders
+[20:03] another chance to get back in they got
+[20:05] stopped out so it's going to be a little
+[20:07] bit more sneakier when they make these
+[20:09] new setups that continue into a higher
+[20:11] run so they take out the sell side below
+[20:13] these relative equal lows take those
+[20:16] stops out and then it rallies and then
+[20:18] drops back down now here watch we have a
+[20:21] swing high right here it breaks it does
+[20:25] it trade above that yes was it energetic
+[20:28] yes does it have a fair value Gap yes so
+[20:31] now the market trades down into it here
+[20:34] creates a short-term low you could be a
+[20:36] buyer there there's nothing wrong with
+[20:37] that but say you missed it say you just
+[20:39] I mean this is a one minute chart say
+[20:40] you missed it and the market starts to
+[20:43] run off like this but then it gives you
+[20:45] another opportunity I've had many times
+[20:47] trades formed just like this where I was
+[20:50] looking for something I was waiting for
+[20:51] a setup to happen either my cell phone's
+[20:55] buzzing or I grab a drink is just
+[20:59] outside of reach I got to go walk over
+[21:01] to the other end of the desk and grab it
+[21:03] and then all of a sudden here you go I
+[21:05] miss it takes
+[21:06] off the fair value Gap is even better
+[21:11] when you have the sell side liquidity
+[21:12] resting below short-term
+[21:14] low and the drop down into it here you
+[21:18] can use that low as your entry or minus
+[21:21] one tick okay this short-term low
+[21:24] forms at 2:34 p.m. now if you look at
+[21:28] the low figure up here that value
+[21:31] represents that candle right there so
+[21:32] that's why you see it highlighter here
+[21:34] when I took a screenshot I'm holding
+[21:36] underneath this candle so that way the
+[21:38] reference points up here are directly
+[21:40] related to this candle so you can see
+[21:42] the low is
+[21:43] 14528 and a half so you could be a buyer
+[21:46] on a limit at
+[21:49] 14,520 and a quarter or maybe if you
+[21:52] want to try to reach for the you the 28
+[21:55] even
+[21:56] number either way that's a nice
+[21:59] place to put a limit order
+[22:01] in the short-term low down here after
+[22:05] the fair value Gap forms that's where
+[22:07] your stop loss is that's the rules so
+[22:10] you have an entry point your stop and
+[22:15] between the two of them it works out to
+[22:17] be okay let's say you
+[22:20] have
+[22:22] 14 14 and a
+[22:24] quarter in terms of risk okay so 14 and
+[22:28] a quarter points or handles of total
+[22:31] risk and let's assume that you were
+[22:33] trading I don't know six contracts on
+[22:35] the
+[22:36] micro you're essentially looking
+[22:39] at buying and
+[22:43] risking
+[22:45] $85 to make about
+[22:48] $300 so it's about 3.5 to one reward the
+[22:54] risk thereabouts I'm roughing I don't
+[22:56] have calculator in front of me folks
+[22:57] just you do the math
+[23:00] now here this value is important because
+[23:01] I want you to see in these conditions
+[23:04] you can't expect it to be perfect you
+[23:06] can't be you know expecting to be in
+[23:09] there at the lowest point no draw down
+[23:11] no heat on the position and then it just
+[23:13] goes in your favor don't think like
+[23:15] that you can see on this candle if you
+[23:17] would have bought here you would have
+[23:19] had nine points of heat okay or
+[23:23] basically $54 if you were trading six
+[23:27] micros now obviously it goes up more
+[23:29] than that if you're trading One Mini
+[23:32] because it's
+[23:33] $20 per
+[23:37] handle but overall this is a nice little
+[23:40] setup with the afternoon using the logic
+[23:43] over here even though it doesn't give us
+[23:45] a fair value Gap the you know the setups
+[23:47] that I'm teaching you to use using the
+[23:50] fair value Gap afternoon taking the
+[23:53] stops it provides the Baseline for bias
+[23:57] for the afternoon now what did I teach
+[23:59] you here I taught you that you can use
+[24:03] these reference points with the
+[24:06] underlying sentiment that's already in
+[24:09] motion if you didn't trade overnight and
+[24:11] take that big run I didn't get any of
+[24:13] that run I didn't do anything with that
+[24:16] if you miss that it doesn't matter
+[24:19] because that is something that's going
+[24:20] to give you more insight and it tells
+[24:22] you when to avoid the morning session
+[24:24] don't trade it everybody's going to be
+[24:26] doing what think about it everybody woke
+[24:30] up and saw these markets and they all
+[24:32] wanted to do what they wanted to buy it
+[24:34] because it's going up a lot and they
+[24:36] want to chase it that idea leads many
+[24:39] times
+[24:40] to losing trades and then it's starts
+[24:44] this cycle where you go into this
+[24:47] chasing chasing chasing and then when
+[24:49] the market does these sideways
+[24:51] consolidations and sloppy choppy market
+[24:54] conditions it it's literally like a
+[24:57] blowtorch on your account if you don't
+[25:00] know how to stop or if you don't know
+[25:01] what you're doing you can literally talk
+[25:04] yourself into millions of Trades and
+[25:06] then draw your
+[25:11] countdown last slide and just to hammer
+[25:14] this down this is zoomed in on a one
+[25:16] minute
+[25:18] chart swing High broken fair value G
+[25:22] right there and we have that shortterm
+[25:24] low here I'm noted in here so that's
+[25:26] where you would be basically entering
+[25:27] one with that idea trading below that is
+[25:29] where the sell stops are trading below
+[25:32] that now it goes below that now some of
+[25:34] you have mentioned in the comment
+[25:35] section does this invalidate the fair
+[25:38] value Gap no it does
+[25:40] not the idea is the fair value gaps we
+[25:43] look at the look at the body of this
+[25:45] candle here isn't that respecting that
+[25:48] yes so in my mind I'm thinking well I
+[25:50] know prices sometimes especially the way
+[25:52] it is right now it's very volatile so
+[25:55] I'm permitting a greater level of
+[25:58] imperfection in price delivery and
+[26:02] then using the logic of the fair value
+[26:04] Gap as the basis for my entry idea and
+[26:08] then using the stop premise which it
+[26:10] didn't get it didn't get here it didn't
+[26:12] stop you out you had basically
+[26:16] what
+[26:19] five what was that five or so uh more
+[26:22] handles before you would have been
+[26:25] stopped now watching it live might make
+[26:27] you look little nervous but at some
+[26:30] point folks you're going to have to get
+[26:31] used to if you're going to trade like
+[26:33] this in these really little time frames
+[26:35] and you're trying to be very Nimble
+[26:37] you're going to have
+[26:38] to learn to trust the setups and let the
+[26:42] stops do their jobs and if it if it gets
+[26:45] stopped out that's just one trade you
+[26:47] got wrong it's not your
+[26:49] career look for the next one now I'm
+[26:52] going to throw this in here as a bonus
+[26:54] but you know take it for what it is it r
+[26:58] is here takes off and does not take out
+[27:00] that the buy side liquidity resting
+[27:02] above here did not get taken here yet
+[27:05] and then we had this
+[27:07] imbalance and it trades down into it and
+[27:10] then hits what the order
+[27:11] block that's a buy and you can if you
+[27:14] miss this one you can pick up this one
+[27:16] based on the logic I teach on the
+[27:17] YouTube channel so this is actually
+[27:19] something that's taught in the YouTube
+[27:20] channel okay uh this whole pattern here
+[27:23] is
+[27:24] exactly right out of my high probability
+[27:27] short-term
+[27:29] trading or scalping series I can't
+[27:30] remember exactly what the title was but
+[27:32] uh this pattern has right in that and
+[27:34] then it runs for that liquidity there so
+[27:36] there's two setups there so I've took
+[27:38] something from the free lessons that's
+[27:40] already on the YouTube channel and also
+[27:42] amplifying something I've been teaching
+[27:43] in this mentorship series hopefully you
+[27:46] found this one insightful and until talk
+[27:47] to you next time be safe

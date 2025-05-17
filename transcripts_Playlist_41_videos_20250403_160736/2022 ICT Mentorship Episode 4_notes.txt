@@ -1,0 +1,100 @@
+## Trading Strategies Lesson Overview
+
+This document consolidates key concepts and insights from a trading strategies lesson, focusing on examples from Wednesday and Thursday trading sessions.
+
+---
+
+## EM Mini S&P March Delivery Contract for 2022 [00:29]
+
+- Analyzed the price movement from the low to the high on Wednesday, January 26th.
+  - Emphasized the importance of using personal charts and platforms for analysis.
+  - Mentioned using TradingView for charting with real-time data at a low cost.
+
+## Equilibrium Price Point and Market Movement [01:26]
+
+- Explained how market movement from highs to lows can indicate premium or fair value.
+  - Identified market structure shifts and price movements.
+  - Used Fibonacci retracement levels to determine equilibrium points.
+
+## Market Structure Analysis [02:12]
+
+- Observed market structure breaks and rallies.
+  - Noted the significance of fair value gaps and price movements.
+  - Analyzed price action within a specific range for trading opportunities.
+
+## Detailed Chart Analysis [03:01]
+
+- Zoomed in on a 2-minute chart to analyze short-term highs and lows.
+  - Identified market structure shifts and potential entry points based on price movements.
+  - Highlighted the importance of understanding market dynamics for trading decisions.
+
+## Hypothetical Trade Scenario [03:49]
+
+- Discussed a hypothetical short trade from a specific entry point to a target exit.
+  - Emphasized the need to document trades in a study journal for learning purposes.
+  - Encouraged personal analysis and application of trading concepts on individual charts.
+
+## Ideal Entry and Target [04:36]
+
+- Described an ideal entry point based on market structure shifts and fair value gaps.
+  - Set a specific low as a target for the trade.
+  - Stressed the importance of understanding the logic taught in previous lessons for successful trading.
+
+## Trade Duration Analysis [05:01]
+
+- Highlighted the importance of tracking the time taken for market movements.
+  - Emphasized the significance of timing from market structure shifts to entry and exit points for effective trading strategies.
+
+## Heat or Draw Down Analysis [05:09]
+
+- Discussed the importance of analyzing the heat or drawdown in trading.
+  - Emphasized considering the total range available for better decision-making.
+  - Looked at the total range in hindsight to understand examples.
+
+## Recognizing Patterns [05:31]
+
+- Mentioned the importance of recognizing patterns in trading.
+  - Stated that while examples may not repeat exactly, there are recurring similarities.
+  - Emphasized the need to train the eye to identify these patterns.
+
+## Analogy of Deer Track [05:49]
+
+- Compared recognizing trading patterns to identifying a deer track as a hunter.
+  - Highlighted the importance of knowing what to look for to be effective.
+  - Drew a parallel between tracking a deer and identifying trading patterns.
+
+## Pattern Recognition in Trading [06:05]
+
+- Discussed the importance of pattern recognition in trading.
+  - Compared recognizing trading patterns to identifying a deer track.
+  - Reinforced the idea of knowing what to look for in trading setups.
+
+## Analyzing E-mini Nasdaq Futures [06:09]
+
+- Focused on analyzing the E-mini Nasdaq futures on January 27th, 2022.
+  - Emphasized starting with a 5-minute chart and working down to analyze the market.
+  - Pointed out the importance of observing the low to high range and identifying key levels.
+
+## Trading Criteria [06:36]
+
+- Stressed the importance of following specific rules and criteria for trading.
+  - Advised against forcing trades and highlighted the need to wait for the right setup.
+  - Emphasized allowing the market to reveal its direction before taking action.
+
+## Market Structure Analysis [07:24]
+
+- Discussed analyzing market structure on an intraday basis.
+  - Mentioned waiting for a shift in market structure before making trading decisions.
+  - Highlighted the significance of identifying swing lows and highs for potential trading opportunities.
+
+## Trade Execution [08:01]
+
+- Explained the process of executing trades based on market structure analysis.
+  - Described entering a short position after identifying a fair value gap.
+  - Mentioned setting targets based on market equilibrium points and monitoring price movements.
+
+## Review and Practice [08:12]
+
+- Encouraged reviewing more data and acquiring examples for study.
+  - Advised using the weekend to refine trading strategies and entries.
+  - Emphasized the importance of continuous learning and practice in trading.

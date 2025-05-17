@@ -28,8 +28,8 @@ A modern desktop application that generates detailed, timestamped notes from You
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/youtube-transcriber.git
-cd youtube-transcriber
+git clone https://github.com/Kawzmp3/Youtube-Transciber.git
+cd Youtube-Transciber
 ```
 
 2. Create a virtual environment and activate it:
@@ -111,4 +111,4 @@ This project uses:
 
 ## Support
 
-If you encounter any problems or have suggestions, please [open an issue](https://github.com/yourusername/youtube-transcriber/issues) on GitHub. 
+If you encounter any problems or have suggestions, please [open an issue](https://github.com/Kawzmp3/Youtube-Transciber/issues) on GitHub. 

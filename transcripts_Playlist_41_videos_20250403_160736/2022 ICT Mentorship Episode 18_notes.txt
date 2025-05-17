@@ -1,0 +1,435 @@
+## Comprehensive Documentation of Trading Mentorship Program
+
+This document consolidates key concepts and insights shared during a trading mentorship program session. It covers various aspects of chart analysis, trading strategies, risk management, and psychological aspects of trading. The following sections provide a detailed overview of the session content:
+
+---
+
+## Euro Dollar Trade Layout Overview [00:07]
+- **Introduction**:
+  - The Euro Dollar trade layout used in the mentorship program is introduced.
+  - The layout is displayed on TradingView charts.
+- **Membership Requirements**:
+  - Potential advanced features on TradingView may require membership.
+- **Payment**:
+  - Personal payment for TradingView services is emphasized without affiliate programs.
+
+## Chart Analysis Process [01:21]
+- **Process Explanation**:
+  - Analyzing charts for trade setups is explained.
+- **Transition**:
+  - Transition from higher to lower time frames is highlighted.
+- **Daily Bias**:
+  - Emphasis on daily bias and streamlining analysis.
+- **Demonstration**:
+  - The intention to demonstrate the process in the lesson is mentioned.
+
+## Daily Chart Analysis [01:43]
+- **Daily Chart Display**:
+  - The upper left-hand corner always shows the daily chart.
+- **Bias Analysis**:
+  - Starting point for analyzing bias.
+- **Chart Maximization**:
+  - Ability to maximize the chart for detailed analysis.
+- **Fair Value Gap**:
+  - Reference to fair value gap with specific candlestick patterns.
+
+## Fair Value Gap Analysis [02:24]
+- **Candlestick Identification**:
+  - Discussion on identifying key candlestick patterns within the fair value gap.
+- **Bearish Breaker Pattern**:
+  - Clarification on a bearish breaker pattern.
+- **Decision-making**:
+  - Comparison of candlestick highs for decision-making.
+- **Insights Sharing**:
+  - Reference to sharing insights with a private group for educational purposes.
+
+## Forecasting Lower Prices [03:24]
+- **Price Prediction**:
+  - Prediction of drawing up into the fair value gap and expecting lower prices.
+- **Step-by-Step Learning**:
+  - Encouragement to follow step-by-step scenarios for learning.
+- **Viewer Interaction**:
+  - Mention of responding to a viewer's question regarding trading approaches.
+
+## Imperfection of Trading Methods [04:08]
+- **Acknowledgment**:
+  - Acknowledgment that no trading method is foolproof.
+- **Strategy Imperfection**:
+  - Emphasis on the imperfection of trading strategies.
+- **Loss Acceptance**:
+  - Acknowledgment of potential losses due to human error.
+- **Responsibility**:
+  - Encouragement to take responsibility for trading outcomes.
+
+## Continuous Learning and Adaptation [05:01]
+- **Hypothetical Scenario**:
+  - Scenario of starting over with trading knowledge.
+- **Learning Value**:
+  - Reference to learning from resources like the YouTube channel.
+- **Adaptation Importance**:
+  - Emphasis on continuous learning and adaptation in trading practices.
+
+## Model Creation and Utilization [05:18]
+- **Model Development**:
+  - The speaker stripped down and created a trading model for a step-by-step approach.
+- **Application**:
+  - The model is applied in the current session and was shared with the community the day before.
+
+## Chart Analysis and Back Testing [05:25]
+- **Process Explanation**:
+  - Explanation of analyzing charts and back testing strategies.
+- **Community Interaction**:
+  - Mention of addressing community feedback by uploading a video to prove the method's effectiveness.
+
+## Utilizing the Model [06:08]
+- **Model Benefits**:
+  - Emphasizes the simplicity and effectiveness of the model in the YouTube 2022 mentorship program.
+- **Avoiding Complexity**:
+  - Advises against complicating the trading process with additional strategies like central bank dealer's range or Asian range.
+
+## Simplicity in Trading [07:18]
+- **Trading Efficiency**:
+  - Stresses the simplicity and efficiency of working with intraday and daily order flow.
+- **Model Highlight**:
+  - Highlights the model as the simplest way to approach trading without unnecessary complexities.
+
+## Step-by-Step Process [08:02]
+- **Process Overview**:
+  - Discussion of the step-by-step process of analyzing bias, working with higher time frames, and setting up trades using the provided model.
+- **Efficiency Emphasis**:
+  - Mentions the importance of streamlining the process for efficient trading.
+
+## Bearish Bias Analysis [08:45]
+- **Bias Focus**:
+  - Focuses on analyzing a bearish bias in trading.
+- **Setup Identification**:
+  - Provides guidance on analyzing daily charts and identifying setups for short sales in the forex market.
+
+## Time of Day Analysis [09:22]
+- **Trading Element**:
+  - Introduces the element of time of day in trading decisions.
+- **Entry Advice**:
+  - Advises on being forgiving with entries and understanding what to look for in advance to avoid impulsive trading decisions.
+
+## Fair Value Gap Analysis [09:49]
+- **Gap Identification**:
+  - Mentions a fair value gap in trading and how to trade based on candle movements.
+- **Trading Considerations**:
+  - Advises on not necessarily aiming for complete closure of the gap and considering time of day in trading decisions.
+
+## Transparency in Trading [10:02]
+- **Account Sharing**:
+  - Highlights the speaker's transparency in sharing live trading account statements with students.
+- **Instruction Emphasis**:
+  - Emphasizes the importance of listening to instructions and understanding the context of the shared trading information.
+
+## Simulating Real Market Scenarios [10:08]
+- **Scenario Creation**:
+  - The speaker creates live trading situations to mimic real market conditions.
+- **Emotional Management**:
+  - Involves experiencing drawdowns and dealing with emotions like fear and anxiety.
+- **Overcoming Fears**:
+  - Demonstrating the process of overcoming initial fears by taking losing trades and managing emotions.
+
+## Committing to a Bias [11:48]
+- **Bias Importance**:
+  - Emphasizes the importance of committing to a trading bias or direction in the market.
+- **Bias Imperfection**:
+  - Acknowledges that biases are not always perfect and that imperfection can still lead to success.
+- **Setup Wait**:
+  - Advises waiting for setups that align with the chosen bias before taking trades.
+
+## No Perfect Strategy [13:09]
+- **Strategy Imperfection**:
+  - Highlights the absence of a foolproof trading strategy that guarantees no losses.
+- **Imperfection Benefits**:
+  - Emphasizes that even imperfection can lead to account growth.
+- **Flawless Strategy**:
+  - Mentions the unlikelihood of someone sharing a flawless trading method if they possess one.
+
+## Challenges in Live Trading [14:06]
+- **Live Trading Scenarios**:
+  - Discusses scenarios faced in live trading accounts.
+- **Funded Account Programs**:
+  - Mentions the allure of funded account programs and the considerations involved.
+- **Caution Advised**:
+  - Advises caution and critical thinking when deciding to participate in such programs.
+
+## Completion of Funded Account Program [15:01]
+- **Program Completion**:
+  - Assumes the individual has successfully completed the requirements of a funded account program.
+- **Program Evaluation**:
+  - Raises the question of whether pursuing such programs is necessary or beneficial for all traders.
+- **Pros and Cons**:
+  - Encourages individuals to evaluate the pros and cons before committing to funded account programs.
+
+## Trading Account Size [15:10]
+- **Account Size Impact**:
+  - Having a hundred thousand dollar account allows for trading with a higher amount.
+- **Flexibility**:
+  - Having a larger account size provides the ability to trade with a significant amount of capital.
+- **Trading Benefits**:
+  - It allows for more flexibility in trading strategies and positions.
+
+## Bearish Daily Bias Analysis [15:45]
+- **Bias Analysis**:
+  - Analyzing the daily chart for a bearish bias based on recent price action.
+- **Price Observations**:
+  - Observing a significant drop in price followed by a candle trading up.
+- **Retracement Potential**:
+  - Identifying potential retracement after consecutive down days.
+- **Trading Opportunities**:
+  - Highlighting areas on the daily chart for potential trading opportunities.
+
+## Premium vs. Discount [16:23]
+- **Concept Understanding**:
+  - Understanding the concept of premium and discount levels in trading.
+- **Price Movement**:
+  - Recognizing areas as premium or discount based on price movement.
+- **Trading Scenarios**:
+  - Utilizing fair value gaps to identify potential trading scenarios.
+
+## Recap of Bearish Bias and Trade Targets [17:43]
+- **Bias Recap**:
+  - Reiterating the bearish bias and the potential drawdown to a specific low.
+- **Trade Targeting**:
+  - Emphasizing the importance of framing daily highs and lows for trade targets.
+- **Setup Utilization**:
+  - Using previous day's highs and lows for setting up trading strategies.
+- **Liquidity Highlight**:
+  - Highlighting the liquidity around daily highs and lows for trading opportunities.
+
+## Utilizing Previous Day's Highs and Lows [19:54]
+- **Institutional Mindset**:
+  - Leveraging institutional mindset trading strategies by focusing on previous day's highs and lows.
+- **Liquidity Exploration**:
+  - Exploring liquidity pools around daily highs and lows.
+- **Setup Consistency**:
+  - Highlighting the importance of consistent setups using the last three days' highs and lows.
+- **Trade Setup Continuity**:
+  - Ensuring a continuous supply of trade setups by monitoring recent price levels.
+
+## Premium and Discount Levels [20:00]
+- **Level Identification**:
+  - Identifying premium and discount levels based on Wednesday's trading.
+- **Level Marking**:
+  - Marking premium and discount levels on the high and low of the previous trading day.
+- **Price Movement Utilization**:
+  - Using these levels to anticipate price movements and trading opportunities.
+
+## Fair Value Gap [20:13]
+- **Trading Opportunity**:
+  - An opportunity to look for shorts in trading.
+- **Short Position Definition**:
+  - Shorts are positions taken with the expectation that the asset's price will decrease.
+- **Profit Targeting**:
+  - Targeting a low point in the market for potential profitability.
+
+## Profitability Range [20:31]
+- **Range Definition**:
+  - Refers to the potential profit range identified in trading.
+- **Example**:
+  - Example: Range from 935 to a low of 74, giving a range of 60 handles.
+- **Profit Potential**:
+  - Discusses the possibility of gaining pips (price interest points) within this range.
+
+## Trading Setup [21:09]
+- **Setup Conditions**:
+  - Refers to the conditions or signals that indicate a potential trade opportunity.
+- **Mentorship Emphasis**:
+  - Mentions the importance of identifying setups based on the mentorship teachings.
+- **Detailed Analysis**:
+  - Emphasizes the need to drop down into lower time frames for detailed analysis.
+
+## Trading Platforms [21:48]
+- **Platform Importance**:
+  - Discusses the importance of using a computer screen for trading over a phone.
+- **Phone Trading Caution**:
+  - Advises against entering new positions on a phone due to limited visibility and data.
+- **Decision Clarity**:
+  - Emphasizes the need for a clear view of the market for effective decision-making.
+
+## Single Screen Trading [23:03]
+- **Efficient Trading**:
+  - Demonstrates how to effectively trade using one monitor.
+- **Chart Information**:
+  - Shows how information from the daily chart can be transposed onto hourly and 15-minute time frames.
+- **Consistent View**:
+  - Highlights the importance of having a consistent view across different time frames for trading decisions.
+
+## Bellwether Chart [23:29]
+- **Chart Importance**:
+  - Refers to the 15-minute time frame, crucial for making quick trading decisions.
+- **Position Management**:
+  - The 15-minute chart is used for managing positions and identifying new trade setups.
+- **Bias Establishment**:
+  - Helps in establishing and trusting intraday biases for trading decisions.
+
+## Annotating Charts [24:00]
+- **Chart Annotation Process**:
+  - Explains the process of annotating charts for analysis and decision-making.
+- **Continuity Emphasis**:
+  - Demonstrates how annotations on higher time frames can be carried over to lower time frames for continuity.
+- **Consistency Importance**:
+  - Emphasizes the importance of maintaining consistency in analysis across different time frames.
+
+## Imbalance Analysis [25:08]
+- **Market Discrepancies**:
+  - Refers to identifying discrepancies or imbalances in the market.
+- **Imbalance Presence**:
+  - Discusses the presence of imbalances in both daily and hourly charts.
+- **Trading Opportunities**:
+  - Imbalances can be used as potential trading opportunities based on market dynamics.
+
+## Relative Equal Highs [25:12]
+- **High Value Points**:
+  - Refers to points on a chart that have similar high values.
+
+## Anchored [25:14]
+- **Chart Fixation**:
+  - Refers to fixing or attaching a point or line to a specific location on a chart.
+
+## Annotations for Backtesting [25:18]
+- **Backtesting Purpose**:
+  - Annotations are added to the chart for the purpose of backtesting and journaling trading decisions.
+- **Analysis Aid**:
+  - Annotations help in documenting and analyzing trading strategies.
+
+## Chart Annotation [25:23]
+- **Annotation Process**:
+  - Demonstrates how to annotate a chart for backtesting and analysis purposes.
+
+## Toggle Feature [25:32]
+- **Chart Functionality**:
+  - Allows users to switch on or off certain features on the chart.
+
+## Customization [25:39]
+- **User Control**:
+  - Users can choose the color of annotations on the chart.
+
+## Chart Annotations for Logging [25:49]
+- **Logging Purpose**:
+  - Annotations are used for logging trading decisions and study notes.
+
+## Time Frame Selection [26:16]
+- **Time Frame Recommendation**:
+  - The speaker suggests using a 15-minute time frame for analysis.
+
+## Daily Fair Value Gap [26:26]
+- **Analysis Reference**:
+  - A reference point used for analysis on the hourly chart.
+
+## Mapping Out Lows [26:35]
+- **Low Identification**:
+  - Identifying and marking low points on the chart for analysis.
+
+## New Day Start [26:42]
+- **Trading Day Beginning**:
+  - Refers to the beginning of a new trading day at midnight New York local time.
+
+## Annotating Daily Dividers [27:18]
+- **Daily Division Marking**:
+  - Adding vertical lines to mark daily divisions on the chart.
+
+## Chart Expansion [27:38]
+- **Chart Enlargement**:
+  - Expanding the chart to full screen for detailed analysis.
+
+## Linking Charts [28:01]
+- **Annotation Synchronization**:
+  - Using the link button to synchronize annotations across different time frames.
+
+## Opening Price [28:46]
+- **Trading Start Price**:
+  - Refers to the price at which a new trading day starts.
+
+## Scalping Strategy [29:03]
+- **Short-Term Trading**:
+  - Involves short-term trading on a 5-minute chart.
+
+## Chart Time Zone Setting [29:36]
+- **Time Zone Adjustment**:
+  - Setting the chart to New York time zone for consistency in analysis.
+
+## Plotting Line Segment [30:02]
+- **Chart Marking**:
+  - Drawing a line segment on the chart to mark a specific point or event.
+
+## Trend Line Annotation [30:24]
+- **Trend Line Technique**:
+  - Holding down the shift button while dragging the trend line keeps it straight.
+- **Price Point Annotation**:
+  - Annotating the opening price at midnight to anchor and show a specific point.
+
+## Equal Highs and Displacement [30:40]
+- **High Value Identification**:
+  - Identifying relative equal highs and discussing the concept of displacement.
+- **Trading Concept**:
+  - Exploring the idea of creating an imbalance and fair value gap in trading.
+
+## New York Session Trading [31:54]
+- **Trading Time Frame**:
+  - Trading the New York session in Forex from 7:00 AM to 10:00 AM.
+- **Trade Setup Timing**:
+  - Setting up trades within the specified time frame for optimal trading opportunities.
+
+## Kill Zone Window [32:55]
+- **Trade Setup Window**:
+  - Creating a kill zone window for trading setups during specific time frames.
+- **Order Placement**:
+  - Placing orders based on market movements within the designated time period.
+
+## Trade Setup [33:00]
+- **Limit Order Placement**:
+  - Placing a limit order to sell short at a specific price within the kill zone.
+- **Stop-Loss Setting**:
+  - Setting stop-loss levels based on market conditions and price ranges.
+
+## Time Frame Analysis [33:36]
+- **Time Frame Breakdown**:
+  - Breaking down the 15-minute time frame into five-minute intervals for detailed analysis.
+- **Gap Exploration**:
+  - Exploring fair value gaps and market imbalances within different time frames.
+
+## Five-Minute Chart Analysis [33:51]
+- **Chart Examination**:
+  - Examining the five-minute chart for fair value gaps and market movements.
+- **Comparison Analysis**:
+  - Comparing findings on the five-minute chart with the 15-minute time frame for confirmation.
+
+## Relationship Between Time Frames [35:00]
+- **Time Frame Connection**:
+  - Highlighting the relationship between higher time frame imbalances and smaller time frame movements.
+- **Imbalance Understanding**:
+  - Emphasizing that higher time frame imbalances are crucial in understanding subordinate time frames.
+
+## Five-Minute Chart Analysis [35:23]
+- **Imbalance Identification**:
+  - An imbalance is identified on the five-minute chart.
+- **Setup Observation**:
+  - A smaller imbalance is also noted within the larger imbalance.
+- **Price Point Reference**:
+  - The price point is discussed as a reference for potential trading decisions.
+- **Expectation Level Highlight**:
+  - The minimum expectation level is highlighted as a key consideration for setting orders.
+
+## Entry Strategies [35:39]
+- **Entry Point Suggestion**:
+  - The minimum expectation level is suggested as a potential entry point for short positions.
+- **Order Placement**:
+  - Traders can place a sell limit order at this level or fine-tune their entry strategy.
+- **Entry Adjustment**:
+  - Rebalancing options are mentioned as a way to adjust entry points.
+
+## Risk Management and Leverage [36:16]
+- **Risk Management Emphasis**:
+  - Emphasis on low threshold entry to manage risk.
+- **Greed Caution**:
+  - Traders are warned against being greedy and not getting their desired fill.
+- **Leverage Control**:
+  - The importance of managing leverage and controlling risk is stressed.
+- **Leverage Impact**:
+  - Traders are reminded that the amount of leverage used is crucial and can impact trading outcomes significantly.
+
+## Perspective Building for Better Entries [37:27]
+-

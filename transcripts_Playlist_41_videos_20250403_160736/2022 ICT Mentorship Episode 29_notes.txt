@@ -1,0 +1,173 @@
+## Comprehensive Trading Notes
+
+This document consolidates detailed notes on various trading concepts and strategies discussed in a trading session. The notes cover key market analysis strategies, entry techniques, risk management, and cautionary advice for traders.
+
+---
+
+## Relative Equal Highs on NASDAQ [00:30]
+
+- **Key Level**: 12,553.25 on NASDAQ marked by relative equal highs.
+  - **Significance**: Basis for entering the market on Monday, May 16, 2022.
+  - **Impact**: Determined bullish bias for trading.
+
+## Daily Swing Low [01:01]
+
+- **Observation**: NASDAQ and S&P experienced daily swing lows.
+  - **Implication**: Indicated a potential shift in market direction.
+  - **Bias**: Favorable bias for S&P at the beginning of the week.
+
+## Upcoming Market Events [01:18]
+
+- **Events**: Retail sales numbers and FED chairman's speech on Tuesday, May 17, 2022.
+  - **Volatility**: Anticipate increased market volatility during the FED chairman's speech at 2:00 PM.
+
+## Clarification on Trading Approach [02:23]
+
+- **Focus**: Dispelling doubts on trading methods, including rented T4 servers.
+  - **Execution**: Emphasize live data usage and trade execution for method effectiveness.
+  - **Methodology**: Real-time data analysis basis despite current paper trading demonstration.
+
+## Market Analysis Strategy [03:01]
+
+- **Approach**: Analyzing for buying opportunities pre-FED chairman's speech.
+  - **Focus**: Identifying patterns and trading opportunities in low volatility.
+  - **Experience**: Emphasize the importance of experience in low volatility trading.
+
+## Smart Money Technique (SMT) [04:11]
+
+- **Strategy**: Using inter-market relationships for trading decisions.
+  - **Identification**: Divergences between NASDAQ and S&P for trade opportunities.
+  - **Bias**: Focus on long trades with a bullish bias based on SMT approach.
+
+## Price Action Analysis [05:00]
+
+- **Emphasis**: Analyzing price action for trading decisions.
+  - **Framework**: Pay attention to price movement structure for trading insights.
+
+## Fair Value Gap [05:10]
+
+- **Concept**: Market trading into and breaking down from a gap.
+  - **Requirement**: Fair value gap above 50% of the high and low of the displacement leg.
+
+## Market Behavior [05:29]
+
+- **Observation**: Market creates run-on sell stops into fair value gaps.
+  - **Context**: Noted while dealing with recording software.
+
+## Entry Strategy [06:40]
+
+- **Approach**: Entering trades close to fair value gaps.
+  - **Importance**: Proximity to fair value gap for entries.
+  - **Precision**: Acknowledgment of challenges in achieving precise entries.
+
+## Ideal Entry Patterns [07:49]
+
+- **Goal**: Entering trades as per the model's indications.
+  - **Focus**: Market structure and behavior-based opportunities.
+
+## Market Structure Shift [08:08]
+
+- **Identification**: Short-term market structure shifts into fair value gaps.
+  - **Opportunities**: Multiple entry opportunities near fair value gaps.
+
+## Market Rally [09:36]
+
+- **Indication**: Bullish market structure shift with highs being surpassed.
+  - **Execution**: Adding to positions with limit orders.
+  - **Management**: Specific handle/tick management.
+
+## Risk Management [09:56]
+
+- **Strategy**: Managing heat against positions.
+  - **Profit-taking**: Specific profit points for gains.
+  - **Reflection**: Learnings from missed opportunities and trade outcomes.
+
+## Trading View Analysis [09:24]
+
+- **Tool Usage**: Analyzing live market movements on Trading View.
+  - **Observations**: Market behavior and structure analysis.
+  - **Execution**: Specific entries and executions on Trading View.
+
+## Entry [10:07]
+
+- **Discussion**: Specific price points and trade placement details.
+  - **Precision**: Tight trade placement with minimal heat.
+
+## Heat [10:50]
+
+- **Definition**: Potential loss or risk in a trade.
+  - **Scenario**: Less than one handle of heat in discussed trade.
+
+## Fair Value Gap [11:08]
+
+- **Explanation**: Concept related to asset value compared to market price.
+  - **Context**: Close proximity trade to fair value gap.
+
+## Demo Baller [13:29]
+
+- **Identity**: Demonstrator of trading strategies without profit guarantees.
+  - **Clarity**: Emphasis on paper trading for compliance.
+
+## Reading Price Action [14:16]
+
+- **Skill**: Interpreting market movements based on price action.
+  - **Focus**: Candlestick patterns and price action analysis.
+
+## Algorithm [14:40]
+
+- **Definition**: Set of rules for specific task execution.
+  - **Alignment**: Trading success with algorithmic analysis.
+
+## Trade Execution [15:01]
+
+- **Process**: Transparent live trade execution and management.
+  - **Authenticity**: Real-time trade demonstrations without manipulation.
+
+## Rented MT4 Servers [15:07]
+
+- **Usage**: Utilizing rented MetaTrader 4 servers for trading.
+  - **Example**: Success with rented servers demonstrated.
+
+## Possibility and Fraud [15:21]
+
+- **Acknowledgment**: Caution against unrealistic gains.
+  - **Warning**: Potential misuse of trading platforms.
+
+## Demo Trading [15:36]
+
+- **Clarification**: Success achieved in demo account, not real money.
+  - **Skill Emphasis**: Reading price action and pattern identification.
+
+## Fake MT4 Servers and Screenshots [15:50]
+
+- **Warning**: Deceptive practices using fake servers and screenshots.
+  - **Example**: Misleading claims on social media platforms.
+
+## Return to Twitter [16:01]
+
+- **Intention**: Sharing trading insights and recordings on Twitter.
+  - **Engagement**: Creating short clips for trading demonstrations.
+
+## Predictive Abilities [16:50]
+
+- **Skill**: Predicting market movements based on analysis.
+  - **Encouragement**: Learning and developing predictive skills.
+
+## Rooted on Sound Logic [17:00]
+
+- **Emphasis**: Logic-based trading decisions over randomness.
+  - **Strategy**: Algorithmic approach for informed decisions.
+
+## Caution for Volatility [17:19]
+
+- **Warning**: High volatility expected in the market.
+  - **Advice**: Caution against trading in volatile conditions.
+
+## Closing Remarks [17:30]
+
+- **Safety Priority**: Emphasize safety in trading activities.
+  - **Advice**: Caution against trading without proper preparation.
+
+---
+
+This comprehensive document provides a structured overview of various trading concepts, strategies, and cautionary advice discussed in the session. Each section retains specific details, examples, and timestamps for clarity and reference.

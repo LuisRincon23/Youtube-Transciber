@@ -1,0 +1,102 @@
+## Comprehensive Trading Analysis Notes
+
+### Overview
+These notes provide a detailed insight into various trading concepts discussed by the speaker during a trading analysis session. The content covers a range of topics including analysis methods, market influences, trading strategies, and mentorship teachings.
+
+---
+
+### **Introduction to Analysis** [00:00]
+- The speaker welcomes the audience back and mentions the chairman's speech scheduled for 2 o'clock in the afternoon.
+
+### **Bottom-up Analysis** [00:13]
+- The speaker plans to start with the one-minute chart and progress to higher time frames, following a bottom-up analysis approach.
+
+### **Jawboning Session** [00:25]
+- Refers to the Fed chairman's speech at 2 o'clock, expected to impact the market.
+
+### **Judas Point** [00:33]
+- Describes a point where the market falls just short of a significant high or low.
+  - Example: Market fell one tick short of the morning high at 12,535 and a half.
+
+### **Relative Equal Lows** [01:20]
+- Signifies lows during the New York lunch hour, crucial in trading analysis.
+  - Example: Market drops below relative equal lows, prompting specific trading actions.
+
+### **Market Manipulation** [02:01]
+- Involves intentional actions to influence market prices for personal gain.
+  - Example: Certain market movements attributed to manipulation.
+  - Caution: Manipulation can impact trading strategies and decisions.
+
+### **Buy Stops** [02:37]
+- Orders above the current market price to trigger a buy order at a specified level.
+  - Example: Buy stops triggering market movements.
+  - Related: Commonly used by breakout traders.
+
+### **Stop Loss** [03:00]
+- An order to limit losses by closing a trade at a specified price level.
+  - Example: Traders trailing stop loss to protect profits.
+
+### **Short Squeeze** [03:19]
+- Occurs when a heavily shorted asset rises sharply, forcing short sellers to cover positions.
+  - Example: Shorts squeezed as market moves higher.
+
+### **Order Block** [03:55]
+- A price level with concentrated buy/sell orders, often significant support/resistance.
+  - Example: Market rallies from an order block.
+
+### **Twitter Feed** [04:14]
+- Speaker references their Twitter handle for trading insights and updates.
+  - Example: Sharing trading actions on Twitter.
+
+---
+
+### **Order Block Trading** [05:00]
+- Trading into a specific order block multiple times to capture fair value gap.
+  - Speaker details market movements and missed opportunities.
+  - Algorithms spool price direction for liquidity at a specific level.
+  - Market activity intensifies at specified levels.
+
+### **Market Movement** [06:01]
+- Market revisits order block, consolidates, and fulfills trading objectives.
+  - Order block influences market behavior and trading decisions.
+
+### **Liquidity and Market Behavior** [07:11]
+- Liquidity impacts market behavior and resistance perception.
+  - Recognizing setups based on liquidity and resistance levels is crucial.
+
+### **Optimal Trade Entry** [09:17]
+- Market movements into specific areas and potential trade directions discussed.
+  - Importance of monitoring market behavior for trading opportunities highlighted.
+
+### **Market Analysis** [09:54]
+- Speaker discusses market uncertainty and potential upside areas.
+  - Monitoring market behavior essential for trading decisions.
+
+### **Relative Equal Highs** [10:50]
+- Price levels close to each other, significant in market analysis.
+  - Example: Relative equal highs on daily chart as key price levels.
+
+### **Daily Bias** [11:00]
+- Market sentiment based on daily movements and patterns.
+  - Speaker's trading decisions influenced by daily bias.
+  - Example: Focusing on specific setup at a significant price level.
+
+### **Hunt** [11:28]
+- Actively seeking specific trading opportunities.
+  - Speaker identifies a particular trade setup as the "hunt."
+
+### **PM or Afternoon Session Trading** [11:54]
+- Strategies applied during afternoon trading session discussed.
+  - Waiting for market consolidation and identifying lows key strategies.
+
+### **Teachings in Mentorship** [12:08]
+- Educational content on PM and afternoon session trading shared.
+  - Importance of understanding trading factors during specific sessions emphasized.
+
+### **Insightful Content** [12:11]
+- Speaker encourages applying mentorship teachings for improved trading practices.
+  - Viewers urged to utilize shared insights for better results.
+
+---
+
+This comprehensive document consolidates detailed trading analysis notes, covering various concepts, strategies, and market influences discussed by the speaker.

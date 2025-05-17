@@ -1,0 +1,83 @@
+## Overview
+This document consolidates detailed notes on trading strategies, market analysis, risk management, and account performance from various timestamps. The notes cover updates to the YouTube channel, equity milestones, live account purposes, market structure analysis, fair value gaps, trading strategies, risk management, trade execution, stop-loss strategies, fair value gap analysis, stop-loss placement, trading hours, economic calendar impact, scalping strategies, platform challenges, end-of-month trading decisions, and account performance insights.
+
+---
+
+## Update to YouTube Channel [00:06]
+- Addressing concerns about absence
+- Clarifying vacation status
+- Goal: Achieve $10,000 on the Live account
+
+## Equity Mile Marker [00:20]
+- Targeting $10,000 on the Live account
+- Monitoring fair value gap and swing high break
+
+## Purpose of Live Account [00:49]
+- Demonstrating 20% monthly growth consistently
+- Trading with live funds, no cherry-picking trades
+
+## Market Structure Analysis [01:26]
+- Anticipating bullish market structure
+- Potential trade back to 14,000 on the daily chart
+
+## Fair Value Gap [01:45]
+- Observing fair value gap in market structure
+- Monitoring candle closing for imbalance completion
+
+## Trading Strategy [02:23]
+- Analyzing candle close for entry
+- Adjusting for volatility and overshoots
+- Considering long entry at equity opening
+
+## Risk Management [03:00]
+- Caution on equity opening entry
+- Watching for whip below short-term low
+- Setting stop loss below swing low
+
+## Trade Execution [03:56]
+- High-risk long entry
+- Monitoring for lower entry opportunity
+- Aiming for higher prices with bullish bias
+
+## Stop Loss Strategy [04:46]
+- Flexibility without stop loss at market open
+- Caution on easily triggered stop losses
+- Willingness to close below trade level
+
+## Fair Value Gap [05:22]
+- Fair value gap at 680 level indicating premium market
+- Aiming for 80 level, potential $1,000 profit
+
+## Fair Value Gap Analysis [06:09]
+- Small fair value gap in last three candles
+- Price support expected around 630 level
+
+## Stop Loss and Trading Hours [06:42]
+- Considering stop-loss at entry
+- Moving to sidelines if stopped out
+- Importance of trading hours awareness
+
+## Economic Calendar and Volatility [07:05]
+- Use of economic calendar for market volatility anticipation
+- Predicting increased volatility later in the day
+
+## Scalping Strategy [08:06]
+- Short scalping strategy with minimal drawdown
+- Quick profit focus on small price movements
+
+## Platform Confusion [08:18]
+- Challenge of using different platforms
+- Emphasizing need for precision and familiarity
+
+## End of Trading Month [08:46]
+- No more trades for March after profitable close
+- Calculating net profit deducting commissions
+
+## Account Performance [09:00]
+- Showcasing trades and account performance
+- Impact of commissions on trading results
+- Conducting latency tests and simulating new traders' actions
+
+---
+
+Note: Careful consideration of risk management, trade execution, and market conditions is vital for successful trading outcomes.

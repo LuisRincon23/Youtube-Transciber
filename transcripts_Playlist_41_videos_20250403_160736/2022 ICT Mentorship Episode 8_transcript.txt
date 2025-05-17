@@ -1,0 +1,356 @@
+[00:05] all right folks welcome back
+[00:07] this is episode
+[00:08] number eight
+[00:11] applying institutional order flow to
+[00:13] forex markets
+[00:15] all right folks welcome back
+[00:17] taking a look at trading view and i
+[00:20] promise this is going to be a really
+[00:21] short one tonight
+[00:23] um
+[00:25] let's go to euro
+[00:34] and whenever i'm looking at data from
+[00:36] trading view this is the
+[00:38] data feed i use for
+[00:40] forex pairs only forex.com i don't want
+[00:44] definitely not them
+[00:49] all right so we have the daily chart up
+[00:52] for euro yen
+[00:56] just so you know i hate the end pairs i
+[00:59] can't stand them
+[01:00] but
+[01:01] but for the sake of completeness
+[01:03] this is how you would
+[01:05] look for these types of patterns in
+[01:07] forex
+[01:09] now i have lots of feedback in the
+[01:11] comments section that
+[01:13] you don't get to see but it's really
+[01:14] just for me i get a lot of requests
+[01:16] whether or not this is
+[01:18] appropriate to be using for higher time
+[01:20] frame charts and i think daily charts
+[01:22] are
+[01:22] what everyone classifies a higher higher
+[01:25] time frame chart so
+[01:26] i want you to take a look at shark fry
+[01:28] do any mock up on it
+[01:34] pause the video if you're not ready
+[01:40] still don't pause it to you
+[01:42] all right take a look at the
+[01:45] relative equal lows over you see that
+[01:48] it's gonna go
+[01:50] quick and dirty tonight
+[01:52] right and dirty
+[01:54] all right so we have
+[01:56] relative equal lows
+[01:58] marked out over here the market has
+[01:59] traded down through
+[02:02] and created a run higher
+[02:05] now here is why i do not like the end
+[02:08] pairs okay i get questions all the time
+[02:10] why don't you like again pairs icd they
+[02:12] move around nice they do this they do
+[02:14] that
+[02:15] they tend to have like a double
+[02:18] return to a specific level i like to see
+[02:20] and you're going to see it right here
+[02:22] okay
+[02:23] swing high
+[02:25] the market rallies through that
+[02:27] there's no
+[02:28] fair value out there
+[02:30] it drops back down in
+[02:32] then it runs again taking out this
+[02:35] swing high so we have two
+[02:38] points of market structure that have
+[02:40] moved to the upside in order its price
+[02:42] is traded above it
+[02:44] now this leg here
+[02:47] you want to go back through that
+[02:48] and see is there a fair value gap
+[02:52] well we have one
+[02:54] and two
+[02:56] market trades down into it here
+[03:01] sends it higher
+[03:03] what's above here buy side liquidity
+[03:06] this old high back here could be a draw
+[03:08] on liquidity as well so there's gonna be
+[03:09] buy stops whether it trades there or not
+[03:11] it's irrelevant okay
+[03:14] it's likely to draw to it
+[03:16] just like you know
+[03:18] playing horseshoes you play the game
+[03:20] horseshoes
+[03:21] not every single time you throw a
+[03:23] horseshoe is it going to go on that post
+[03:26] but it's still fun to play right so
+[03:28] you're aiming at that post whether you
+[03:30] hit that post or not and this would be
+[03:31] like the post in the game
+[03:33] playing horseshoes you're just aiming
+[03:35] for it
+[03:36] now obviously we started trading a new
+[03:37] day here but this candle which was the
+[03:40] 10th of february 2022
+[03:42] this daily candle
+[03:45] we could trust that this was likely to
+[03:47] go higher because we went up we've
+[03:49] consolidated
+[03:51] and then start another run into this
+[03:54] high here
+[03:55] again whether it trades through it or
+[03:56] not it's irrelevant okay because even a
+[03:58] failure swing to get above old highs if
+[04:00] there's enough range from being right
+[04:02] here at the open to reaching up to here
+[04:04] that's enough to take a stab at it and
+[04:06] see if you're going to get any kind of
+[04:07] yield
+[04:09] so that's an example of it occurring on
+[04:12] a daily chart but i want to go into this
+[04:13] very day right there okay the 10th
+[04:17] so we're going to drop down into a 15
+[04:19] minute time frame
+[04:22] all right here's a 15 minute time frame
+[04:23] and
+[04:24] we're going to mark up our chart
+[04:32] midnight new york time
+[04:35] rocket rallies in here
+[04:39] yeah
+[04:41] and then we go into the
+[04:42] new york session right here
+[04:44] so we're going to go into this
+[04:47] price structure
+[04:49] and fair it out
+[04:51] the run that occurred in here
+[04:53] so i'm going to
+[04:55] put a rectangle in this area so that way
+[04:56] we know what we're looking at relative
+[04:58] to this 15 minute time frame
+[05:07] you guys ask why i do powerpoint slides
+[05:09] this is the reason why
+[05:11] it makes it a lot easier to go right to
+[05:12] what i'm looking for
+[05:14] all right we're gonna drop down to a
+[05:15] five minute chart
+[05:19] okay
+[05:20] and if you take a look at
+[05:34] seven o'clock in the morning
+[05:38] 10 o'clock in the morning
+[05:40] that's your new york
+[05:41] ict killzone okay that's the time of day
+[05:44] that new york session trades form
+[05:48] i have more information in that regard
+[05:50] for
+[05:51] time of day
+[05:52] for forex in this
+[05:54] channel i said lots of videos lots of
+[05:56] topics and things you can explore i
+[05:58] don't want to beat it to death because
+[05:59] i've already done in other places but
+[06:01] just know that seven o'clock in the
+[06:02] morning 10 o'clock in the morning new
+[06:03] york time again
+[06:04] on trading view you need to have it
+[06:06] toggled to that everything else
+[06:09] it'll be wrong
+[06:11] all right so here is the time of day at
+[06:13] the forming of a new york setup
+[06:18] forms all right so we have the market
+[06:21] trading down
+[06:24] takes out a swing low trades down below
+[06:26] that
+[06:27] and then punches higher
+[06:29] right above this swing high
+[06:31] inside this price like right here is
+[06:34] there a fair value gap we're going to
+[06:36] start breaking it down top down from
+[06:38] five minute
+[06:40] top down
+[06:41] we're gonna break it down from the five
+[06:43] minute down to the one minute chart so
+[06:46] from this low
+[06:48] up to this high
+[06:54] right in there that's we're gonna
+[06:57] study on each new time frame so i'll go
+[07:00] down to three minutes
+[07:06] okay so in this price leg here do we
+[07:08] take out a swing low yes we trade down
+[07:12] below swing low
+[07:13] does it take out a swing high
+[07:17] here
+[07:18] yes it does so now we have a valid
+[07:20] condition to see if there's a trade
+[07:23] go back through this price leg
+[07:25] is there a fair value got
+[07:28] right in here
+[07:31] and this one here
+[07:32] so remember i was teaching you it could
+[07:34] stab down there just be mindful of that
+[07:36] but
+[07:37] try to get your entry in on that one
+[07:39] there
+[07:41] and that's what we have here trace that
+[07:43] to it there
+[07:44] now the question is going to be is how
+[07:46] far
+[07:47] will it trade to because we're not
+[07:49] looking at anything over here because a
+[07:51] middle of the range type idea so for
+[07:53] expansion type moves practical lesson
+[07:56] tonight where if we don't have a range
+[07:58] to trade inside of
+[08:00] how do we anticipate how far can trade
+[08:01] up or trade down in this case we're
+[08:03] looking for a long
+[08:05] where would our targets be because the
+[08:06] old high is over here
+[08:08] now i'm sure if we went to a hard time
+[08:10] frame keep looking to the left we'll
+[08:11] find something
+[08:12] but a real easy way
+[08:15] is to take
+[08:17] your price
+[08:20] leg over here see this swing low break
+[08:22] prior to this run up then we
+[08:24] consolidated drop down create a discount
+[08:27] and then create our retracement rally
+[08:32] and start to run up into these highs
+[08:34] how can we know
+[08:37] well i like to take a fib
+[08:45] anchor it
+[08:46] let go of my
+[08:48] and anchor it to
+[08:50] a previous swing okay so from this low
+[08:53] that is high
+[08:54] after we leave this consolidation it
+[08:56] starts to trade higher
+[08:59] um standard deviation negative one
+[09:02] and i got a lot of questions you know
+[09:04] what's my setup for my fib i actually
+[09:06] show that on the ote primer video so
+[09:09] you're welcome to take a look at that on
+[09:11] the youtube channel as well
+[09:13] 133.153
+[09:19] and
+[09:24] that's not that
+[09:25] let's see
+[09:27] hi is 133
+[09:29] 15 and three so right to the right to
+[09:32] the point that you'd be looking for
+[09:34] and then
+[09:37] we've seen it received from that
+[09:41] okay
+[09:43] so
+[09:44] obviously when i show example like this
+[09:46] makes me want to trade me in
+[09:49] but i hate this pair i can't stand
+[09:51] there's other markets that
+[09:53] can scratch my itch for 4x but this one
+[09:55] is not one i like to trade
+[09:56] but
+[09:57] i wanted to come out tonight and kind of
+[09:59] give you
+[10:00] a quick view of what you could do with
+[10:02] these
+[10:03] markets using the model okay
+[10:06] there is a approach that you can use
+[10:08] with the london session okay and london
+[10:11] would be marking up your vertical lines
+[10:13] relative to new york local time two
+[10:16] o'clock in the morning to five a.m so
+[10:18] you'd have your your bracket so your
+[10:20] operating hours would be hunting the
+[10:22] setup
+[10:23] for new york between seven o'clock in
+[10:24] the morning and ten o'clock
+[10:26] local new york time
+[10:28] for london session trades
+[10:30] you would look for setups that would
+[10:34] provide you a way to trade a fair value
+[10:36] gap between two o'clock in the morning
+[10:37] and five o'clock in the morning okay and
+[10:41] that's as easy as i can make it for you
+[10:43] it's simple and any additional
+[10:44] information you would want to have i
+[10:47] have absolutely covered it in other
+[10:49] videos in this youtube channel okay so
+[10:51] it's predominantly a forex channel and
+[10:54] it's only been recently with the 2022
+[10:56] mentorship i'm talking and teaching
+[10:57] about the stock indices so
+[11:00] i got a lot of requests for 4x so here
+[11:02] you go it's
+[11:04] simply applying what you've been trained
+[11:07] with the futures indices
+[11:10] but
+[11:11] just applying it to the forex market but
+[11:13] applying it to the time of day relative
+[11:14] to
+[11:16] new york
+[11:17] or london and yes you can take trades in
+[11:19] asia yes you can take trades in london
+[11:21] close
+[11:23] but i'd prefer to have you just trade on
+[11:25] these two time frames here or time of
+[11:27] day rather
+[11:28] being new york open which is what's
+[11:30] being shown here seven o'clock tomorrow
+[11:31] ten o'clock in the morning new york
+[11:32] local time again always i can't say it
+[11:34] enough because if you don't do this
+[11:36] and you just have it set to your local
+[11:38] time
+[11:39] it won't work
+[11:40] but it's new york local time on trading
+[11:42] view
+[11:43] seven o'clock to ten o'clock this is the
+[11:46] time when you're hunting the setup okay
+[11:48] so
+[11:49] in summary
+[11:51] we can anticipate this market going
+[11:52] higher why because the euro dollar is
+[11:55] going higher
+[11:56] you can also
+[11:58] check it by going to let's go to daily
+[12:01] chart
+[12:02] first
+[12:10] and you can go to
+[12:12] 6e which is euro futures
+[12:15] and let us use the front month
+[12:16] continuous
+[12:18] okay you can see how euro
+[12:21] where has it been going
+[12:23] so has it been going lower or higher
+[12:26] clearly going higher
+[12:28] what has
+[12:30] the yen been doing
+[12:37] so when you look at forex pairs you want
+[12:39] to look for that relationship between
+[12:41] the
+[12:42] instruments that make up your pair
+[12:44] so euro yen euro is strong yen is weak
+[12:49] so what would that mean for euro yen it
+[12:51] would mean that
+[12:52] if your bias is bullish
+[12:55] and you have this
+[12:57] underpinning
+[12:58] between euro and yen
+[13:00] it's going to make this pair go higher
+[13:03] it's a real simple way of looking at how
+[13:06] to determine
+[13:07] these exotic crosses okay and how to
+[13:09] frame the logic behind whether it should
+[13:11] go higher or lower
+[13:13] and then apply time today wait for the
+[13:15] pattern i'm teaching you
+[13:16] and you won't need to do anything else
+[13:18] you don't need to buy a subscription to
+[13:19] anybody's services you don't need to
+[13:22] learn anything else you don't have to
+[13:23] buy any courses it's all right here for
+[13:25] free and
+[13:27] it works
+[13:28] until i talk to you next week enjoy
+[13:30] weekend and be safe

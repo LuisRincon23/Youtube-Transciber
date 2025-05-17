@@ -1,18 +1,24 @@
 import sys
-from PyQt6.QtWidgets import (QApplication, QMainWindow, QWidget, QVBoxLayout, 
-                            QLineEdit, QPushButton, QTextEdit, QLabel, QMessageBox,
-                            QProgressBar, QHBoxLayout, QTabWidget, QSplitter, QScrollArea)
+from PyQt6.QtWidgets import (QApplication, QMainWindow, QWidget, QVBoxLayout,
+                             QLineEdit, QPushButton, QTextEdit, QLabel, QMessageBox,
+                             QProgressBar, QHBoxLayout, QTabWidget, QSplitter, QScrollArea,
+                             QRadioButton, QGroupBox, QComboBox, QInputDialog)
 from PyQt6.QtCore import Qt, QThread, pyqtSignal
 from PyQt6.QtGui import QFont, QTextCursor
 from transcript_service import get_transcript
 from gpt_service import GPTService, GPTServiceError
+from playlist_worker import PlaylistTranscriptionWorker
+from openrouter_service import OpenRouterService, OpenRouterServiceError
+import csv
+
 
 class TranscriptionWorker(QThread):
     """Worker thread for handling transcription and note generation."""
     finished = pyqtSignal(tuple)
     error = pyqtSignal(str)
     progress = pyqtSignal(str)
-    chunk_progress = pyqtSignal(int, int, str)  # Added string parameter for detailed status
+    # Added string parameter for detailed status
+    chunk_progress = pyqtSignal(int, int, str)
 
     def __init__(self, url):
         super().__init__()
@@ -22,21 +28,23 @@ class TranscriptionWorker(QThread):
         try:
             self.progress.emit("Fetching transcript from YouTube...")
             transcript = get_transcript(self.url)
-            
+
             # Format raw transcript
             self.progress.emit("Formatting transcript with timestamps...")
             raw_transcript = self.format_raw_transcript(transcript)
-            
-            self.progress.emit(f"Transcript fetched! Processing {len(transcript)} entries in chunks...")
-            
+
+            self.progress.emit(
+                f"Transcript fetched! Processing {len(transcript)} entries in chunks...")
+
             gpt_service = GPTService()
-            
+
             # Monkey patch the print function in GPTService to emit progress
             def progress_callback(current, total, chunk_text):
                 self.chunk_progress.emit(current, total, chunk_text)
                 self.progress.emit(f"Processing chunk {current}/{total}...")
-            
+
             original_print = print
+
             def custom_print(message):
                 if "Processing chunk" in message:
                     try:
@@ -47,7 +55,8 @@ class TranscriptionWorker(QThread):
                                 current = int(chunk_info[0])
                                 total = int(chunk_info[1])
                                 # Extract timestamp from current chunk being processed
-                                chunk_start = (current - 1) * 5  # 5 minutes per chunk
+                                chunk_start = (current - 1) * \
+                                    5  # 5 minutes per chunk
                                 chunk_end = current * 5
                                 chunk_text = f"Processing {chunk_start:02d}:00 - {chunk_end:02d}:00"
                                 progress_callback(current, total, chunk_text)
@@ -55,16 +64,16 @@ class TranscriptionWorker(QThread):
                         original_print(message)
                 else:
                     original_print(message)
-            
+
             import builtins
             builtins.print = custom_print
-            
+
             try:
                 self.progress.emit("Initializing GPT for note generation...")
                 notes = gpt_service.generate_notes(transcript)
             finally:
                 builtins.print = original_print
-            
+
             self.progress.emit("Finalizing notes...")
             self.finished.emit((raw_transcript, notes))
         except Exception as e:
@@ -76,20 +85,22 @@ class TranscriptionWorker(QThread):
         for entry in transcript:
             minutes = int(entry['start'] // 60)
             seconds = int(entry['start'] % 60)
-            formatted_lines.append(f"[{minutes:02d}:{seconds:02d}] {entry['text']}")
+            formatted_lines.append(
+                f"[{minutes:02d}:{seconds:02d}] {entry['text']}")
         return "\n".join(formatted_lines)
+
 
 class ChatWorker(QThread):
     """Worker thread for handling chat interactions."""
     finished = pyqtSignal(str)
     error = pyqtSignal(str)
-    
+
     def __init__(self, prompt, transcript_context):
         super().__init__()
         self.prompt = prompt
         self.transcript_context = transcript_context
         self.gpt_service = GPTService()
-    
+
     def run(self):
         try:
             # Create a chat prompt that includes context and the user's question
@@ -108,366 +119,239 @@ Please provide a detailed, accurate response based solely on the information in 
                 ],
                 temperature=0.3
             )
-            
+
             self.finished.emit(response.choices[0].message.content)
         except Exception as e:
             self.error.emit(str(e))
 
+
+class PostGenerationWorker(QThread):
+    finished = pyqtSignal(str)
+    error = pyqtSignal(str)
+    progress = pyqtSignal(str)
+
+    def __init__(self, prompt, transcript_context):
+        super().__init__()
+        self.prompt = prompt
+        self.transcript_context = transcript_context
+
+    def run(self):
+        try:
+            self.progress.emit("Generating post using OpenRouter...")
+            service = OpenRouterService()
+            result = service.generate_post(
+                self.prompt, self.transcript_context)
+            self.finished.emit(result)
+        except Exception as e:
+            self.error.emit(str(e))
+
+
 class MainWindow(QMainWindow):
+    PROMPT_CSV = "saved_prompts.csv"
+
     def __init__(self):
         super().__init__()
         self.setWindowTitle("YouTube Transcriber")
-        self.setMinimumSize(1200, 800)
-        
-        # Store the current transcript for chat context
-        self.current_transcript = ""
-        
-        # Main widget and layout
+        self.setMinimumSize(800, 600)
+
+        # Create main widget and layout
         main_widget = QWidget()
         self.setCentralWidget(main_widget)
         layout = QVBoxLayout(main_widget)
-        layout.setSpacing(20)
-        layout.setContentsMargins(20, 20, 20, 20)
 
         # URL input section
-        url_section = QWidget()
-        url_layout = QVBoxLayout(url_section)
-        url_layout.setSpacing(10)
-        
-        url_label = QLabel("Enter YouTube URL:")
-        url_label.setFont(QFont("Arial", 12))
+        url_layout = QHBoxLayout()
         self.url_input = QLineEdit()
-        self.url_input.setPlaceholderText("https://www.youtube.com/watch?v=...")
-        self.url_input.setMinimumHeight(40)
-        self.url_input.setStyleSheet("""
-            QLineEdit {
-                border: 2px solid #ddd;
-                border-radius: 20px;
-                padding: 0 15px;
-                font-size: 14px;
-            }
-            QLineEdit:focus {
-                border: 2px solid #2196F3;
-            }
-        """)
-        
-        url_layout.addWidget(url_label)
+        self.url_input.setPlaceholderText(
+            "Enter YouTube URL (video or playlist)")
         url_layout.addWidget(self.url_input)
-        layout.addWidget(url_section)
 
-        # Progress section
-        progress_section = QWidget()
-        progress_layout = QVBoxLayout(progress_section)
-        progress_layout.setSpacing(10)
-        
-        self.status_label = QLabel("")
-        self.status_label.setStyleSheet("""
-            QLabel {
-                color: #666;
-                font-size: 14px;
-                font-weight: bold;
-            }
-        """)
-        
-        self.chunk_status = QLabel("")
-        self.chunk_status.setStyleSheet("""
-            QLabel {
-                color: #2196F3;
-                font-size: 12px;
-                font-style: italic;
-            }
-        """)
-        
-        self.progress_bar = QProgressBar()
-        self.progress_bar.setStyleSheet("""
-            QProgressBar {
-                border: 2px solid #ddd;
-                border-radius: 10px;
-                text-align: center;
-                height: 25px;
-                font-weight: bold;
-            }
-            QProgressBar::chunk {
-                background-color: #2196F3;
-                border-radius: 8px;
-            }
-        """)
-        self.progress_bar.hide()
-        
-        progress_layout.addWidget(self.status_label)
-        progress_layout.addWidget(self.chunk_status)
-        progress_layout.addWidget(self.progress_bar)
-        layout.addWidget(progress_section)
+        # Mode selection
+        mode_group = QGroupBox("Transcription Mode")
+        mode_layout = QHBoxLayout()
+        self.single_video_radio = QRadioButton("Single Video")
+        self.playlist_radio = QRadioButton("Playlist")
+        self.single_video_radio.setChecked(True)
+        mode_layout.addWidget(self.single_video_radio)
+        mode_layout.addWidget(self.playlist_radio)
+        mode_group.setLayout(mode_layout)
+        url_layout.addWidget(mode_group)
 
-        # Button section
-        button_section = QWidget()
-        button_layout = QHBoxLayout(button_section)
-        button_layout.setSpacing(10)
-        
-        self.transcribe_btn = QPushButton("Generate Detailed Notes")
-        self.transcribe_btn.setMinimumHeight(40)
-        self.transcribe_btn.setStyleSheet("""
-            QPushButton {
-                background-color: #E3F2FD;
-                color: black;
-                border: 2px solid #2196F3;
-                border-radius: 20px;
-                font-size: 14px;
-                font-weight: bold;
-                padding: 0 30px;
-            }
-            QPushButton:hover {
-                background-color: #BBDEFB;
-                border-color: #1976D2;
-            }
-            QPushButton:pressed {
-                background-color: #90CAF9;
-                border-color: #1565C0;
-            }
-            QPushButton:disabled {
-                background-color: #F5F5F5;
-                border-color: #BDBDBD;
-                color: #9E9E9E;
-            }
-        """)
-        self.transcribe_btn.clicked.connect(self.generate_notes)
-        
-        self.copy_btn = QPushButton("Copy to Clipboard")
-        self.copy_btn.setMinimumHeight(40)
-        self.copy_btn.setStyleSheet("""
-            QPushButton {
-                background-color: #E8F5E9;
-                color: black;
-                border: 2px solid #4CAF50;
-                border-radius: 20px;
-                font-size: 14px;
-                font-weight: bold;
-                padding: 0 30px;
-            }
-            QPushButton:hover {
-                background-color: #C8E6C9;
-                border-color: #388E3C;
-            }
-            QPushButton:pressed {
-                background-color: #A5D6A7;
-                border-color: #2E7D32;
-            }
-            QPushButton:disabled {
-                background-color: #F5F5F5;
-                border-color: #BDBDBD;
-                color: #9E9E9E;
-            }
-        """)
-        self.copy_btn.clicked.connect(self.copy_to_clipboard)
-        self.copy_btn.setEnabled(False)
-        
-        button_layout.addWidget(self.transcribe_btn)
-        button_layout.addWidget(self.copy_btn)
-        layout.addWidget(button_section)
+        layout.addLayout(url_layout)
 
-        # Tab widget for transcript, notes, and chat
+        # Progress bars
+        self.video_progress = QProgressBar()
+        self.video_progress.setVisible(False)
+        layout.addWidget(self.video_progress)
+
+        self.chunk_progress = QProgressBar()
+        self.chunk_progress.setVisible(False)
+        layout.addWidget(self.chunk_progress)
+
+        # Status label
+        self.status_label = QLabel()
+        layout.addWidget(self.status_label)
+
+        # Tab widget for transcript and notes
         self.tab_widget = QTabWidget()
-        self.tab_widget.setStyleSheet("""
-            QTabWidget::pane {
-                border: 2px solid #ddd;
-                border-radius: 10px;
-                padding: 5px;
-            }
-            QTabBar::tab {
-                background-color: #f0f0f0;
-                border: 2px solid #ddd;
-                border-bottom: none;
-                border-top-left-radius: 10px;
-                border-top-right-radius: 10px;
-                padding: 8px 15px;
-                margin-right: 2px;
-                font-size: 13px;
-                color: black;
-                font-weight: bold;
-            }
-            QTabBar::tab:selected {
-                background-color: white;
-                border-bottom: none;
-                color: #2196F3;
-            }
-            QTabBar::tab:hover {
-                background-color: #e0e0e0;
-            }
-        """)
-        
-        # Raw transcript tab
-        self.transcript_display = QTextEdit()
-        self.transcript_display.setReadOnly(True)
-        self.transcript_display.setStyleSheet("""
-            QTextEdit {
-                border: none;
-                padding: 15px;
-                font-size: 14px;
-                font-family: Arial;
-                line-height: 1.6;
-            }
-        """)
-        
-        # Notes tab
-        self.notes_display = QTextEdit()
-        self.notes_display.setReadOnly(True)
-        self.notes_display.setStyleSheet(self.transcript_display.styleSheet())
-        
-        # Chat tab
-        chat_widget = QWidget()
-        chat_layout = QVBoxLayout(chat_widget)
-        chat_layout.setSpacing(10)
-        
-        # Chat history
-        self.chat_history = QTextEdit()
-        self.chat_history.setReadOnly(True)
-        self.chat_history.setStyleSheet("""
-            QTextEdit {
-                border: 2px solid #333;
-                border-radius: 10px;
-                padding: 15px;
-                font-size: 14px;
-                font-family: Arial;
-                line-height: 1.6;
-                background-color: #1e1e1e;
-                color: #ffffff;
-            }
-        """)
-        
-        # Chat input area
-        chat_input_widget = QWidget()
-        chat_input_layout = QHBoxLayout(chat_input_widget)
-        chat_input_layout.setSpacing(10)
-        
-        self.chat_input = QLineEdit()
-        self.chat_input.setPlaceholderText("Ask a question about the transcript...")
-        self.chat_input.setMinimumHeight(40)
-        self.chat_input.setStyleSheet("""
-            QLineEdit {
-                border: 2px solid #333;
-                border-radius: 20px;
-                padding: 0 15px;
-                font-size: 14px;
-                background-color: #2d2d2d;
-                color: #ffffff;
-            }
-            QLineEdit:focus {
-                border: 2px solid #2196F3;
-            }
-            QLineEdit::placeholder {
-                color: #888;
-            }
-        """)
-        self.chat_input.returnPressed.connect(self.send_chat_message)
-        
-        self.send_button = QPushButton("Send")
-        self.send_button.setMinimumHeight(40)
-        self.send_button.setStyleSheet("""
-            QPushButton {
-                background-color: #E3F2FD;
-                color: black;
-                border: 2px solid #2196F3;
-                border-radius: 20px;
-                font-size: 14px;
-                font-weight: bold;
-                padding: 0 30px;
-            }
-            QPushButton:hover {
-                background-color: #BBDEFB;
-                border-color: #1976D2;
-            }
-            QPushButton:pressed {
-                background-color: #90CAF9;
-                border-color: #1565C0;
-            }
-            QPushButton:disabled {
-                background-color: #F5F5F5;
-                border-color: #BDBDBD;
-                color: #9E9E9E;
-            }
-        """)
-        self.send_button.clicked.connect(self.send_chat_message)
-        self.send_button.setEnabled(False)
-        
-        chat_input_layout.addWidget(self.chat_input)
-        chat_input_layout.addWidget(self.send_button)
-        
-        chat_layout.addWidget(self.chat_history)
-        chat_layout.addWidget(chat_input_widget)
-        
-        # Add all tabs
-        self.tab_widget.addTab(self.transcript_display, "Raw Transcript")
-        self.tab_widget.addTab(self.notes_display, "Generated Notes")
-        self.tab_widget.addTab(chat_widget, "Chat with AI")
-        
+        self.transcript_text = QTextEdit()
+        self.notes_text = QTextEdit()
+        self.generated_post_text = QTextEdit()  # New tab for generated post
+        self.tab_widget.addTab(self.transcript_text, "Transcript")
+        self.tab_widget.addTab(self.notes_text, "Notes")
+        self.tab_widget.addTab(self.generated_post_text,
+                               "Generated Post")  # Add new tab
         layout.addWidget(self.tab_widget)
 
-        # Initialize workers
-        self.worker = None
-        self.chat_worker = None
+        # Buttons
+        button_layout = QHBoxLayout()
+        self.transcribe_button = QPushButton("Transcribe")
+        self.transcribe_button.clicked.connect(self.start_transcription)
+        self.copy_button = QPushButton("Copy to Clipboard")
+        self.copy_button.clicked.connect(self.copy_to_clipboard)
+        self.generate_post_button = QPushButton("Generate Post")  # New button
+        self.generate_post_button.clicked.connect(self.generate_post)
+        self.copy_post_button = QPushButton("Copy Post")  # New button
+        self.copy_post_button.clicked.connect(self.copy_post_to_clipboard)
+        button_layout.addWidget(self.transcribe_button)
+        button_layout.addWidget(self.copy_button)
+        button_layout.addWidget(self.generate_post_button)
+        button_layout.addWidget(self.copy_post_button)
+        layout.addLayout(button_layout)
 
-    def generate_notes(self):
-        """Handle note generation process."""
+        # Prompt management UI
+        prompt_mgmt_layout = QHBoxLayout()
+        self.prompt_combo = QComboBox()
+        self.load_prompts_from_csv()
+        prompt_mgmt_layout.addWidget(QLabel("Saved Prompts:"))
+        prompt_mgmt_layout.addWidget(self.prompt_combo)
+        self.save_prompt_button = QPushButton("Save Current Prompt")
+        self.save_prompt_button.clicked.connect(self.save_current_prompt)
+        self.load_prompt_button = QPushButton("Load Selected Prompt")
+        self.load_prompt_button.clicked.connect(self.load_selected_prompt)
+        self.delete_prompt_button = QPushButton("Delete Selected Prompt")
+        self.delete_prompt_button.clicked.connect(self.delete_selected_prompt)
+        prompt_mgmt_layout.addWidget(self.save_prompt_button)
+        prompt_mgmt_layout.addWidget(self.load_prompt_button)
+        prompt_mgmt_layout.addWidget(self.delete_prompt_button)
+
+        # Custom prompt input for post generation
+        post_prompt_layout = QVBoxLayout()
+        post_prompt_layout.addLayout(prompt_mgmt_layout)
+        self.post_prompt_input = QTextEdit()
+        self.post_prompt_input.setPlaceholderText(
+            "Type your custom prompt for the post here. Example: 'Write a LinkedIn post summarizing the key insights from this transcript.'")
+        post_prompt_layout.addWidget(QLabel("Custom Post Prompt:"))
+        post_prompt_layout.addWidget(self.post_prompt_input)
+        layout.addLayout(post_prompt_layout)
+
+        # Chat section
+        chat_layout = QVBoxLayout()
+        self.chat_input = QLineEdit()
+        self.chat_input.setPlaceholderText(
+            "Ask a question about the transcript...")
+        self.chat_button = QPushButton("Send")
+        self.chat_button.clicked.connect(self.send_chat_message)
+        chat_layout.addWidget(self.chat_input)
+        chat_layout.addWidget(self.chat_button)
+        layout.addLayout(chat_layout)
+
+        self.chat_response = QTextEdit()
+        self.chat_response.setReadOnly(True)
+        layout.addWidget(self.chat_response)
+
+        # Initialize workers
+        self.transcription_worker = None
+        self.playlist_worker = None
+        self.chat_worker = None
+        self.post_worker = None
+
+    def start_transcription(self):
         url = self.url_input.text().strip()
         if not url:
             QMessageBox.warning(self, "Error", "Please enter a YouTube URL")
             return
 
-        # Disable UI elements
-        self.transcribe_btn.setEnabled(False)
-        self.url_input.setEnabled(False)
-        self.copy_btn.setEnabled(False)
-        self.transcript_display.clear()
-        self.notes_display.clear()
-        
-        # Show progress elements
-        self.status_label.setText("Initializing...")
-        self.chunk_status.setText("")
-        self.progress_bar.setVisible(True)
-        self.progress_bar.setValue(0)
+        # Clear previous results
+        self.transcript_text.clear()
+        self.notes_text.clear()
+        self.chat_response.clear()
 
-        # Create and start worker thread
-        self.worker = TranscriptionWorker(url)
-        self.worker.finished.connect(self.handle_success)
-        self.worker.error.connect(self.handle_error)
-        self.worker.progress.connect(self.update_status)
-        self.worker.chunk_progress.connect(self.update_progress)
-        self.worker.start()
+        # Show progress bars
+        self.video_progress.setVisible(self.playlist_radio.isChecked())
+        self.chunk_progress.setVisible(True)
+
+        if self.playlist_radio.isChecked():
+            self.start_playlist_transcription(url)
+        else:
+            self.start_single_transcription(url)
+
+    def start_playlist_transcription(self, url):
+        self.playlist_worker = PlaylistTranscriptionWorker(url)
+        self.playlist_worker.progress.connect(self.update_status)
+        self.playlist_worker.video_progress.connect(self.update_video_progress)
+        self.playlist_worker.chunk_progress.connect(self.update_chunk_progress)
+        self.playlist_worker.finished.connect(self.handle_playlist_success)
+        self.playlist_worker.error.connect(self.handle_error)
+        self.playlist_worker.start()
+
+        self.transcribe_button.setEnabled(False)
+        self.url_input.setEnabled(False)
+
+    def start_single_transcription(self, url):
+        """Start transcription for a single video."""
+        self.transcription_worker = TranscriptionWorker(url)
+        self.transcription_worker.progress.connect(self.update_status)
+        self.transcription_worker.chunk_progress.connect(
+            self.update_chunk_progress)
+        self.transcription_worker.finished.connect(self.handle_single_success)
+        self.transcription_worker.error.connect(self.handle_error)
+        self.transcription_worker.start()
+
+        self.transcribe_button.setEnabled(False)
+        self.url_input.setEnabled(False)
+
+    def update_video_progress(self, current, total, title):
+        self.video_progress.setMaximum(total)
+        self.video_progress.setValue(current)
+        self.status_label.setText(
+            f"Processing video {current}/{total}: {title}")
+
+    def handle_playlist_success(self, result):
+        output_dir, transcripts, notes = result
+        self.transcribe_button.setEnabled(True)
+        self.url_input.setEnabled(True)
+
+        # Display the first video's transcript and notes
+        if transcripts and notes:
+            self.transcript_text.setText(transcripts[0])
+            self.notes_text.setText(notes[0])
+
+        QMessageBox.information(
+            self,
+            "Success",
+            f"Playlist transcription completed!\n\n"
+            f"Transcripts and notes have been saved to:\n{output_dir}"
+        )
 
     def update_status(self, message):
         """Update status message."""
         self.status_label.setText(message)
 
-    def update_progress(self, current, total, chunk_text):
+    def update_chunk_progress(self, current, total, chunk_text):
         """Update progress bar and chunk status."""
         progress = int((current / total) * 100)
-        self.progress_bar.setValue(progress)
-        self.chunk_status.setText(chunk_text)
-
-    def handle_success(self, result):
-        """Handle successful note generation."""
-        transcript, notes = result
-        self.current_transcript = transcript
-        self.transcript_display.setText(transcript)
-        self.notes_display.setText(notes)
-        self.transcribe_btn.setEnabled(True)
-        self.url_input.setEnabled(True)
-        self.copy_btn.setEnabled(True)
-        self.send_button.setEnabled(True)
-        self.status_label.setText("✅ Notes generated successfully!")
-        self.chunk_status.setText("")
-        self.progress_bar.hide()
+        self.chunk_progress.setValue(progress)
+        self.status_label.setText(chunk_text)
 
     def handle_error(self, error_msg):
-        """Handle note generation error."""
-        QMessageBox.critical(self, "Error", f"Failed to generate notes: {error_msg}")
-        self.transcribe_btn.setEnabled(True)
+        """Handle transcription error."""
+        QMessageBox.critical(
+            self, "Error", f"Failed to transcribe: {error_msg}")
+        self.transcribe_button.setEnabled(True)
         self.url_input.setEnabled(True)
-        self.copy_btn.setEnabled(False)
-        self.transcript_display.clear()
-        self.notes_display.clear()
         self.status_label.setText("Error occurred during processing")
-        self.progress_bar.hide()
+        self.chunk_progress.hide()
 
     def copy_to_clipboard(self):
         """Copy current tab content to clipboard."""
@@ -475,44 +359,181 @@ class MainWindow(QMainWindow):
         current_tab = self.tab_widget.currentWidget()
         if current_tab:
             clipboard.setText(current_tab.toPlainText())
-            self.status_label.setText(f"Content from {self.tab_widget.tabText(self.tab_widget.currentIndex())} copied to clipboard!")
+            self.status_label.setText(
+                f"Content from {self.tab_widget.tabText(self.tab_widget.currentIndex())} copied to clipboard!")
 
     def send_chat_message(self):
         """Handle sending a chat message."""
-        if not self.current_transcript:
-            QMessageBox.warning(self, "Error", "Please generate a transcript first")
+        if not self.transcript_text.toPlainText():
+            QMessageBox.warning(
+                self, "Error", "Please transcribe a video first")
             return
-            
+
         message = self.chat_input.text().strip()
         if not message:
             return
-            
+
         # Disable input while processing
         self.chat_input.setEnabled(False)
-        self.send_button.setEnabled(False)
-        
+        self.chat_button.setEnabled(False)
+
         # Add user message to chat history
-        self.chat_history.append(f"<b>You:</b> {message}")
+        self.chat_response.append(f"<b>You:</b> {message}")
         self.chat_input.clear()
-        
+
         # Create and start chat worker
-        self.chat_worker = ChatWorker(message, self.current_transcript)
+        self.chat_worker = ChatWorker(
+            message, self.transcript_text.toPlainText())
         self.chat_worker.finished.connect(self.handle_chat_response)
         self.chat_worker.error.connect(self.handle_chat_error)
         self.chat_worker.start()
-        
+
     def handle_chat_response(self, response):
         """Handle successful chat response."""
-        self.chat_history.append(f"<b>AI:</b> {response}\n")
+        self.chat_response.append(f"<b>AI:</b> {response}\n")
         self.chat_input.setEnabled(True)
-        self.send_button.setEnabled(True)
+        self.chat_button.setEnabled(True)
         self.chat_input.setFocus()
-        
+
     def handle_chat_error(self, error_msg):
         """Handle chat error."""
-        QMessageBox.critical(self, "Error", f"Failed to get response: {error_msg}")
+        QMessageBox.critical(
+            self, "Error", f"Failed to get response: {error_msg}")
         self.chat_input.setEnabled(True)
-        self.send_button.setEnabled(True)
+        self.chat_button.setEnabled(True)
+
+    def handle_single_success(self, result):
+        """Handle successful single video transcription."""
+        transcript, notes = result
+        self.transcribe_button.setEnabled(True)
+        self.url_input.setEnabled(True)
+
+        self.transcript_text.setText(transcript)
+        self.notes_text.setText(notes)
+
+        self.status_label.setText("Transcription completed successfully!")
+        self.chunk_progress.setVisible(False)
+
+    def generate_post(self):
+        """Generate a post using OpenRouter and the transcript context."""
+        transcript = self.transcript_text.toPlainText()
+        prompt = self.post_prompt_input.toPlainText().strip()
+        if not transcript:
+            QMessageBox.warning(
+                self, "Error", "Please transcribe a video first.")
+            return
+        if not prompt:
+            QMessageBox.warning(
+                self, "Error", "Please enter a custom prompt for the post.")
+            return
+        self.generated_post_text.clear()
+        self.status_label.setText("Generating post...")
+        self.generate_post_button.setEnabled(False)
+        self.post_prompt_input.setEnabled(False)
+        self.post_worker = PostGenerationWorker(prompt, transcript)
+        self.post_worker.progress.connect(self.update_status)
+        self.post_worker.finished.connect(self.handle_post_success)
+        self.post_worker.error.connect(self.handle_post_error)
+        self.post_worker.start()
+
+    def handle_post_success(self, result):
+        self.generated_post_text.setText(result)
+        self.status_label.setText("Post generated successfully!")
+        self.generate_post_button.setEnabled(True)
+        self.post_prompt_input.setEnabled(True)
+        self.tab_widget.setCurrentWidget(self.generated_post_text)
+
+    def handle_post_error(self, error_msg):
+        QMessageBox.critical(
+            self, "Error", f"Failed to generate post: {error_msg}")
+        self.status_label.setText("Error occurred during post generation")
+        self.generate_post_button.setEnabled(True)
+        self.post_prompt_input.setEnabled(True)
+
+    def copy_post_to_clipboard(self):
+        """Copy generated post to clipboard."""
+        clipboard = QApplication.clipboard()
+        clipboard.setText(self.generated_post_text.toPlainText())
+        self.status_label.setText("Generated post copied to clipboard!")
+
+    def load_prompts_from_csv(self):
+        self.prompt_combo.clear()
+        try:
+            with open(self.PROMPT_CSV, newline='', encoding='utf-8') as csvfile:
+                reader = csv.DictReader(csvfile)
+                for row in reader:
+                    self.prompt_combo.addItem(row['name'], row['prompt'])
+        except FileNotFoundError:
+            pass
+        except Exception as e:
+            QMessageBox.warning(self, "Error", f"Failed to load prompts: {e}")
+
+    def save_current_prompt(self):
+        name, ok = QInputDialog.getText(
+            self, "Save Prompt", "Enter a name for this prompt:")
+        if not ok or not name.strip():
+            return
+        prompt = self.post_prompt_input.toPlainText().strip()
+        if not prompt:
+            QMessageBox.warning(self, "Error", "Prompt text is empty.")
+            return
+        # Read all prompts
+        prompts = []
+        found = False
+        try:
+            with open(self.PROMPT_CSV, newline='', encoding='utf-8') as csvfile:
+                reader = csv.DictReader(csvfile)
+                for row in reader:
+                    if row['name'] == name:
+                        row['prompt'] = prompt
+                        found = True
+                    prompts.append(row)
+        except FileNotFoundError:
+            pass
+        # Add new if not found
+        if not found:
+            prompts.append({'name': name, 'prompt': prompt})
+        # Write all prompts
+        with open(self.PROMPT_CSV, 'w', newline='', encoding='utf-8') as csvfile:
+            writer = csv.DictWriter(csvfile, fieldnames=['name', 'prompt'])
+            writer.writeheader()
+            writer.writerows(prompts)
+        self.load_prompts_from_csv()
+        self.status_label.setText(f"Prompt '{name}' saved.")
+
+    def load_selected_prompt(self):
+        idx = self.prompt_combo.currentIndex()
+        if idx < 0:
+            return
+        prompt = self.prompt_combo.itemData(idx)
+        if prompt:
+            self.post_prompt_input.setPlainText(prompt)
+            self.status_label.setText(
+                f"Loaded prompt '{self.prompt_combo.currentText()}'.")
+
+    def delete_selected_prompt(self):
+        idx = self.prompt_combo.currentIndex()
+        if idx < 0:
+            return
+        name = self.prompt_combo.currentText()
+        # Read all prompts
+        prompts = []
+        try:
+            with open(self.PROMPT_CSV, newline='', encoding='utf-8') as csvfile:
+                reader = csv.DictReader(csvfile)
+                for row in reader:
+                    if row['name'] != name:
+                        prompts.append(row)
+        except FileNotFoundError:
+            return
+        # Write back
+        with open(self.PROMPT_CSV, 'w', newline='', encoding='utf-8') as csvfile:
+            writer = csv.DictWriter(csvfile, fieldnames=['name', 'prompt'])
+            writer.writeheader()
+            writer.writerows(prompts)
+        self.load_prompts_from_csv()
+        self.status_label.setText(f"Prompt '{name}' deleted.")
+
 
 def main():
     app = QApplication(sys.argv)
@@ -520,5 +541,6 @@ def main():
     window.show()
     sys.exit(app.exec())
 
+
 if __name__ == "__main__":
-    main() 
+    main()

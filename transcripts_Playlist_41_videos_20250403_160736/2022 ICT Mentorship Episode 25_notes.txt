@@ -1,0 +1,612 @@
+## Comprehensive Mentorship Session Notes
+
+This document consolidates detailed notes from a mentorship session covering various essential concepts related to trading, mentorship philosophy, market analysis, and trading strategies. The following sections organize the notes in chronological order to maintain coherence and clarity.
+
+---
+
+## Introduction to Mentorship [00:18]
+
+- **Overview**: Setting the stage for the mentorship session.
+  - The mentor reflects on initial promises made at the beginning of the mentorship.
+  - Emphasizes the importance of logic, algorithmic approach, and rule-following in trading.
+  - Teaching based on time and price are highlighted as key factors.
+
+## Reflecting on Promises [01:05]
+
+- **Encouraging Evaluation**:
+  - Students urged to assess if teachings align with initial promises.
+  - Recognizing patterns and implied rules in lessons emphasized.
+
+## Caution Against Rushing [02:06]
+
+- **Advising Prudence**:
+  - Warning against live trading without full comprehension.
+  - Highlighting dangers of impulsive decisions driven by excitement.
+
+## Critique of Other Traders [03:10]
+
+- **Unique Approach**:
+  - Mentor's approach distinguished as unique and not based on existing teachings.
+  - Emphasis on predicting market movements before they occur.
+
+## Motivation for Mentorship [03:36]
+
+- **Personal Drive**:
+  - Mentor not driven by financial gain but love for teaching and trading community.
+  - Focus on helping others succeed without monetary incentives.
+
+## Appreciation for Hannah FX [04:01]
+
+- **Acknowledging Efforts**:
+  - Positive experience with Hannah FX's female perspective discussed.
+  - Interest in traders' development, including Hannah FX.
+
+## Mentor's Perspective on Students [04:28]
+
+- **Paternalistic View**:
+  - Students viewed as children by the mentor.
+  - Care, concern, and desire to inspire independence highlighted.
+
+## Feeling Comfortable with a Youtuber [05:09]
+
+- **Personal Connection**:
+  - Comfort with a specific YouTuber due to familial relationship.
+  - Interest in content to engage with the speaker's daughter.
+
+## Engagement with Other Channels [05:44]
+
+- **Reluctance and Encouragement**:
+  - Reluctance to appear on various channels due to overwhelming response.
+  - Encouragement for viewers to maintain a respectful environment.
+
+---
+
+## Introduction to Market Analysis [06:50]
+
+- **Transition and Focus**:
+  - Analysis of E-mini S&P futures June 2022 delivery contract price action.
+  - Focus on applicable analysis techniques for index futures and forex markets.
+
+## Understanding Price Action [07:44]
+
+- **Key Points**:
+  - Recall of specific order blocks and their impact on future price movements.
+  - Importance of recognizing unlikely price movement levels.
+  - Significance of bearish order blocks in trading strategies.
+
+## Teaching Focus on Fair Value Gap [09:01]
+
+- **Critical Concept**:
+  - Emphasis on understanding fair value gap in price action analysis.
+  - Description as fundamental for new traders in the trading model.
+
+## Basic Understanding for New Traders [09:45]
+
+- **Beginner-Friendly Approach**:
+  - Differentiation from advanced technical analysis for new traders.
+  - Focus on fundamental concepts like time frames and price axes.
+
+## Tools for Market Analysis [10:07]
+
+- **Platform Options**:
+  - Mention of platforms like TradingView, Sierra Charts, and others.
+  - Encouragement to explore platforms based on trading needs.
+
+## Learning and Practice [10:10]
+
+- **Emphasis on Practice**:
+  - Audience encouraged to learn through practice.
+  - TradingView highlighted as a tool for learning and practice.
+
+## Free Access [10:20]
+
+- **Accessibility**:
+  - No subscription required for teachings.
+  - Ads present but not a barrier to learning.
+
+## Chart Analysis [10:25]
+
+- **Importance of Visualization**:
+  - Encouragement to analyze charts for concept understanding.
+  - Transition to other platforms post-learning.
+
+---
+
+## Bearish Order Block [11:01]
+
+- **Identifying Trend Indicators**:
+  - Specific area on the chart indicating a bearish trend.
+  - Drawing down to specific levels for analysis.
+
+## Seasonal Tendencies [11:11]
+
+- **Market Movement Patterns**:
+  - Trends during specific times of the year discussed.
+  - Historical trends noted but not guaranteed.
+
+## Seasonal Influence [12:01]
+
+- **Analogies and Explanations**:
+  - Comparison of market trends to weather patterns.
+  - Explanation of seasonal influences on market behavior.
+
+## May Seasonal Tendency [12:13]
+
+- **May Market Behavior**:
+  - Highlighting May as a month for market drops.
+  - Support from historical data on May trends.
+
+## Consistency through Understanding [13:04]
+
+- **Achieving Consistency**:
+  - Understanding seasonal tendencies for consistent trading.
+  - Practice and historical data learning for better decisions.
+
+## Smart Money [13:26]
+
+- **Strategic Traders**:
+  - Definition of smart money as experienced traders.
+  - Market liquidity manipulation strategies discussed.
+
+## Bearish Seasonal Tendency [13:39]
+
+- **Market Expectations**:
+  - Anticipating lower prices in a bearish market.
+  - Liquidity manipulation during bearish periods.
+
+## Market Analysis [14:00]
+
+- **Daily Study Perspective**:
+  - Encouragement to study market movements daily.
+  - Teaching specific patterns for analysis.
+
+## Net Short Position [14:25]
+
+- **Smart Money Positioning**:
+  - Smart money holding a net short position.
+  - Need to buy back at lower prices to exit the position.
+
+## Large Fund Traders [15:01]
+
+- **Trader Differentiation**:
+  - Comparison of large fund and retail traders.
+  - Focus on capturing market moves effectively.
+
+## Retail Traders vs. Large Funds [15:11]
+
+- **Trader Comparison**:
+  - Stop loss similarities between retail and large fund traders.
+  - Liquidity differences and critics' perspectives.
+
+---
+
+## Trading Beyond Traditional Methods [16:10]
+
+- **Alternative Trading Focus**:
+  - Emphasis on trading beyond conventional methods.
+  - Understanding liquidity and market efficiency.
+
+## Efficiency of Electronic Trading [17:26]
+
+- **Market Evolution**:
+  - Impact of electronic trading on market efficiency.
+  - Fundamental trading principles unchanged.
+
+## Understanding Trade Outcomes [18:00]
+
+- **Trade Outcome Realism**:
+  - Acknowledgment of losing trades despite strategies.
+  - Learning from losses and avoiding negative patterns.
+
+## Analyzing Market Movements [19:25]
+
+- **Market Movement Significance**:
+  - Significance of movements below old lows.
+  - Exploration of liquidity effects on price action.
+
+## Importance of Studying Previous Days [20:06]
+
+- **Historical Analysis Value**:
+  - Value of studying past trading activity.
+  - Continuity in learning and applying principles.
+
+## Open, High, Low, Close (OHLC) [20:11]
+
+- **Price Point Definitions**:
+  - Explanation of key price points in financial markets.
+  - Definitions of Open, High, Low, and Close prices.
+
+## Fair Value Gap [20:28]
+
+- **Identifying Discrepancies**:
+  - Concept to identify asset value gaps.
+  - Lack of fair value gap identification despite OHLC analysis.
+
+## Fair Value Gap Significance [21:00]
+
+- **Importance of Gap Analysis**:
+  - Emphasis on uniqueness and reliability of fair value gap.
+  - Criteria for gap identification highlighted.
+
+## Avoiding Bottom Picking [22:04]
+
+- **Risk Avoidance**:
+  - Warning against predicting market bottoms.
+  - Risks of timing market lows discussed.
+
+## Market Bias [23:04]
+
+- **Understanding Market Bias**:
+  - Bearish market stance emphasized.
+  - Caution against bottom picking based on indicators.
+
+---
+
+## Fractal Analysis [24:31]
+
+- **Analyzing Price Segments**:
+  - Introduction to fractals for price analysis.
+  - Importance of studying price patterns.
+
+## Visualizing Fractals [25:07]
+
+- **Practical Application**:
+  - Visualization of fractals for insights.
+  - Analysis of price action across timeframes.
+
+## Daily Candle vs. Hourly Chart [25:13]
+
+- **Timeframe Comparison**:
+  - Distinction between daily candle and hourly chart.
+  - Significance of high and low points.
+
+## Breaking Daily Ranges [26:04]
+
+- **Daily Range Segmentation**:
+  - Segmentation of daily ranges.
+  - New day start at midnight in New York time zone.
+
+## Market Behavior [27:11]
+
+- **Liquidity Indicators**:
+  - Identifying equal highs and lows.
+  - Market movement example analysis.
+
+## Rebalancing Monday's Daily Range [28:27]
+
+- **Logical Range Adjustment**:
+  - Rebalancing daily range based on key levels.
+  - Importance of maintaining bearish bias.
+
+## Bearish Bias Strategy [29:02]
+
+- **Strategic Trading Approach**:
+  - Strategy for market rise expectation.
+  - Utilization of sell side liquidity for shorts.
+
+## Market Analysis Approach [29:50]
+
+- **Smart Money Perspective**:
+  - Encouragement to analyze markets like smart money.
+  - Strategic analysis versus random decisions.
+
+## Fraud and Its Effectiveness [30:14]
+
+- **Practical Fraud Application**:
+  - Fraud effectiveness despite being fake.
+  - Success through fraudulent practices.
+
+## Liquidity Pools [30:40]
+
+- **Liquidity Management**:
+  - Buy-side and sell-side liquidity pools.
+  - Premium to discount trading approach.
+
+## Time Frame Analysis [31:00]
+
+- **Detailed Time Analysis**:
+  - Transition to 15-minute time frame.
+  - Observing relative highs and liquidity.
+
+## Rebalancing and Market Movement [31:55]
+
+- **Market Movement Logic**:
+  - Rebalancing post significant drops.
+  - Logical levels and rebalancing importance.
+
+## Power Three Strategy [33:39]
+
+- **Trading Strategy Introduction**:
+  - Power Three strategy components.
+  - Fair value gap and market structure focus.
+
+## News Embargo and Market Behavior [34:06]
+
+- **Market Logic Analysis**:
+  - News embargo lifting impact.
+  - Bearish bias and market movements.
+
+## Algorithmic Trading Logic [35:02]
+
+- **Algorithmic Understanding**:
+  - Market behavior study for algorithmic actions.
+  - Rule-based trading strategies.
+
+## Manipulation Time [35:14]
+
+- **Market Manipulation Period**:
+  - Price spooling and misleading opportunities.
+  - Caution against chasing price movements.
+
+## Judah Swing/Fake Rally [35:43]
+
+- **Identifying Fake Rallies**:
+  - Recognizing fake rallies for profitable trades.
+  - Retail trader caution highlighted.
+
+## Displacement Price Swing [36:11]
+
+- **Price Swing Analysis**:
+  - Understanding price swing importance.
+  - Analyzing price swings for opportunities.
+
+## Equilibrium Level [36:43]
+
+- **Market Balance Point**:
+  - Significance of equilibrium level.
+  - Decision-making based on this level.
+
+## Fair Value Gap [38:24]
+
+- **Gap Identification**:
+  - Seeking specific price gaps for fair value.
+  - Avoiding unfavorable trading scenarios.
+
+## Premium Trading [39:00]
+
+- **Trading Strategy Focus**:
+  - Entering trades at premium levels.
+  - Avoiding impulsive decisions.
+
+## Risk Management [39:33]
+
+- **Risk Mitigation Importance**:
+  - Managing losses and realistic expectations.
+  - Risk management strategies emphasis.
+
+## Price Reading [40:09]
+
+- **Price Movement Interpretation**:
+  - Analyzing price movements for decisions.
+  - Effective price chart reading.
+
+## Displacement leg [40:24]
+
+- **Trading Concept Identification**:
+  - Identifying displacement leg for trading.
+  - Market movement insights.
+
+## Fair value gap [40:30]
+
+- **Market Valuation**:
+  - Fair value gap significance.
+  - Trading decision-making criteria.
+
+## Imbalance [41:13]
+
+- **Supply-Demand Disparity**:
+  - Imbalance impact on market movements.
+  - Trading opportunity indicators.
+
+## Twisting the rules [41:39]
+
+- **Alternative Trading Approaches**:
+  - Deviating from standard strategies.
+  - Exploring trading alternatives.
+
+## Stop loss [42:02]
+
+- **Risk Management Tool**:
+  - Stop loss definition and importance.
+  - Essential for limiting losses.
+
+## Stop placement [43:32]
+
+- **Strategic Stop Positioning**:
+  - Effective stop loss placement.
+  - Capital protection emphasis.
+
+## Swing high [43:35]
+
+- **Price Peak Identification**:
+  - Swing high definition and usage.
+  - Reference points for stop loss.
+
+## Micro account positions [44:00]
+
+- **Trading Account Flexibility**:
+  - Micro accounts for lower risk exposure.
+  - Suitable for smaller position sizes.
+
+## Undercapitalized trading [44:31]
+
+- **Risk Management Warning**:
+  - Risks of undercapitalization.
+  - Impact on trading success.
+
+## Moving stop loss [45:02]
+
+- **Dynamic Risk Management**:
+  - Adjusting stop loss for profit/loss control.
+  - Market condition-based stop movement.
+
+## Shift in structure [45:08]
+
+- **Market Trend Change**:
+  - Identifying significant price action changes.
+  - Stop loss adjustment importance.
+
+## Pattern Formation Frequency [45:32]
+
+- **Pattern Observations**:
+  - Frequency of pattern formations.
+  - Session-specific pattern observations.
+
+## Teaching Preferences Based on Session [45:57]
+
+- **Session-Based Teaching**:
+  - Focus on New York session advantages.
+  - Effective trading strategies emphasis.
+
+## Trading in Different Sessions [46:02]
+
+- **Sessional Trading Insights**:
+  - Asian session trading caution.
+  - Currency pair session movement variations.
+
+## Trading Illiquid Times [46:49]
+
+- **Market Liquidity Awareness**:
+  - Asian session liquidity challenges.
+  - Trading caution during illiquid times.
+
+## Challenges in Trading Commitment [47:03]
+
+- **Trader Commitment Struggles**:
+  - Highlighting trading dedication challenges.
+  - Effort and dedication importance.
+
+## Trading Algorithms and Time Zones [47:32]
+
+- **Algorithmic Trading Clarification**:
+  - Trading algorithm operations clarification.
+  - Time zone understanding importance.
+
+## Mentorship and Learning Approach [48:00]
+
+- **Learning Philosophy**:
+  - Evidence acceptance and learning encouragement.
+  - Positive learning approach advocacy.
+
+## Trading Setup Identification [48:22]
+
+- **Setup Identification Process**:
+  - Trading setup identification steps.
+  - Sequence of events in a trade setup.
+
+## Trading Timing and Order Filling [49:06]
+
+- **Order Timing Insights**:
+  - Limit order filling timing explanation.
+  - Order execution timing importance.
+
+## Market Behavior Analysis [49:38]
+
+- **Market Logic Understanding**:
+  - Market behavior and logic analysis.
+  - Critical thinking in trading decisions.
+
+## Understanding Markets [50:30]
+
+- **Market Perception Challenges**:
+  - Existing beliefs hindering new concept understanding.
+  - Need for logical explanations acceptance.
+
+## Control and Rigging of Markets [50:49]
+
+- **Market Control Awareness**:
+  - Market control and algorithm influence.
+  - Recognizing market dynamics.
+
+## Independence from Courses [51:11]
+
+- **Self-Sufficiency Emphasis**:
+  - Avoiding external course reliance.
+  - Distraction avoidance importance.
+
+## Simplicity and Focus [51:24]
+
+- **Trading Approach Clarity**:
+  - Simplified and focused trading strategy.
+  - Single approach effectiveness.
+
+## Complexity of Options [52:01]
+
+- **Strategy Selection Challenges**:
+  - Abundance of effective strategies challenge.
+  - Strategy selection difficulties.
+
+## Simplified Trading Approach [53:02]
+
+- **Simplicity Advocacy**:
+  - Simplified trading strategy focus.
+  - Single setup adherence importance.
+
+## Personalization and Success [54:24]
+
+- **Individual Success Factors**:
+  - Personal approach importance.
+  - Strategy execution impact.
+
+## Ease of Implementation [55:02]
+
+- **Implementation Assurance**:
+  - Teachings' straightforwardness assurance.
+  - Immediate application encouragement.
+
+## Mentorship Group Appreciation [55:16]
+
+- **Positive Response Recognition**:
+  - Mentorship group feedback acknowledgment.
+  - Simplified approach benefits recognition.
+
+## Simplified Trading Model [55:18]
+
+- **Model Development**:
+  - Introduction of a simplified trading model.
+  - Model designed for easy learning.
+
+## ICT Application [55:39]
+
+- **Model Application**:
+  - ICT application reference.
+  - Market movement prediction focus.
+
+## Difficulty and Clarity [56:02]
+
+- **Model Understanding Challenges**:
+  - Initial model complexity acknowledgment.
+  - Clarity attainment guidance.
+
+## Time Commitment [56:38]
+
+- **Learning Duration Recommendation**:
+  - Six-month study and testing recommendation.
+  - Phased study approach suggestion.
+
+## Confidence in Model [57:10]
+
+- **Model Assurance**:
+  - Confidence in model success.
+  - Simple, rule-based model description.
+
+## Composite Man and Market Dynamics [57:30]
+
+- **Market Influence Understanding**:
+  - Composite man concept introduction.
+  - Market liquidity impact emphasis.
+
+## Market Realities [57:58]
+
+- **Market Dynamics Acceptance**:
+  - Market favoring informed traders.
+  - Adaptation necessity for success.
+
+## Closing Remarks [58:09]
+
+- **Final Thoughts**:
+  - Safety reminder and market complexity hint.
+
+---
+
+This comprehensive document integrates all key concepts, strategies, and mentorship insights from the session, maintaining detailed information and chronological order for clear understanding and reference.
